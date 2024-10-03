@@ -29,21 +29,38 @@ if uploaded_file is not None:
     # Display dropdown for each column with dropdown menus for attributes inside
     st.subheader("Set Quality Scores for Each Column")
 
+    
     for column in columns:
         with st.expander(f"### Column: {column}"):
             if column in issue_confidence["column-issues"]:
-                col1, col2 = st.columns(2)  # Create two columns for horizontal layout
+                col1, col2, col3, col4 = st.columns(4)  # Create four columns for horizontal layout
 
                 with col1:
-                    for issue, confidence in issue_confidence["column-issues"][column].items():
-                        short_issue_name = issue.split(" ")[0]  # Use the first word (short name)
-                        select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                        st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
+                    issue = "Duplicated Values"
+                    short_issue_name = "Duplicate"
+                    confidence = issue_confidence["column-issues"][column].get(issue, 0)
+                    select_value = int(round(confidence * 4 + 1))
+                    st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
 
                 with col2:
-                    for issue, confidence in issue_confidence["cell-issues"][column].items():
-                        short_issue_name = issue.split(" ")[0]
-                        select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                        st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
+                    issue = "Outliers"
+                    short_issue_name = "Outliers"
+                    confidence = issue_confidence["column-issues"][column].get(issue, 0)
+                    select_value = int(round(confidence * 4 + 1))
+                    st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
+
+                with col3:
+                    issue = "Missing Values"
+                    short_issue_name = "Missing"
+                    confidence = issue_confidence["cell-issues"][column].get(issue, 0)
+                    select_value = int(round(confidence * 4 + 1))
+                    st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
+
+                with col4:
+                    issue = "Inconsistency"
+                    short_issue_name = "Inconsistency"
+                    confidence = issue_confidence["cell-issues"][column].get(issue, 0)
+                    select_value = int(round(confidence * 4 + 1))
+                    st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
 
 
