@@ -1,0 +1,3901 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Review Rating,Subscription Status,Payment Method,Discount Applied
+1,,Male,Blouse,Clothing,53,3.1,Yes,Credit Card,Yes
+2,19.0,Male,,Clothing,64,,Yes,Bank Transfer,Yes
+3,,,Jeans,Clothing,73,,Yes,Cash,Yes
+4,21.0,Male,Sandals,45,90,,Yes,PayPal,Yes
+5,45.0,,Blouse,Clothing,49,2.7,Yes,Cash,Yes
+6,1970-01-01 00:00:10,Male,Sneakers,Footwear,20,2.9,Yes,Venmo,Yes
+7,63.0,,Shirt,Clothing,85,3.2,Yes,Debit Card,Yes
+8,27.0,Male,Shorts,Clothing,34,3.2,Yes,Debit Card,Yes
+9,26.0,Male,Coat,Outerwear,97,,Yes,Venmo,Yes
+10,57.0,Male,Handbag,Accessories,31,,Yes,PayPal,Yes
+11,53.0,Male,Shoes,Footwear,34,4.1,Yes,Credit Card,Yes
+12,30.0,Male,,Clothing,68,,Yes,PayPal,Yes
+13,61.0,Male,Coat,Outerwear,72,,Yes,,Yes
+14,65.0,Male,Dress,Clothing,51,4.7,Yes,Debit Card,Yes
+15,Male,Male,Coat,Outerwear,53,,Yes,,Yes
+16,64.0,Male,Skirt,Clothing,81,,Yes,Credit Card,Yes
+17,25.0,Male,Sunglasses,Accessories,36,4.1,Yes,Venmo,Yes
+18,53.0,Male,Dress,Clothing,38,,Yes,Debit Card,Yes
+19,52.0,Male,Sweater,Clothing,48,4.6,Yes,,Yes
+20,,Male,Pants,Clothing,90,3.3,Yes,,Yes
+21,,,Pants,Clothing,51,2.8,Yes,Credit Card,Yes
+22,31.0,Male,Pants,Clothing,62,4.1,Yes,Credit Card,Yes
+23,,,Pants,Clothing,37,3.2,Yes,Cash,Yes
+24,31.0,Male,Pants,Clothing,88,4.4,Yes,Credit Card,Yes
+25,18.0,Male,Jacket,Outerwear,22,,Yes,Cash,Yes
+26,18.0,Male,Hoodie,Clothing,25,,Yes,Bank Transfer,Yes
+27,38.0,Male,,Accessories,20,3.6,Yes,Cash,Yes
+28,56.0,Male,Shorts,Clothing,56,5.0,Yes,Debit Card,Yes
+29,54.0,Male,Handbag,Accessories,94,4.4,Yes,Debit Card,Yes
+30,31.0,Male,Dress,Clothing,48,,Yes,Venmo,Yes
+31,57.0,Male,Jewelry,Accessories,31,,Yes,,Yes
+32,33.0,Male,,Clothing,79,4.7,Yes,Venmo,Yes
+33,36.0,,Jacket,Outerwear,67,4.9,Yes,Bank Transfer,Yes
+34,54.0,Male,Pants,Clothing,38,,Yes,Venmo,Yes
+35,36.0,,T-shirt,Clothing,91,4.6,Yes,Debit Card,Yes
+36,54.0,Male,Blouse,Clothing,33,4.0,Yes,Bank Transfer,Yes
+37,35.0,Male,T-shirt,Clothing,69,4.6,Yes,,Yes
+38,35.0,Male,Jeans,Clothing,45,2.8,Yes,Debit Card,Yes
+39,29.0,,Dress,Clothing,37,3.7,Yes,Debit Card,Yes
+40,70.0,Male,Pants,Clothing,60,4.2,Yes,Bank Transfer,Yes
+41,69.0,Male,Handbag,Accessories,76,4.6,Yes,PayPal,Yes
+42,67.0,Male,Scarf,Accessories,39,,Yes,Cash,Yes
+43,,Male,Coat,Outerwear,100,,Yes,Bank Transfer,Yes
+44,25.0,Male,,Accessories,69,3.7,Yes,PayPal,Yes
+45,39.0,,Hat,Accessories,53,4.6,Yes,Bank Transfer,Yes
+46,50.0,,Socks,Clothing,21,,Yes,Venmo,Yes
+47,57.0,,Shirt,Clothing,43,2.9,Yes,,Yes
+48,55.0,Male,Jewelry,Accessories,54,,Yes,Debit Card,Yes
+49,42.0,Male,,Clothing,55,,Yes,Debit Card,Yes
+50,68.0,Male,Hoodie,Clothing,30,4.6,Yes,Bank Transfer,Yes
+51,49.0,Male,Blouse,Clothing,28,3.7,Yes,,Yes
+52,59.0,Male,Skirt,Clothing,59,,Yes,PayPal,Yes
+53,42.0,Male,T-shirt,Clothing,20,2.6,Yes,Credit Card,Yes
+54,29.0,Male,Skirt,Clothing,24,3.9,Yes,Debit Card,Yes
+55,47.0,Male,Coat,Outerwear,94,4.2,Yes,,Yes
+56,40.0,Male,Jacket,Outerwear,28,3.0,Yes,Venmo,Yes
+57,41.0,Male,Backpack,Accessories,73,4.7,Yes,PayPal,Yes
+58,,Male,,Outerwear,64,4.4,Yes,PayPal,Yes
+59,69.0,Male,Hoodie,Clothing,54,4.2,Yes,,Yes
+60,63.0,Male,Belt,Accessories,79,4.6,Yes,,Yes
+61,50.0,Male,,Clothing,37,4.0,Yes,Credit Card,Yes
+62,55.0,,Scarf,Accessories,68,4.7,Yes,Bank Transfer,Yes
+63,30.0,Male,Sneakers,Footwear,21,3.8,Yes,,Yes
+64,33.0,Male,Sunglasses,Accessories,79,2.7,Yes,Credit Card,Yes
+65,65.0,Male,Boots,Footwear,83,4.8,Yes,,Yes
+66,65.0,Male,Backpack,Accessories,36,4.8,Yes,Credit Card,Yes
+67,31.0,Male,Blouse,Clothing,94,4.7,Yes,Bank Transfer,Yes
+68,45.0,Male,Coat,Outerwear,33,4.4,Yes,,Yes
+69,57.0,Male,Handbag,Accessories,46,3.9,Yes,Credit Card,Yes
+70,48.0,,Belt,Accessories,70,4.4,Yes,Credit Card,Yes
+71,22.0,Male,Belt,Accessories,29,4.2,Yes,Credit Card,Yes
+72,36.0,Male,Dress,Clothing,48,2.9,Yes,Debit Card,Yes
+73,18.0,Male,,Clothing,26,2.9,Yes,Debit Card,Yes
+74,48.0,,Pants,Clothing,85,,Yes,,Yes
+75,49.0,Male,Gloves,Accessories,58,4.5,Yes,PayPal,Yes
+76,64.0,Male,Scarf,Accessories,85,,Yes,Debit Card,Yes
+77,50.0,Male,,Accessories,43,4.2,Yes,Bank Transfer,Yes
+78,22.0,Male,,Clothing,53,3.3,Yes,Debit Card,Yes
+79,50.0,Male,Skirt,Clothing,91,4.7,Yes,Venmo,Yes
+80,38.0,Male,Jacket,Outerwear,96,,Yes,Bank Transfer,Yes
+81,19.0,,Sandals,Footwear,72,,Yes,Credit Card,Yes
+82,,Male,Shoes,Footwear,96,,Yes,PayPal,Yes
+83,19.0,Male,Pants,Clothing,28,,Yes,Bank Transfer,Yes
+84,36.0,Male,,Clothing,40,,Yes,,Yes
+85,52.0,,,Outerwear,32,4.4,Yes,Cash,Yes
+86,53.0,Male,Sunglasses,Accessories,95,4.5,Yes,Credit Card,Yes
+87,24.0,Male,Hoodie,Clothing,41,3.7,Yes,Venmo,Yes
+88,52.0,Male,Shoes,Footwear,53,3.7,Yes,Debit Card,Yes
+89,33.0,,T-shirt,Clothing,47,3.5,Yes,Credit Card,Yes
+90,47.0,Male,,Outerwear,83,3.6,Yes,,Yes
+91,25.0,,Hat,Accessories,48,2.9,Yes,Venmo,Yes
+92,44.0,,Scarf,Accessories,99,,Yes,PayPal,Yes
+93,61.0,Male,Jacket,Outerwear,87,,Yes,Cash,Yes
+94,37.0,Male,Sweater,Clothing,62,4.5,Yes,PayPal,Yes
+95,58.0,Male,Skirt,Clothing,76,4.6,Yes,Bank Transfer,Yes
+96,37.0,Male,,Footwear,100,3.8,Yes,,Yes
+97,32.0,Male,,Accessories,73,3.6,Yes,Venmo,Yes
+98,21.0,Male,Shoes,Footwear,92,,Yes,PayPal,Yes
+99,20.0,Male,Jeans,Clothing,67,2.6,Yes,Cash,Yes
+100,26.0,Male,Hoodie,Clothing,40,3.7,Yes,,Yes
+101,62.0,Male,Sunglasses,Accessories,98,2.7,Yes,PayPal,Yes
+102,27.0,,,Outerwear,85,4.6,Yes,Venmo,Yes
+103,51.0,,,Clothing,67,,Yes,Credit Card,Yes
+104,54.0,Male,Boots,Footwear,89,4.0,Yes,Debit Card,Yes
+105,55.0,Male,,Accessories,24,,Yes,Bank Transfer,Yes
+106,69.0,Male,Backpack,Accessories,96,,Yes,Bank Transfer,Yes
+107,250,,Jacket,Outerwear,35,3.7,Yes,Cash,Yes
+108,28.0,Male,Sneakers,Footwear,67,3.1,Yes,Cash,Yes
+109,70.0,Male,Socks,Clothing,79,,Yes,Bank Transfer,Yes
+110,58.0,Male,T-shirt,Clothing,85,2.6,Yes,,Yes
+111,56.0,Male,Backpack,Accessories,26,,Yes,,Yes
+112,26.0,Male,Belt,Accessories,75,,Yes,PayPal,Yes
+113,37.0,Male,Gloves,Accessories,65,4.3,Yes,Credit Card,Yes
+114,44.0,Male,Hat,Accessories,54,3.1,Yes,,Yes
+115,70.0,Male,Coat,Outerwear,95,3.7,Yes,,Yes
+116,,Male,Skirt,Clothing,94,,Yes,Cash,Yes
+117,,,,Footwear,86,3.4,Yes,PayPal,Yes
+118,50.0,Male,Sandals,Footwear,32,,Yes,Bank Transfer,Yes
+119,50.0,Male,Sweater,Clothing,45,4.8,Yes,Bank Transfer,Yes
+120,38.0,,Coat,Outerwear,76,4.3,Yes,Debit Card,Yes
+121,64.0,Male,,Accessories,84,4.0,Yes,PayPal,Yes
+122,19.0,Male,Shorts,Clothing,72,4.2,Yes,Cash,Yes
+123,40.0,Male,Backpack,Accessories,40,,Yes,Credit Card,Yes
+124,57.0,Male,,Clothing,89,3.1,Yes,Debit Card,Yes
+125,44.0,Male,Sweater,Clothing,86,3.1,Yes,PayPal,Yes
+126,49.0,,Shorts,Clothing,54,3.6,Yes,Cash,Yes
+127,43.0,Male,Shorts,Clothing,36,3.9,Yes,Bank Transfer,Yes
+128,,Male,Sweater,Clothing,89,4.8,Yes,Venmo,Yes
+129,20.0,,Scarf,Accessories,32,4.7,Yes,Venmo,Yes
+130,24.0,Male,Dress,Clothing,67,4.2,Yes,,Yes
+131,44.0,Male,Scarf,Accessories,39,3.7,Yes,,Yes
+132,28.0,Male,,Clothing,29,,Yes,,Yes
+133,30.0,,Backpack,Accessories,58,4.7,Yes,,Yes
+134,52.0,Male,Sweater,Clothing,65,2.5,Yes,,Yes
+135,43.0,,,Accessories,94,4.9,Yes,,Yes
+136,43.0,Male,Sandals,Footwear,81,4.1,Yes,PayPal,Yes
+137,39.0,,Blouse,Clothing,86,3.3,Yes,Credit Card,Yes
+138,,Male,,Footwear,43,,Yes,,Yes
+139,68.0,Male,,Clothing,29,4.4,Yes,Cash,Yes
+140,49.0,Male,,Outerwear,95,,Yes,,Yes
+141,63.0,Male,Shirt,Clothing,28,3.9,Yes,Bank Transfer,Yes
+142,56.0,Male,,Accessories,46,4.9,Yes,PayPal,Yes
+143,37.0,Male,Jacket,Outerwear,58,3.1,Yes,PayPal,Yes
+144,30.0,,Coat,Outerwear,48,2.7,Yes,,Yes
+145,19.0,,Shoes,Footwear,43,3.2,Yes,Credit Card,Yes
+146,24.0,Male,,Accessories,95,4.5,Yes,Venmo,Yes
+147,52.0,Male,Skirt,Clothing,30,,Yes,,Yes
+148,63.0,Male,,Footwear,64,3.5,Yes,Bank Transfer,Yes
+149,37.0,Male,Gloves,Accessories,90,,Yes,PayPal,Yes
+150,38.0,,Pants,Clothing,76,3.2,Yes,Venmo,Yes
+151,,Male,,Footwear,96,,Yes,,Yes
+152,28.0,,Sunglasses,Accessories,47,4.5,Yes,Debit Card,Yes
+153,30.0,Male,Shirt,Clothing,85,4.3,Yes,PayPal,Yes
+154,69.0,Male,Hoodie,Clothing,55,3.2,Yes,,Yes
+155,41.0,Male,Dress,Clothing,98,,Yes,Debit Card,Yes
+156,,Male,Socks,Clothing,77,4.3,Yes,Cash,Yes
+157,35.0,Male,Shorts,Clothing,26,4.0,Yes,Venmo,Yes
+158,36.0,Male,,Accessories,68,3.0,Yes,,Yes
+159,,Male,Shirt,Clothing,73,4.1,Yes,,Yes
+160,58.0,Male,,Accessories,27,,Yes,Debit Card,Yes
+161,27.0,Male,Gloves,Accessories,23,,Yes,Bank Transfer,Yes
+162,65.0,Male,Backpack,Accessories,49,3.0,Yes,,Yes
+163,54.0,Male,Sunglasses,Accessories,74,,Yes,Credit Card,Yes
+164,54.0,Male,Skirt,Clothing,67,3.4,Yes,PayPal,Yes
+165,59.0,Male,Handbag,Accessories,65,2.6,Yes,,Yes
+166,42.0,Male,Handbag,Accessories,60,2.8,Yes,Credit Card,Yes
+167,46.0,Male,Sneakers,Footwear,31,4.0,Yes,Cash,Yes
+168,,,Gloves,Accessories,27,4.0,Yes,Venmo,Yes
+169,34.0,Male,Shoes,Footwear,80,3.0,Yes,Bank Transfer,Yes
+170,27.0,Male,Jacket,Outerwear,30,3.3,Yes,,Yes
+171,52.0,Male,Shirt,Clothing,25,2.6,Yes,Venmo,Yes
+172,29.0,Male,Shorts,Clothing,35,,Yes,Debit Card,Yes
+173,54.0,Male,,Accessories,67,3.9,Yes,,Yes
+174,25.0,Male,Hat,Accessories,46,3.4,Yes,,Yes
+175,41.0,Male,Shoes,Footwear,35,3.5,Yes,,Yes
+176,53.0,Male,Coat,Outerwear,86,,Yes,Debit Card,Yes
+177,53.0,Male,Backpack,Accessories,81,2.7,Yes,Bank Transfer,Yes
+178,21.0,,Hoodie,Clothing,42,,Yes,Debit Card,Yes
+179,61.0,,Skirt,Clothing,43,4.3,Yes,,Yes
+180,64.0,Male,Boots,Footwear,31,4.9,Yes,Debit Card,Yes
+181,,Male,Sandals,Footwear,81,3.3,Yes,Cash,Yes
+182,32.0,Male,Pants,Clothing,61,4.7,Yes,,Yes
+183,38.0,Male,Gloves,Accessories,96,,Yes,Venmo,Yes
+184,58.0,Male,,Clothing,29,3.6,Yes,Bank Transfer,Yes
+185,32.0,Male,Sneakers,Footwear,33,,Yes,Cash,Yes
+186,46.0,Male,T-shirt,Clothing,32,,Yes,,Yes
+187,39.0,Male,,Accessories,56,,Yes,Debit Card,Yes
+188,19.0,Male,Shoes,Footwear,94,3.3,Yes,Credit Card,Yes
+189,50.0,Male,Hoodie,Clothing,53,3.1,Yes,Credit Card,Yes
+190,36.0,Male,Blouse,Clothing,82,,Yes,Venmo,Yes
+191,65.0,Male,Coat,Outerwear,70,,Yes,Venmo,Yes
+192,64.0,Male,Hat,Accessories,76,,Yes,Credit Card,Yes
+193,46.0,Male,Shoes,Footwear,29,2.9,Yes,Venmo,Yes
+194,36.0,Male,Belt,Accessories,100,,Yes,PayPal,Yes
+195,51.0,Male,Backpack,Accessories,94,3.1,Yes,Venmo,Yes
+196,51.0,Male,Jacket,Outerwear,25,,Yes,Credit Card,Yes
+197,38.0,Male,Boots,Footwear,88,,Yes,Cash,Yes
+198,59.0,Male,,Accessories,78,3.2,Yes,Debit Card,Yes
+199,57.0,Male,Jewelry,Accessories,45,4.8,Yes,Cash,Yes
+200,54.0,Male,Hat,Accessories,73,3.8,Yes,Debit Card,Yes
+201,25.0,Male,Dress,Clothing,61,3.3,Yes,PayPal,Yes
+202,69.0,Male,Blouse,Clothing,22,4.3,Yes,,Yes
+203,57.0,Male,Hat,Accessories,38,2.7,Yes,,Yes
+204,70.0,,Scarf,Accessories,38,,Yes,PayPal,Yes
+205,24.0,Male,Sneakers,Footwear,100,,Yes,,Yes
+206,67.0,Male,Shirt,Clothing,64,3.0,Yes,Bank Transfer,Yes
+207,24.0,Male,T-shirt,Clothing,55,,Yes,Venmo,Yes
+208,62.0,Male,Gloves,Accessories,91,2.9,Yes,Venmo,Yes
+209,57.0,Male,Skirt,Clothing,38,,Yes,Cash,Yes
+210,55.0,,Sandals,Footwear,97,,Yes,Bank Transfer,Yes
+211,45.0,Male,Jacket,Outerwear,22,3.0,Yes,Venmo,Yes
+212,69.0,Male,Skirt,Clothing,92,4.2,Yes,Venmo,Yes
+213,67.0,Male,Handbag,Accessories,84,4.2,Yes,Venmo,Yes
+214,30.0,,Handbag,Accessories,93,4.4,Yes,Cash,Yes
+215,24.0,Male,Jacket,Outerwear,50,,Yes,Cash,Yes
+216,62.0,Male,Scarf,Accessories,64,2.8,Yes,,Yes
+217,43.0,Male,Shorts,Clothing,61,3.7,Yes,Cash,Yes
+218,35.0,Male,Sunglasses,Accessories,48,,Yes,Venmo,Yes
+219,28.0,,T-shirt,Clothing,45,,Yes,,Yes
+220,32.0,Male,Belt,Accessories,88,3.0,Yes,Venmo,Yes
+221,39.0,Male,Sneakers,Footwear,57,3.7,Yes,Debit Card,Yes
+222,28.0,Male,Hat,Accessories,68,4.4,Yes,Debit Card,Yes
+223,47.0,Male,Gloves,Accessories,94,,Yes,Venmo,Yes
+224,20.0,Male,Pants,Clothing,41,,Yes,Venmo,Yes
+225,63.0,Male,Socks,Clothing,83,2.9,Yes,PayPal,Yes
+226,25.0,Male,Jacket,Outerwear,22,,Yes,Debit Card,Yes
+227,,Male,,Footwear,74,3.3,Yes,Cash,Yes
+228,50.0,Male,,Clothing,90,,Yes,Venmo,Yes
+229,18.0,Male,Socks,Clothing,79,2.9,Yes,,Yes
+230,70.0,Male,Sandals,Footwear,28,,Yes,Cash,Yes
+231,66.0,Male,Scarf,Accessories,88,4.1,Yes,,Yes
+232,28.0,Male,Blouse,Clothing,26,,Yes,Bank Transfer,Yes
+233,54.0,Male,Jewelry,Accessories,27,4.2,Yes,Bank Transfer,Yes
+234,19.0,Male,Sweater,Clothing,83,4.5,Yes,PayPal,Yes
+235,20.0,Male,Gloves,Accessories,39,3.7,Yes,,Yes
+236,43.0,,Sunglasses,Accessories,89,3.7,Yes,Cash,Yes
+237,38.0,Male,Coat,Outerwear,68,3.4,Yes,,Yes
+238,50.0,Male,Dress,Clothing,90,,Yes,Venmo,Yes
+239,64.0,Male,Skirt,Clothing,34,,Yes,,Yes
+240,49.0,Male,Pants,Clothing,51,2.9,Yes,PayPal,Yes
+241,47.0,Male,Sweater,Clothing,45,3.5,Yes,Credit Card,Yes
+242,36.0,,Hoodie,Clothing,88,4.1,Yes,PayPal,Yes
+243,55.0,Male,Coat,Outerwear,85,4.3,Yes,Credit Card,Yes
+244,25.0,Male,,Accessories,100,2.8,Yes,Credit Card,Yes
+245,53.0,Male,Belt,Accessories,42,,Yes,Debit Card,Yes
+246,49.0,,Sandals,Footwear,53,3.3,Yes,Cash,Yes
+247,35.0,Male,Sunglasses,Accessories,86,3.2,Yes,Credit Card,Yes
+248,29.0,Male,Sweater,Clothing,66,4.4,Yes,,Yes
+249,47.0,Male,Belt,Accessories,100,4.8,Yes,,Yes
+250,53.0,Male,Handbag,Accessories,47,4.2,Yes,,Yes
+251,33.0,,Skirt,Clothing,25,4.0,Yes,Debit Card,Yes
+252,21.0,Male,Handbag,Accessories,51,2.5,Yes,,Yes
+253,32.0,Male,Shorts,Clothing,41,,Yes,,Yes
+254,52.0,Male,Boots,Footwear,73,4.9,Yes,PayPal,Yes
+255,67.0,Male,Sunglasses,Accessories,42,3.5,Yes,Credit Card,Yes
+256,43.0,,Scarf,Accessories,20,4.2,Yes,,Yes
+257,58.0,Male,Jewelry,Accessories,30,4.7,Yes,,Yes
+258,20.0,Male,Handbag,Accessories,53,4.5,Yes,PayPal,Yes
+259,61.0,Male,Gloves,Accessories,74,2.8,Yes,,Yes
+260,,Male,Jeans,Clothing,57,2.9,Yes,Credit Card,Yes
+261,38.0,Male,Hat,Accessories,57,3.2,Yes,Bank Transfer,Yes
+262,21.0,Male,Jeans,Clothing,77,4.9,Yes,,Yes
+263,37.0,Male,Pants,Clothing,40,3.7,Yes,Cash,Yes
+264,27.0,Male,Shorts,Clothing,46,4.3,Yes,,Yes
+265,36.0,Male,Pants,Clothing,78,3.9,Yes,Venmo,Yes
+266,32.0,Male,,Accessories,59,3.2,Yes,,Yes
+267,51.0,Male,Jewelry,Accessories,75,3.1,Yes,Cash,Yes
+268,64.0,,Sweater,Clothing,54,3.9,Yes,Venmo,Yes
+269,68.0,,Shoes,Footwear,42,2.6,Yes,,Yes
+270,68.0,Male,Blouse,Clothing,44,,Yes,PayPal,Yes
+271,33.0,,Jeans,Clothing,52,4.6,Yes,Debit Card,Yes
+272,65.0,Male,Sunglasses,Accessories,69,4.6,Yes,,Yes
+273,48.0,Male,Jewelry,Accessories,26,4.4,Yes,PayPal,Yes
+274,69.0,Male,Coat,Outerwear,33,4.2,Yes,Cash,Yes
+275,59.0,,Jewelry,Accessories,32,3.0,Yes,Credit Card,Yes
+276,,,Backpack,Accessories,85,4.0,Yes,Debit Card,Yes
+277,25.0,,Skirt,Clothing,30,3.5,Yes,,Yes
+278,29.0,Male,,Clothing,29,3.0,Yes,Credit Card,Yes
+279,57.0,,Sweater,Clothing,95,3.7,Yes,Bank Transfer,Yes
+280,,Male,Sneakers,Footwear,69,,Yes,,Yes
+281,45.0,Male,,Footwear,69,4.2,Yes,Debit Card,Yes
+282,38.0,Male,,Accessories,61,2.5,Yes,Bank Transfer,Yes
+283,,Male,Skirt,Clothing,94,3.0,Yes,,Yes
+284,32.0,Male,,Clothing,30,3.2,Yes,Debit Card,Yes
+285,63.0,Male,Skirt,Clothing,45,,Yes,PayPal,Yes
+286,29.0,Male,Handbag,Accessories,39,,Yes,,Yes
+287,27.0,Male,Jewelry,Accessories,51,2.6,Yes,Cash,Yes
+288,56.0,Male,Scarf,Accessories,37,,Yes,,Yes
+289,30.0,Male,,Clothing,62,3.7,Yes,Credit Card,Yes
+290,49.0,Male,Coat,Outerwear,85,4.5,Yes,,Yes
+291,58.0,Male,T-shirt,Clothing,33,,Yes,Bank Transfer,Yes
+292,57.0,Male,Dress,Clothing,26,3.3,Yes,Credit Card,Yes
+293,60.0,Male,Shoes,Footwear,99,,Yes,,Yes
+294,69.0,Male,,Accessories,39,2.7,Yes,,Yes
+295,,Male,Skirt,Clothing,20,4.6,Yes,Cash,Yes
+296,53.0,Male,Sunglasses,Accessories,42,,Yes,Venmo,Yes
+297,25.0,Male,Sandals,Footwear,74,4.8,Yes,PayPal,Yes
+298,48.0,Male,Shoes,Footwear,26,,Yes,Bank Transfer,Yes
+299,69.0,Male,T-shirt,Clothing,53,,Yes,Cash,Yes
+300,25.0,Male,Sneakers,Footwear,80,3.2,Yes,,Yes
+301,29.0,Male,Hat,Accessories,98,,Yes,Cash,Yes
+302,46.0,,Skirt,Clothing,95,3.8,Yes,,Yes
+303,37.0,Male,Sweater,Clothing,44,,Yes,Venmo,Yes
+304,20.0,,Sandals,Footwear,60,3.3,Yes,Cash,Yes
+305,40.0,Male,Dress,Clothing,84,3.4,Yes,Venmo,Yes
+306,60.0,,Sweater,Clothing,59,,Yes,Debit Card,Yes
+307,26.0,Male,Jacket,Outerwear,49,3.6,Yes,Debit Card,Yes
+308,29.0,,Gloves,Accessories,32,3.2,Yes,Cash,Yes
+309,66.0,Male,Handbag,Accessories,29,,Yes,,Yes
+310,66.0,Male,Dress,Clothing,22,4.5,Yes,Bank Transfer,Yes
+311,56.0,Male,Pants,Clothing,85,,Yes,,Yes
+312,69.0,Male,Jeans,Clothing,52,4.1,Yes,,Yes
+313,38.0,,Pants,Clothing,89,3.4,Yes,,Yes
+314,42.0,,,Clothing,77,3.7,Yes,PayPal,Yes
+315,30.0,Male,Pants,Clothing,24,3.3,Yes,,Yes
+316,66.0,Male,Jewelry,Accessories,24,,Yes,Venmo,Yes
+317,36.0,Male,Handbag,Accessories,22,,Yes,Bank Transfer,Yes
+318,,Male,,Clothing,82,4.3,Yes,Bank Transfer,Yes
+319,45.0,Male,Backpack,Accessories,67,,Yes,,Yes
+320,47.0,Male,Shorts,Clothing,74,2.6,Yes,Venmo,Yes
+321,66.0,Male,Jewelry,Accessories,72,4.9,Yes,PayPal,Yes
+322,41.0,Male,Sneakers,Footwear,36,4.7,Yes,Credit Card,Yes
+323,41.0,,Belt,Accessories,95,3.0,Yes,Credit Card,Yes
+324,66.0,,Hoodie,Clothing,78,3.5,Yes,Venmo,Yes
+325,37.0,Male,Shirt,Clothing,82,,Yes,Credit Card,Yes
+326,70.0,Male,Pants,Clothing,70,,Yes,Debit Card,Yes
+327,62.0,Male,,Accessories,41,3.2,Yes,Cash,Yes
+328,61.0,Male,Coat,Outerwear,42,3.1,Yes,PayPal,Yes
+329,48.0,Male,Coat,Outerwear,50,2.8,Yes,,Yes
+330,70.0,Male,Socks,Clothing,31,2.9,Yes,,Yes
+331,46.0,Male,Sweater,Clothing,51,,Yes,Bank Transfer,Yes
+332,31.0,Male,Shirt,Clothing,98,3.3,Yes,Credit Card,Yes
+333,,Male,Shirt,Clothing,86,2.8,Yes,Cash,Yes
+334,39.0,,Sweater,Clothing,64,4.5,Yes,Cash,Yes
+335,41.0,Male,Blouse,Clothing,46,2.6,Yes,,Yes
+336,,,Sweater,Clothing,85,3.7,Yes,,Yes
+337,,Male,Hat,Accessories,81,4.4,Yes,,Yes
+338,,Male,Sweater,Clothing,59,,Yes,,Yes
+339,69.0,Male,Hoodie,Clothing,79,3.5,Yes,Venmo,Yes
+340,40.0,Male,Shorts,Clothing,33,,Yes,,Yes
+341,40.0,Male,,Clothing,47,3.5,Yes,Cash,Yes
+342,20.0,,,Accessories,20,4.6,Yes,,Yes
+343,64.0,Male,Coat,Outerwear,36,,Yes,Bank Transfer,Yes
+344,27.0,Male,Sandals,Footwear,39,4.4,Yes,,Yes
+345,24.0,Male,Skirt,Clothing,71,4.0,Yes,PayPal,Yes
+346,,Male,Shoes,Footwear,59,4.4,Yes,Cash,Yes
+347,49.0,Male,Jeans,Clothing,50,4.7,Yes,,Yes
+348,36.0,Male,Sandals,Footwear,41,3.9,Yes,Credit Card,Yes
+349,56.0,Male,Blouse,Clothing,59,2.7,Yes,Bank Transfer,Yes
+350,37.0,,Hat,Accessories,87,,Yes,Cash,Yes
+351,42.0,Male,Sweater,Clothing,68,2.6,Yes,Venmo,Yes
+352,28.0,Male,Skirt,Clothing,90,3.9,Yes,Cash,Yes
+353,27.0,Male,Jeans,Clothing,71,4.9,Yes,Venmo,Yes
+354,,Male,Sneakers,Footwear,64,4.1,Yes,Credit Card,Yes
+355,58.0,Male,Jewelry,Accessories,76,3.0,Yes,PayPal,Yes
+356,37.0,Male,Jewelry,Accessories,42,,Yes,,Yes
+357,56.0,Male,Pants,Clothing,80,3.8,Yes,,Yes
+358,18.0,Male,Belt,Accessories,56,4.0,Yes,Bank Transfer,Yes
+359,48.0,Male,Hat,Accessories,25,3.6,Yes,,Yes
+360,31.0,,Sneakers,Footwear,74,3.0,Yes,Debit Card,Yes
+361,51.0,Male,Pants,Clothing,30,3.0,Yes,Bank Transfer,Yes
+362,65.0,Male,T-shirt,Clothing,96,,Yes,Bank Transfer,Yes
+363,53.0,,Sneakers,Footwear,64,,Yes,,Yes
+364,55.0,Male,Shorts,Clothing,88,3.1,Yes,Cash,Yes
+365,,Male,Shoes,Footwear,88,3.0,Yes,Debit Card,Yes
+366,55.0,Male,Gloves,Accessories,88,3.7,Yes,PayPal,Yes
+367,64.0,,Socks,Clothing,36,3.5,Yes,Bank Transfer,Yes
+368,52.0,Male,Dress,Clothing,40,2.8,Yes,Credit Card,Yes
+369,,Male,Handbag,Accessories,39,4.5,Yes,Venmo,Yes
+370,38.0,Male,,Accessories,40,,Yes,Cash,Yes
+371,59.0,Male,Scarf,Accessories,34,,Yes,Credit Card,Yes
+372,27.0,Male,Sneakers,Footwear,83,3.2,Yes,Bank Transfer,Yes
+373,24.0,Male,Sweater,Clothing,85,3.7,Yes,Credit Card,Yes
+374,23.0,Male,Coat,Outerwear,27,4.6,Yes,Bank Transfer,Yes
+375,69.0,Male,Jewelry,Accessories,78,5.0,Yes,Bank Transfer,Yes
+376,59.0,Male,Sunglasses,Accessories,32,,Yes,Debit Card,Yes
+377,51.0,Male,,Footwear,51,4.9,Yes,PayPal,Yes
+378,,Male,Scarf,Accessories,32,,Yes,Debit Card,Yes
+379,54.0,Male,Dress,Clothing,62,4.9,Yes,,Yes
+380,32.0,Male,T-shirt,Clothing,29,,Yes,Debit Card,Yes
+381,39.0,Male,Backpack,Accessories,69,,Yes,,Yes
+382,66.0,Male,Jewelry,Accessories,25,,Yes,Debit Card,Yes
+383,28.0,Male,Jeans,Clothing,76,,Yes,PayPal,Yes
+384,50.0,Male,Sunglasses,Accessories,77,2.9,Yes,Credit Card,Yes
+385,,Male,Sweater,Clothing,33,4.5,Yes,Credit Card,Yes
+386,67.0,Male,Shorts,Clothing,93,2.7,Yes,Credit Card,Yes
+387,,,Jewelry,Accessories,39,3.4,Yes,,Yes
+388,45.0,,Coat,Outerwear,93,4.6,Yes,Cash,Yes
+389,,Male,Handbag,Accessories,82,2.7,Yes,Credit Card,Yes
+390,,Male,Boots,Footwear,42,4.2,Yes,Venmo,Yes
+391,25.0,Male,Gloves,Accessories,71,3.2,Yes,Debit Card,Yes
+392,37.0,,,Clothing,86,4.8,Yes,Cash,Yes
+393,26.0,,T-shirt,Clothing,82,,Yes,PayPal,Yes
+394,33.0,,Shoes,Footwear,65,4.2,Yes,Credit Card,Yes
+395,43.0,Male,Scarf,Accessories,29,4.8,Yes,,Yes
+396,37.0,Male,Sneakers,Footwear,65,,Yes,Cash,Yes
+397,,,Dress,Clothing,88,3.9,Yes,,Yes
+398,22.0,,Belt,Accessories,46,3.0,Yes,Venmo,Yes
+399,20.0,Male,,Footwear,67,4.6,Yes,PayPal,Yes
+400,60.0,Male,Scarf,Accessories,35,3.5,Yes,Credit Card,Yes
+401,,Male,Boots,Footwear,66,,Yes,Venmo,Yes
+402,43.0,Male,T-shirt,Clothing,91,4.8,Yes,Bank Transfer,Yes
+403,,Male,,Accessories,78,3.0,Yes,PayPal,Yes
+404,19.0,Male,Sneakers,Footwear,45,4.5,Yes,Credit Card,Yes
+405,35.0,Male,T-shirt,Clothing,93,4.8,Yes,Credit Card,Yes
+406,41.0,Male,Jeans,Clothing,74,,Yes,,Yes
+407,52.0,Male,Gloves,Accessories,55,4.6,Yes,,Yes
+408,45.0,Male,Hoodie,Clothing,76,3.1,Yes,Debit Card,Yes
+409,34.0,Male,Sneakers,Footwear,66,3.4,Yes,Credit Card,Yes
+410,35.0,Male,Shorts,Clothing,51,3.3,Yes,Debit Card,Yes
+411,29.0,Male,Sweater,Clothing,26,,Yes,Debit Card,Yes
+412,59.0,Male,Jeans,Clothing,29,2.8,Yes,Cash,Yes
+413,24.0,,Jacket,Outerwear,74,3.1,Yes,Venmo,Yes
+414,70.0,Male,Jewelry,Accessories,99,4.6,Yes,Debit Card,Yes
+415,29.0,Male,Backpack,Accessories,88,2.6,Yes,Bank Transfer,Yes
+416,67.0,,,Outerwear,31,2.6,Yes,,Yes
+417,,Male,Belt,Accessories,55,,Yes,Bank Transfer,Yes
+418,23.0,,Sandals,Footwear,81,4.5,Yes,PayPal,Yes
+419,18.0,Male,Sweater,Clothing,73,3.0,Yes,,Yes
+420,53.0,Male,,Clothing,91,,Yes,Credit Card,Yes
+421,32.0,Male,,Clothing,54,3.8,Yes,,Yes
+422,38.0,Male,Shirt,Clothing,40,3.5,Yes,,Yes
+423,47.0,Male,,Clothing,59,3.1,Yes,Bank Transfer,Yes
+424,46.0,Male,Scarf,Accessories,26,3.0,Yes,Bank Transfer,Yes
+425,66.0,Male,Sweater,Clothing,23,4.3,Yes,Credit Card,Yes
+426,40.0,,Jeans,Clothing,87,3.3,Yes,,Yes
+427,43.0,Male,Pants,Clothing,71,,Yes,Cash,Yes
+428,58.0,Male,,Accessories,91,4.5,Yes,Cash,Yes
+429,21.0,Male,Coat,Outerwear,64,2.9,Yes,,Yes
+430,42.0,Male,Sandals,Footwear,94,4.1,Yes,Venmo,Yes
+431,24.0,,Shirt,Clothing,40,3.5,Yes,Debit Card,Yes
+432,43.0,,Hat,Accessories,76,3.4,Yes,Credit Card,Yes
+433,47.0,Male,Shirt,Clothing,86,,Yes,,Yes
+434,49.0,,Skirt,Clothing,92,,Yes,Bank Transfer,Yes
+435,50.0,,Shoes,Footwear,52,,Yes,Bank Transfer,Yes
+436,51.0,Male,Coat,Outerwear,28,3.6,Yes,PayPal,Yes
+437,40.0,Male,Pants,Clothing,46,,Yes,,Yes
+438,45.0,Male,Jewelry,Accessories,50,2.6,Yes,Credit Card,Yes
+439,52.0,Male,,Accessories,23,,Yes,Cash,Yes
+440,62.0,Male,Jacket,Outerwear,50,3.4,Yes,,Yes
+441,20.0,,Shirt,Clothing,89,3.5,Yes,,Yes
+442,43.0,Male,Hoodie,Clothing,81,,Yes,,Yes
+443,,Male,Sunglasses,Accessories,69,3.5,Yes,Bank Transfer,Yes
+444,22.0,Male,Sunglasses,Accessories,67,,Yes,PayPal,Yes
+445,48.0,Male,Dress,Clothing,20,,Yes,Debit Card,Yes
+446,42.0,Male,Boots,Footwear,29,4.9,Yes,,Yes
+447,19.0,Male,Shirt,Clothing,74,,Yes,,Yes
+448,60.0,Male,Shorts,Clothing,82,3.6,Yes,Venmo,Yes
+449,32.0,Male,Gloves,Accessories,23,3.4,Yes,Credit Card,Yes
+450,26.0,,Jewelry,Accessories,45,2.9,Yes,PayPal,Yes
+451,25.0,Male,Boots,Footwear,21,2.7,Yes,,Yes
+452,66.0,Male,Jewelry,Accessories,31,4.3,Yes,,Yes
+453,45.0,,Pants,Clothing,45,3.3,Yes,Debit Card,Yes
+454,54.0,,Jewelry,Accessories,56,,Yes,,Yes
+455,37.0,Male,Jacket,Outerwear,97,3.2,Yes,Debit Card,Yes
+456,54.0,Male,Blouse,Clothing,100,3.6,Yes,Credit Card,Yes
+457,50.0,Male,,Clothing,96,4.0,Yes,,Yes
+458,25.0,,Gloves,Accessories,99,4.9,Yes,Credit Card,Yes
+459,47.0,Male,,Clothing,91,4.0,Yes,Debit Card,Yes
+460,63.0,Male,,Accessories,30,3.8,Yes,Debit Card,Yes
+461,64.0,Male,,Footwear,65,3.7,Yes,,Yes
+462,18.0,Male,Boots,Footwear,93,,Yes,Cash,Yes
+463,59.0,Male,Jacket,Outerwear,81,3.3,Yes,,Yes
+464,37.0,Male,Jewelry,Accessories,81,2.7,Yes,,Yes
+465,23.0,,,Accessories,52,4.7,Yes,PayPal,Yes
+466,54.0,Male,,Clothing,88,,Yes,,Yes
+467,38.0,,Jeans,Clothing,24,4.6,Yes,Credit Card,Yes
+468,19.0,Male,Backpack,Accessories,51,4.5,Yes,Credit Card,Yes
+469,34.0,,Backpack,Accessories,38,5.0,Yes,,Yes
+470,21.0,Male,Shorts,Clothing,46,4.1,Yes,Debit Card,Yes
+471,50.0,,Dress,Clothing,63,,Yes,Cash,Yes
+472,55.0,Male,Scarf,Accessories,72,4.9,Yes,Credit Card,Yes
+473,20.0,,Jeans,Clothing,39,3.9,Yes,,Yes
+474,34.0,Male,Coat,Outerwear,42,3.9,Yes,Venmo,Yes
+475,62.0,,Sweater,Clothing,76,2.6,Yes,Debit Card,Yes
+476,21.0,Male,Sneakers,Footwear,66,2.7,Yes,Cash,Yes
+477,21.0,,Scarf,Accessories,90,,Yes,Venmo,Yes
+478,42.0,,Sweater,Clothing,56,,Yes,,Yes
+479,35.0,Male,Jewelry,Accessories,43,3.2,Yes,Debit Card,Yes
+480,39.0,Male,Handbag,Accessories,84,,Yes,Bank Transfer,Yes
+481,68.0,,Hoodie,Clothing,88,,Yes,,Yes
+482,46.0,Male,Hat,Accessories,88,3.2,Yes,PayPal,Yes
+483,,Male,Belt,Accessories,42,2.5,Yes,PayPal,Yes
+484,23.0,Male,Hoodie,Clothing,73,3.9,Yes,Venmo,Yes
+485,68.0,,Hat,Accessories,73,,Yes,Credit Card,Yes
+486,48.0,Male,Shoes,Footwear,44,2.6,Yes,Debit Card,Yes
+487,38.0,Male,Sandals,Footwear,63,2.8,Yes,Debit Card,Yes
+488,41.0,Male,Jacket,Outerwear,68,,Yes,,Yes
+489,58.0,Male,Sweater,Clothing,29,4.6,Yes,Venmo,Yes
+490,49.0,Male,Socks,Clothing,85,3.2,Yes,Venmo,Yes
+491,57.0,Male,Sneakers,Footwear,42,4.2,Yes,PayPal,Yes
+492,49.0,,,Outerwear,69,3.7,Yes,Bank Transfer,Yes
+493,50.0,,,Clothing,62,,Yes,PayPal,Yes
+494,28.0,Male,Backpack,Accessories,48,,Yes,,Yes
+495,38.0,Male,,Footwear,68,4.5,Yes,,Yes
+496,33.0,Male,Handbag,Accessories,36,,Yes,Credit Card,Yes
+497,30.0,Male,Dress,Clothing,63,3.3,Yes,Venmo,Yes
+498,43.0,Male,Sneakers,Footwear,39,,Yes,Bank Transfer,Yes
+499,,Male,Boots,Footwear,78,,Yes,PayPal,Yes
+500,36.0,Male,Shoes,Footwear,99,,Yes,Credit Card,Yes
+501,,Male,,Clothing,31,4.8,Yes,Bank Transfer,Yes
+502,64.0,Male,Boots,Footwear,45,,Yes,Debit Card,Yes
+503,59.0,Male,Pants,Clothing,30,2.8,Yes,Cash,Yes
+504,,Male,Shoes,Footwear,24,3.2,Yes,Credit Card,Yes
+505,42.0,Male,Shoes,Footwear,22,,Yes,Bank Transfer,Yes
+506,61.0,Male,T-shirt,Clothing,63,,Yes,,Yes
+507,28.0,Male,Scarf,Accessories,40,2.7,Yes,,Yes
+508,65.0,Male,Shorts,Clothing,20,5.0,Yes,,Yes
+509,27.0,Male,Jewelry,Accessories,20,3.7,Yes,Cash,Yes
+510,41.0,Male,T-shirt,Clothing,80,3.9,Yes,Bank Transfer,Yes
+511,21.0,Male,,Clothing,87,,Yes,,Yes
+512,61.0,Male,Shirt,Clothing,46,3.1,Yes,Debit Card,Yes
+513,19.0,Male,Gloves,Accessories,49,,Yes,Credit Card,Yes
+514,22.0,Male,Scarf,Accessories,65,3.6,Yes,PayPal,Yes
+515,,Male,Skirt,Clothing,62,4.3,Yes,Debit Card,Yes
+516,28.0,,Hat,Accessories,67,4.5,Yes,Credit Card,Yes
+517,34.0,Male,Hoodie,Clothing,41,2.8,Yes,Cash,Yes
+518,61.0,Male,Boots,Footwear,49,2.7,Yes,Debit Card,Yes
+519,,Male,Blouse,Clothing,100,,Yes,,Yes
+520,19.0,Male,Belt,Accessories,54,4.4,Yes,Cash,Yes
+521,,,Sunglasses,Accessories,84,3.9,Yes,Bank Transfer,Yes
+522,36.0,Male,Shorts,Clothing,41,3.5,Yes,Credit Card,Yes
+523,65.0,,Gloves,Accessories,88,,Yes,,Yes
+524,46.0,Male,Sandals,Footwear,40,4.9,Yes,Cash,Yes
+525,59.0,Male,Shirt,Clothing,39,4.8,Yes,Venmo,Yes
+526,,Male,Coat,Outerwear,37,3.2,Yes,Credit Card,Yes
+527,51.0,Male,,Clothing,52,4.9,Yes,,Yes
+528,21.0,Male,T-shirt,Clothing,23,4.3,Yes,,Yes
+529,34.0,Male,Sneakers,Footwear,88,3.2,Yes,Venmo,Yes
+530,32.0,Male,Shorts,Clothing,84,,Yes,Cash,Yes
+531,48.0,Male,Coat,Outerwear,37,3.2,Yes,Venmo,Yes
+532,50.0,Male,Sandals,Footwear,51,,Yes,,Yes
+533,26.0,Male,Pants,Clothing,76,4.1,Yes,,Yes
+534,,Male,Sandals,Footwear,60,4.5,Yes,PayPal,Yes
+535,65.0,Male,Gloves,Accessories,72,,Yes,Bank Transfer,Yes
+536,,,T-shirt,Clothing,45,3.2,Yes,Credit Card,Yes
+537,44.0,Male,Jacket,Outerwear,84,4.4,Yes,Debit Card,Yes
+538,50.0,Male,,Clothing,49,3.0,Yes,Credit Card,Yes
+539,27.0,Male,Socks,Clothing,22,,Yes,PayPal,Yes
+540,49.0,Male,Coat,Outerwear,48,4.0,Yes,Cash,Yes
+541,49.0,Male,Dress,Clothing,37,3.1,Yes,,Yes
+542,52.0,Male,Jacket,Outerwear,27,2.8,Yes,Bank Transfer,Yes
+543,27.0,Male,,Footwear,79,4.6,Yes,Venmo,Yes
+544,,Male,,Clothing,98,4.3,Yes,,Yes
+545,34.0,Male,Sandals,Footwear,64,3.3,Yes,Cash,Yes
+546,33.0,Male,Coat,Outerwear,32,3.5,Yes,Bank Transfer,Yes
+547,62.0,Male,Hoodie,Clothing,74,3.4,Yes,Cash,Yes
+548,38.0,Male,Jacket,Outerwear,50,2.8,Yes,,Yes
+549,36.0,Male,Backpack,Accessories,64,,Yes,PayPal,Yes
+550,31.0,Male,Backpack,Accessories,29,3.6,Yes,Cash,Yes
+551,62.0,,Belt,Accessories,62,3.3,Yes,Cash,Yes
+552,29.0,,Coat,Outerwear,78,3.1,Yes,Venmo,Yes
+553,24.0,Male,T-shirt,Clothing,94,3.5,Yes,Bank Transfer,Yes
+554,63.0,Male,Sunglasses,Accessories,59,,Yes,Venmo,Yes
+555,56.0,Male,Sneakers,Footwear,47,3.0,Yes,PayPal,Yes
+556,63.0,,Gloves,Accessories,57,4.8,Yes,,Yes
+557,40.0,Male,,Outerwear,90,5.0,Yes,,Yes
+558,18.0,Male,Shirt,Clothing,60,2.9,Yes,PayPal,Yes
+559,50.0,Male,Sneakers,Footwear,77,3.2,Yes,Venmo,Yes
+560,66.0,Male,Scarf,Accessories,41,2.9,Yes,Bank Transfer,Yes
+561,25.0,,Jewelry,Accessories,48,,Yes,PayPal,Yes
+562,65.0,Male,Jacket,Outerwear,65,,Yes,Credit Card,Yes
+563,53.0,Male,Jeans,Clothing,62,3.5,Yes,PayPal,Yes
+564,61.0,,,Footwear,99,4.4,Yes,PayPal,Yes
+565,67.0,Male,Hoodie,Clothing,58,3.4,Yes,Cash,Yes
+566,59.0,Male,Backpack,Accessories,43,4.2,Yes,Bank Transfer,Yes
+567,55.0,Male,Sneakers,Footwear,93,,Yes,PayPal,Yes
+568,21.0,Male,Blouse,Clothing,50,3.0,Yes,,Yes
+569,44.0,Male,,Clothing,88,4.0,Yes,,Yes
+570,65.0,,Skirt,Clothing,33,4.4,Yes,,Yes
+571,65.0,Male,T-shirt,Clothing,99,4.1,Yes,Credit Card,Yes
+572,,Male,Jacket,Outerwear,76,3.6,Yes,Venmo,Yes
+573,56.0,Male,Scarf,Accessories,97,,Yes,Credit Card,Yes
+574,,Male,Pants,Clothing,68,,Yes,Cash,Yes
+575,54.0,Male,Sneakers,Footwear,79,4.8,Yes,PayPal,Yes
+576,58.0,,Jeans,Clothing,86,4.8,Yes,,Yes
+577,48.0,Male,Hat,Accessories,68,5.0,Yes,,Yes
+578,19.0,Male,Skirt,Clothing,52,3.7,Yes,PayPal,Yes
+579,69.0,Male,Sandals,Footwear,90,4.6,Yes,Debit Card,Yes
+580,58.0,Male,Sandals,Footwear,41,3.7,Yes,Debit Card,Yes
+581,49.0,Male,Sweater,Clothing,80,4.1,Yes,,Yes
+582,32.0,Male,Sweater,Clothing,100,2.7,Yes,Credit Card,Yes
+583,,Male,Jacket,Outerwear,77,4.9,Yes,Debit Card,Yes
+584,25.0,,Shorts,Clothing,78,4.0,Yes,PayPal,Yes
+585,70.0,,Socks,Clothing,94,4.7,Yes,PayPal,Yes
+586,69.0,Male,,Clothing,23,,Yes,,Yes
+587,45.0,Male,,Clothing,20,,Yes,,Yes
+588,29.0,Male,Socks,Clothing,86,4.2,Yes,PayPal,Yes
+589,47.0,Male,Boots,Footwear,60,3.0,Yes,,Yes
+590,28.0,Male,,Clothing,70,3.4,Yes,Debit Card,Yes
+591,64.0,,Belt,Accessories,39,4.6,Yes,,Yes
+592,47.0,Male,Backpack,Accessories,37,4.2,Yes,Credit Card,Yes
+593,60.0,Male,Boots,Footwear,29,3.2,Yes,Venmo,Yes
+594,67.0,Male,Coat,Outerwear,35,4.4,Yes,,Yes
+595,35.0,Male,Hoodie,Clothing,83,,Yes,Cash,Yes
+596,30.0,Male,Shoes,Footwear,77,3.6,Yes,Credit Card,Yes
+597,23.0,,,Footwear,37,,Yes,PayPal,Yes
+598,70.0,Male,Jewelry,Accessories,69,3.4,Yes,Bank Transfer,Yes
+599,21.0,,Dress,Clothing,66,3.2,Yes,Credit Card,Yes
+600,51.0,Male,Boots,Footwear,26,4.2,Yes,,Yes
+601,22.0,,Hat,Accessories,63,5.0,Yes,Debit Card,Yes
+602,32.0,Male,Backpack,Accessories,38,,Yes,Cash,Yes
+603,37.0,,Shoes,Footwear,58,4.2,Yes,Venmo,Yes
+604,,Male,Handbag,Accessories,46,,Yes,Debit Card,Yes
+605,44.0,Male,Sunglasses,Accessories,92,,Yes,,Yes
+606,40.0,Male,Hat,Accessories,32,4.2,Yes,Debit Card,Yes
+607,27.0,Male,Scarf,Accessories,90,,Yes,Credit Card,Yes
+608,47.0,Male,Hoodie,Clothing,23,2.8,Yes,PayPal,Yes
+609,41.0,Male,Backpack,Accessories,25,3.3,Yes,Debit Card,Yes
+610,51.0,Male,,Clothing,54,,Yes,Cash,Yes
+611,53.0,,Shorts,Clothing,72,2.5,Yes,Debit Card,Yes
+612,43.0,,,Accessories,33,,Yes,,Yes
+613,,Male,Hat,Accessories,43,,Yes,PayPal,Yes
+614,61.0,Male,Coat,Outerwear,51,2.6,Yes,,Yes
+615,68.0,Male,Jewelry,Accessories,85,4.0,Yes,Cash,Yes
+616,67.0,Male,Sandals,Footwear,100,,Yes,,Yes
+617,29.0,Male,Gloves,Accessories,72,4.6,Yes,Cash,Yes
+618,50.0,Male,Backpack,Accessories,57,2.6,Yes,Debit Card,Yes
+619,61.0,,Jacket,Outerwear,94,,Yes,,Yes
+620,19.0,Male,Backpack,Accessories,34,4.6,Yes,,Yes
+621,33.0,Male,Backpack,Accessories,89,3.7,Yes,PayPal,Yes
+622,51.0,Male,Sunglasses,Accessories,27,4.4,Yes,Debit Card,Yes
+623,69.0,,Socks,Clothing,63,4.0,Yes,Credit Card,Yes
+624,19.0,Male,Shoes,Footwear,70,4.7,Yes,,Yes
+625,55.0,Male,Pants,Clothing,87,,Yes,Venmo,Yes
+626,49.0,Male,Jewelry,Accessories,79,,Yes,Venmo,Yes
+627,31.0,Male,Sunglasses,Accessories,79,3.9,Yes,,Yes
+628,42.0,Male,Sandals,Footwear,44,4.1,Yes,Venmo,Yes
+629,,Male,,Clothing,85,,Yes,Venmo,Yes
+630,26.0,,Shoes,Footwear,90,4.7,Yes,,Yes
+631,41.0,Male,Jewelry,Accessories,94,4.3,Yes,,Yes
+632,55.0,,Boots,Footwear,68,4.1,Yes,Venmo,Yes
+633,35.0,Male,Backpack,Accessories,51,3.9,Yes,Venmo,Yes
+634,66.0,Male,Sandals,Footwear,33,2.9,Yes,Bank Transfer,Yes
+635,,Male,Sneakers,Footwear,60,3.9,Yes,Bank Transfer,Yes
+636,27.0,Male,Hoodie,Clothing,59,4.3,Yes,PayPal,Yes
+637,41.0,,Handbag,Accessories,30,2.8,Yes,Cash,Yes
+638,,,,Clothing,20,3.4,Yes,,Yes
+639,,,Sandals,Footwear,20,,Yes,,Yes
+640,54.0,,,Clothing,24,4.0,Yes,Credit Card,Yes
+641,53.0,Male,Skirt,Clothing,88,,Yes,Debit Card,Yes
+642,47.0,,,Clothing,78,3.9,Yes,Venmo,Yes
+643,64.0,Male,Skirt,Clothing,25,,Yes,,Yes
+644,18.0,Male,,Clothing,57,3.2,Yes,,Yes
+645,68.0,Male,Backpack,Accessories,93,4.3,Yes,,Yes
+646,62.0,,Hoodie,Clothing,42,4.2,Yes,Credit Card,Yes
+647,51.0,Male,Boots,Footwear,54,,Yes,Debit Card,Yes
+648,54.0,Male,Blouse,Clothing,70,3.7,Yes,Bank Transfer,Yes
+649,22.0,Male,Hoodie,Clothing,31,4.1,Yes,Bank Transfer,Yes
+650,53.0,Male,Pants,Clothing,93,4.2,Yes,Credit Card,Yes
+651,34.0,,Gloves,Accessories,40,,Yes,Venmo,Yes
+652,32.0,Male,Hat,Accessories,32,2.9,Yes,PayPal,Yes
+653,64.0,Male,,Accessories,27,3.1,Yes,PayPal,Yes
+654,20.0,Male,Scarf,Accessories,68,,Yes,Credit Card,Yes
+655,24.0,,Handbag,Accessories,59,4.4,Yes,,Yes
+656,20.0,Male,Handbag,Accessories,36,3.1,Yes,Debit Card,Yes
+657,42.0,,,Clothing,23,,Yes,Debit Card,Yes
+658,48.0,Male,Jacket,Outerwear,80,,Yes,PayPal,Yes
+659,62.0,,Backpack,Accessories,37,4.9,Yes,,Yes
+660,62.0,Male,Shorts,Clothing,52,3.6,Yes,,Yes
+661,,Male,Coat,Outerwear,79,5.0,Yes,Debit Card,Yes
+662,57.0,Male,Shirt,Clothing,68,4.1,Yes,Cash,Yes
+663,24.0,Male,Gloves,Accessories,98,2.8,Yes,Debit Card,Yes
+664,59.0,Male,Dress,Clothing,83,4.7,Yes,,Yes
+665,63.0,Male,Pants,Clothing,83,4.4,Yes,Cash,Yes
+666,41.0,Male,,Clothing,55,4.9,Yes,Cash,Yes
+667,35.0,,,Clothing,26,,Yes,Cash,Yes
+668,34.0,Male,Sunglasses,Accessories,76,2.6,Yes,Debit Card,Yes
+669,49.0,Male,T-shirt,Clothing,85,2.9,Yes,,Yes
+670,43.0,Male,,Outerwear,89,,Yes,PayPal,Yes
+671,63.0,Male,Sweater,Clothing,41,4.8,Yes,Credit Card,Yes
+672,38.0,Male,Jacket,Outerwear,30,4.7,Yes,PayPal,Yes
+673,59.0,Male,Socks,Clothing,53,3.3,Yes,Cash,Yes
+674,35.0,,Shirt,Clothing,66,4.2,Yes,,Yes
+675,48.0,Male,Jewelry,Accessories,33,4.7,Yes,Venmo,Yes
+676,64.0,Male,Sunglasses,Accessories,86,2.6,Yes,Credit Card,Yes
+677,28.0,Male,Pants,Clothing,60,,Yes,Debit Card,Yes
+678,60.0,Male,Socks,Clothing,62,2.7,Yes,,Yes
+679,27.0,,Blouse,Clothing,74,3.3,Yes,Credit Card,Yes
+680,56.0,,Sandals,Footwear,95,3.4,Yes,PayPal,Yes
+681,58.0,Male,Sneakers,Footwear,25,4.2,Yes,Venmo,Yes
+682,30.0,Male,Shirt,Clothing,59,3.8,Yes,,Yes
+683,23.0,,Jacket,Outerwear,29,4.0,Yes,Debit Card,Yes
+684,33.0,Male,,Footwear,36,,Yes,,Yes
+685,63.0,Male,Hat,Accessories,82,,Yes,Bank Transfer,Yes
+686,70.0,Male,Blouse,Clothing,71,,Yes,Credit Card,Yes
+687,70.0,Male,Sweater,Clothing,35,,Yes,PayPal,Yes
+688,19.0,,Gloves,Accessories,38,3.3,Yes,Cash,Yes
+689,25.0,Male,Scarf,Accessories,59,4.7,Yes,Cash,Yes
+690,19.0,Male,Hoodie,Clothing,91,4.7,Yes,Cash,Yes
+691,25.0,Male,Shorts,Clothing,68,4.8,Yes,Bank Transfer,Yes
+692,60.0,,Backpack,Accessories,21,2.9,Yes,,Yes
+693,,Male,Sunglasses,Accessories,95,4.0,Yes,Venmo,Yes
+694,46.0,Male,Shorts,Clothing,52,3.1,Yes,,Yes
+695,41.0,Male,Dress,Clothing,21,3.5,Yes,,Yes
+696,30.0,Male,,Clothing,67,3.7,Yes,Bank Transfer,Yes
+697,44.0,Male,Belt,Accessories,42,2.8,Yes,Bank Transfer,Yes
+698,61.0,Male,Scarf,Accessories,63,4.6,Yes,Bank Transfer,Yes
+699,55.0,Male,Boots,Footwear,41,3.8,Yes,PayPal,Yes
+700,,Male,,Accessories,46,,Yes,Bank Transfer,Yes
+701,57.0,Male,Pants,Clothing,79,4.1,Yes,Venmo,Yes
+702,,Male,Boots,Footwear,90,,Yes,Cash,Yes
+703,18.0,Male,Shirt,Clothing,71,3.4,Yes,Bank Transfer,Yes
+704,63.0,Male,Dress,Clothing,87,3.0,Yes,Debit Card,Yes
+705,34.0,Male,Hoodie,Clothing,66,3.2,Yes,,Yes
+706,25.0,Male,Pants,Clothing,90,,Yes,PayPal,Yes
+707,46.0,,Jeans,Clothing,47,4.8,Yes,Venmo,Yes
+708,,,,Clothing,38,3.7,Yes,Debit Card,Yes
+709,37.0,,Backpack,Accessories,50,3.4,Yes,Cash,Yes
+710,49.0,Male,Jacket,Outerwear,79,4.6,Yes,,Yes
+711,22.0,Male,Scarf,Accessories,91,4.1,Yes,Bank Transfer,Yes
+712,64.0,Male,Boots,Footwear,60,3.5,Yes,,Yes
+713,42.0,Male,Blouse,Clothing,81,3.8,Yes,,Yes
+714,37.0,Male,Hoodie,Clothing,90,2.6,Yes,Bank Transfer,Yes
+715,26.0,Male,Jacket,Outerwear,70,,Yes,,Yes
+716,33.0,Male,Jeans,Clothing,63,2.6,Yes,Venmo,Yes
+717,,Male,Jewelry,Accessories,29,3.6,Yes,PayPal,Yes
+718,21.0,Male,Socks,Clothing,90,4.2,Yes,Debit Card,Yes
+719,22.0,Male,,Clothing,22,4.6,Yes,Bank Transfer,Yes
+720,63.0,,Shorts,Clothing,22,3.3,Yes,Venmo,Yes
+721,33.0,Male,Jewelry,Accessories,62,3.4,Yes,,Yes
+722,43.0,Male,Blouse,Clothing,57,4.4,Yes,,Yes
+723,27.0,Male,,Clothing,32,,Yes,,Yes
+724,35.0,Male,Jewelry,Accessories,53,3.5,Yes,,Yes
+725,,,T-shirt,Clothing,79,4.7,Yes,Cash,Yes
+726,61.0,Male,,Accessories,61,,Yes,Cash,Yes
+727,32.0,,Shorts,Clothing,78,3.6,Yes,PayPal,Yes
+728,62.0,Male,Sweater,Clothing,97,4.8,Yes,,Yes
+729,29.0,Male,Jeans,Clothing,78,3.7,Yes,Debit Card,Yes
+730,41.0,Male,Sunglasses,Accessories,56,3.2,Yes,Venmo,Yes
+731,48.0,Male,Boots,Footwear,25,3.9,Yes,Venmo,Yes
+732,43.0,,Coat,Outerwear,28,,Yes,,Yes
+733,34.0,Male,Shirt,Clothing,57,,Yes,,Yes
+734,,Male,Dress,Clothing,36,,Yes,,Yes
+735,65.0,Male,,Clothing,69,,Yes,Venmo,Yes
+736,61.0,Male,,Accessories,48,3.6,Yes,Venmo,Yes
+737,18.0,Male,Dress,Clothing,58,2.9,Yes,Debit Card,Yes
+738,47.0,Male,Sunglasses,Accessories,24,3.6,Yes,PayPal,Yes
+739,56.0,,Sunglasses,Accessories,31,3.5,Yes,Credit Card,Yes
+740,,Male,Shorts,Clothing,29,3.5,Yes,Cash,Yes
+741,,Male,,Clothing,69,2.8,Yes,Bank Transfer,Yes
+742,22.0,Male,T-shirt,Clothing,79,4.7,Yes,Debit Card,Yes
+743,64.0,Male,Pants,Clothing,39,3.1,Yes,Debit Card,Yes
+744,21.0,Male,Sunglasses,Accessories,84,4.9,Yes,,Yes
+745,67.0,Male,Boots,Footwear,66,4.1,Yes,Debit Card,Yes
+746,46.0,Male,T-shirt,Clothing,92,4.7,Yes,,Yes
+747,,Male,Sandals,Footwear,45,2.5,Yes,Debit Card,Yes
+748,,Male,,Clothing,74,4.4,Yes,Venmo,Yes
+749,35.0,Male,Hat,Accessories,39,3.9,Yes,Bank Transfer,Yes
+750,56.0,Male,Scarf,Accessories,71,3.7,Yes,Bank Transfer,Yes
+751,25.0,Male,T-shirt,Clothing,95,3.4,Yes,Bank Transfer,Yes
+752,65.0,Male,Gloves,Accessories,72,,Yes,,Yes
+753,39.0,,Scarf,Accessories,85,4.2,Yes,,Yes
+754,47.0,Male,Boots,Footwear,54,3.4,Yes,Credit Card,Yes
+755,36.0,Male,Gloves,Accessories,41,2.9,Yes,Cash,Yes
+756,66.0,Male,Coat,Outerwear,24,3.3,Yes,,Yes
+757,62.0,Male,Belt,Accessories,99,4.8,Yes,,Yes
+758,41.0,Male,Hoodie,Clothing,32,3.8,Yes,,Yes
+759,,Male,Shoes,Footwear,71,,Yes,,Yes
+760,51.0,Male,Dress,Clothing,49,2.6,Yes,,Yes
+761,33.0,Male,Gloves,Accessories,50,3.4,Yes,Credit Card,Yes
+762,57.0,,Jewelry,Accessories,91,4.2,Yes,Credit Card,Yes
+763,45.0,,Belt,Accessories,46,3.9,Yes,Credit Card,Yes
+764,61.0,Male,,Clothing,50,,Yes,,Yes
+765,55.0,Male,Skirt,Clothing,39,4.2,Yes,,Yes
+766,54.0,Male,Sneakers,Footwear,99,3.0,Yes,,Yes
+767,57.0,Male,Gloves,Accessories,48,3.6,Yes,PayPal,Yes
+768,27.0,Male,Coat,Outerwear,77,2.5,Yes,Cash,Yes
+769,64.0,Male,Backpack,Accessories,95,2.6,Yes,,Yes
+770,,Male,,Clothing,100,4.3,Yes,Credit Card,Yes
+771,,Male,Sneakers,Footwear,54,,Yes,Venmo,Yes
+772,22.0,Male,Sweater,Clothing,68,,Yes,,Yes
+773,18.0,Male,Jeans,Clothing,22,3.6,Yes,,Yes
+774,29.0,Male,Hat,Accessories,84,2.6,Yes,Venmo,Yes
+775,42.0,,Hat,Accessories,46,,Yes,,Yes
+776,49.0,Male,Handbag,Accessories,53,3.0,Yes,PayPal,Yes
+777,49.0,Male,Shirt,Clothing,60,5.0,Yes,,Yes
+778,55.0,,Socks,Clothing,32,2.5,Yes,Credit Card,Yes
+779,29.0,Male,Socks,Clothing,50,2.9,Yes,Cash,Yes
+780,60.0,,Dress,Clothing,94,4.6,Yes,,Yes
+781,34.0,Male,Shoes,Footwear,26,3.6,Yes,Venmo,Yes
+782,30.0,,Scarf,Accessories,44,,Yes,,Yes
+783,28.0,Male,Hoodie,Clothing,57,4.5,Yes,PayPal,Yes
+784,63.0,Male,T-shirt,Clothing,65,4.5,Yes,,Yes
+785,31.0,Male,Jeans,Clothing,72,3.2,Yes,,Yes
+786,46.0,Male,Shorts,Clothing,62,4.0,Yes,Bank Transfer,Yes
+787,70.0,Male,Hat,Accessories,21,4.8,Yes,Credit Card,Yes
+788,53.0,Male,Handbag,Accessories,85,,Yes,Bank Transfer,Yes
+789,50.0,Male,,Clothing,51,,Yes,,Yes
+790,33.0,Male,Handbag,Accessories,84,,Yes,Venmo,Yes
+791,22.0,Male,,Clothing,37,,Yes,Venmo,Yes
+792,50.0,Male,Scarf,Accessories,44,,Yes,Credit Card,Yes
+793,34.0,Male,Sneakers,Footwear,45,,Yes,Venmo,Yes
+794,24.0,,Pants,Clothing,35,3.8,Yes,,Yes
+795,,Male,,Accessories,50,,Yes,,Yes
+796,39.0,Male,Sandals,Footwear,26,4.6,Yes,Cash,Yes
+797,42.0,Male,Socks,Clothing,78,,Yes,Debit Card,Yes
+798,42.0,Male,Coat,Outerwear,82,4.0,Yes,,Yes
+799,29.0,Male,Socks,Clothing,39,3.8,Yes,Cash,Yes
+800,55.0,,Belt,Accessories,55,3.3,Yes,Venmo,Yes
+801,32.0,,Socks,Clothing,20,,Yes,,Yes
+802,25.0,Male,Belt,Accessories,29,4.9,Yes,Credit Card,Yes
+803,38.0,Male,Pants,Clothing,41,3.5,Yes,Venmo,Yes
+804,32.0,Male,Shorts,Clothing,38,,Yes,Credit Card,Yes
+805,43.0,,Boots,Footwear,47,,Yes,Cash,Yes
+806,41.0,,Dress,Clothing,30,3.7,Yes,,Yes
+807,56.0,Male,Jeans,Clothing,56,2.7,Yes,Credit Card,Yes
+808,27.0,Male,T-shirt,Clothing,89,3.3,Yes,,Yes
+809,46.0,Male,Shoes,Footwear,96,4.6,Yes,PayPal,Yes
+810,,Male,Boots,Footwear,81,,Yes,PayPal,Yes
+811,52.0,Male,Scarf,Accessories,83,4.9,Yes,Debit Card,Yes
+812,18.0,Male,Sneakers,Footwear,35,2.7,Yes,Debit Card,Yes
+813,64.0,,Boots,Footwear,56,3.2,Yes,PayPal,Yes
+814,54.0,Male,Handbag,Accessories,45,2.9,Yes,,Yes
+815,31.0,,Shirt,Clothing,62,3.8,Yes,Cash,Yes
+816,30.0,,Hat,Accessories,84,3.0,Yes,,Yes
+817,26.0,Male,Sweater,Clothing,24,3.9,Yes,Credit Card,Yes
+818,25.0,Male,Handbag,Accessories,21,,Yes,Credit Card,Yes
+819,59.0,Male,Shirt,Clothing,91,4.9,Yes,Cash,Yes
+820,55.0,Male,,Accessories,36,,Yes,Bank Transfer,Yes
+821,56.0,Male,Sneakers,Footwear,39,,Yes,,Yes
+822,62.0,Male,Hoodie,Clothing,39,3.9,Yes,Cash,Yes
+823,35.0,Male,Shirt,Clothing,59,3.4,Yes,Cash,Yes
+824,,,Sunglasses,Accessories,27,,Yes,PayPal,Yes
+825,61.0,Male,,Clothing,94,3.0,Yes,Venmo,Yes
+826,27.0,Male,Belt,Accessories,94,3.6,Yes,Venmo,Yes
+827,,Male,Dress,Clothing,94,,Yes,Credit Card,Yes
+828,31.0,Male,Shoes,Footwear,51,4.1,Yes,Credit Card,Yes
+829,,Male,Socks,Clothing,62,,Yes,,Yes
+830,42.0,,Socks,Clothing,57,,Yes,Debit Card,Yes
+831,41.0,Male,Shorts,Clothing,76,,Yes,Cash,Yes
+832,66.0,Male,Gloves,Accessories,63,4.3,Yes,,Yes
+833,58.0,Male,Jacket,Outerwear,80,2.5,Yes,Credit Card,Yes
+834,43.0,Male,Handbag,Accessories,68,3.5,Yes,Debit Card,Yes
+835,52.0,,Backpack,Accessories,89,3.1,Yes,,Yes
+836,35.0,Male,Boots,Footwear,26,,Yes,Debit Card,Yes
+837,23.0,Male,,Accessories,90,3.9,Yes,PayPal,Yes
+838,25.0,Male,Hoodie,Clothing,28,,Yes,,Yes
+839,33.0,Male,Coat,Outerwear,29,,Yes,Bank Transfer,Yes
+840,48.0,Male,,Clothing,31,,Yes,Cash,Yes
+841,42.0,Male,Shirt,Clothing,24,4.2,Yes,Bank Transfer,Yes
+842,55.0,Male,Sweater,Clothing,88,2.6,Yes,Venmo,Yes
+843,59.0,Male,Shirt,Clothing,87,3.6,Yes,,Yes
+844,65.0,Male,Hoodie,Clothing,80,3.2,Yes,,Yes
+845,59.0,Male,Sandals,Footwear,48,4.4,Yes,PayPal,Yes
+846,31.0,Male,Belt,Accessories,21,3.7,Yes,PayPal,Yes
+847,49.0,Male,Boots,Footwear,72,,Yes,Bank Transfer,Yes
+848,53.0,,,Clothing,44,,Yes,,Yes
+849,48.0,Male,Sandals,Footwear,73,3.6,Yes,PayPal,Yes
+850,,Male,,Clothing,61,,Yes,Debit Card,Yes
+851,68.0,,Shoes,Footwear,20,2.6,Yes,,Yes
+852,35.0,Male,,Footwear,86,2.9,Yes,,Yes
+853,34.0,Male,Dress,Clothing,60,4.2,Yes,Venmo,Yes
+854,62.0,Male,Hat,Accessories,43,4.0,Yes,PayPal,Yes
+855,21.0,Male,Pants,Clothing,44,4.3,Yes,Bank Transfer,Yes
+856,70.0,,,Clothing,76,3.0,Yes,Cash,Yes
+857,55.0,Male,Shirt,Clothing,33,3.5,Yes,Debit Card,Yes
+858,43.0,Male,Shorts,Clothing,60,,Yes,,Yes
+859,19.0,,Jacket,Outerwear,26,3.1,Yes,PayPal,Yes
+860,47.0,Male,Hoodie,Clothing,73,4.0,Yes,Credit Card,Yes
+861,26.0,,Shoes,Footwear,87,,Yes,Debit Card,Yes
+862,46.0,Male,Skirt,Clothing,100,3.3,Yes,,Yes
+863,19.0,,Coat,Outerwear,84,4.9,Yes,PayPal,Yes
+864,49.0,Male,Sneakers,Footwear,41,3.9,Yes,PayPal,Yes
+865,51.0,Male,Jeans,Clothing,59,3.9,Yes,,Yes
+866,64.0,Male,Blouse,Clothing,26,4.8,Yes,Bank Transfer,Yes
+867,,,Sunglasses,Accessories,69,2.7,Yes,,Yes
+868,37.0,,Jacket,Outerwear,20,3.1,Yes,Debit Card,Yes
+869,40.0,Male,,Clothing,83,3.2,Yes,Credit Card,Yes
+870,38.0,Male,Hat,Accessories,54,2.7,Yes,PayPal,Yes
+871,66.0,Male,Hoodie,Clothing,66,2.5,Yes,Cash,Yes
+872,47.0,Male,Handbag,Accessories,42,2.6,Yes,,Yes
+873,56.0,Male,Jeans,Clothing,33,,Yes,Cash,Yes
+874,51.0,Male,Boots,Footwear,77,4.2,Yes,PayPal,Yes
+875,25.0,Male,Jacket,Outerwear,65,4.4,Yes,PayPal,Yes
+876,37.0,Male,Sandals,Footwear,39,4.1,Yes,Venmo,Yes
+877,41.0,Male,Belt,Accessories,51,3.8,Yes,Venmo,Yes
+878,64.0,Male,,Accessories,65,4.9,Yes,Venmo,Yes
+879,23.0,,Sunglasses,Accessories,89,4.9,Yes,Cash,Yes
+880,62.0,Male,Skirt,Clothing,76,4.1,Yes,Credit Card,Yes
+881,39.0,,Backpack,Accessories,75,3.1,Yes,Venmo,Yes
+882,52.0,Male,Sandals,Footwear,61,2.7,Yes,Credit Card,Yes
+883,50.0,Male,Boots,Footwear,35,3.8,Yes,Cash,Yes
+884,28.0,Male,Sneakers,Footwear,37,4.3,Yes,Venmo,Yes
+885,67.0,Male,,Clothing,91,4.1,Yes,Venmo,Yes
+886,41.0,Male,Dress,Clothing,99,4.4,Yes,Credit Card,Yes
+887,,Male,Shorts,Clothing,54,,Yes,PayPal,Yes
+888,70.0,,Handbag,Accessories,47,3.3,Yes,Credit Card,Yes
+889,49.0,Male,,Accessories,77,3.6,Yes,Venmo,Yes
+890,59.0,Male,Belt,Accessories,84,2.8,Yes,Venmo,Yes
+891,52.0,,Gloves,Accessories,51,,Yes,Credit Card,Yes
+892,20.0,Male,Skirt,Clothing,26,,Yes,Venmo,Yes
+893,,Male,Shorts,Clothing,64,,Yes,Venmo,Yes
+894,33.0,Male,,Accessories,51,4.7,Yes,Debit Card,Yes
+895,44.0,Male,Hoodie,Clothing,60,3.8,Yes,,Yes
+896,40.0,,Hat,Accessories,69,4.7,Yes,Debit Card,Yes
+897,69.0,,Jewelry,Accessories,29,,Yes,Credit Card,Yes
+898,29.0,Male,Shirt,Clothing,91,3.4,Yes,PayPal,Yes
+899,,Male,Belt,Accessories,70,,Yes,,Yes
+900,65.0,Male,Sweater,Clothing,58,4.0,Yes,Debit Card,Yes
+901,54.0,Male,Hat,Accessories,98,3.3,Yes,Cash,Yes
+902,60.0,Male,Scarf,Accessories,68,4.7,Yes,Debit Card,Yes
+903,43.0,Male,Hat,Accessories,44,,Yes,Debit Card,Yes
+904,44.0,Male,Jacket,Outerwear,45,3.3,Yes,Bank Transfer,Yes
+905,69.0,,,Clothing,99,2.9,Yes,Credit Card,Yes
+906,46.0,Male,Dress,Clothing,68,,Yes,Credit Card,Yes
+907,41.0,,Pants,Clothing,56,,Yes,,Yes
+908,32.0,Male,Sweater,Clothing,43,4.4,Yes,PayPal,Yes
+909,26.0,Male,Sunglasses,Accessories,99,,Yes,Cash,Yes
+910,61.0,Male,Belt,Accessories,56,2.7,Yes,Debit Card,Yes
+911,49.0,Male,Hoodie,Clothing,25,3.4,Yes,Bank Transfer,Yes
+912,53.0,Male,Pants,Clothing,74,2.8,Yes,,Yes
+913,24.0,Male,Hoodie,Clothing,56,3.4,Yes,,Yes
+914,37.0,Male,Sneakers,Footwear,47,,Yes,Bank Transfer,Yes
+915,43.0,Male,Dress,Clothing,67,4.1,Yes,PayPal,Yes
+916,31.0,Male,Dress,Clothing,22,,Yes,Debit Card,Yes
+917,49.0,,Jeans,Clothing,34,,Yes,,Yes
+918,,,Sweater,Clothing,64,3.7,Yes,Debit Card,Yes
+919,65.0,Male,Shorts,Clothing,42,,Yes,Cash,Yes
+920,41.0,Male,Shirt,Clothing,82,,Yes,,Yes
+921,37.0,Male,Belt,Accessories,81,4.3,Yes,Credit Card,Yes
+922,70.0,Male,Coat,Outerwear,24,4.1,Yes,,Yes
+923,63.0,Male,Sneakers,Footwear,60,,Yes,Venmo,Yes
+924,55.0,Male,Shirt,Clothing,24,4.2,Yes,,Yes
+925,52.0,Male,Socks,Clothing,78,3.1,Yes,,Yes
+926,22.0,,Jeans,Clothing,88,4.9,Yes,,Yes
+927,54.0,,Jeans,Clothing,63,4.4,Yes,PayPal,Yes
+928,28.0,Male,,Footwear,78,4.4,Yes,Bank Transfer,Yes
+929,67.0,Male,Dress,Clothing,37,3.4,Yes,Bank Transfer,Yes
+930,,Male,Boots,Footwear,94,,Yes,Venmo,Yes
+931,26.0,,T-shirt,Clothing,78,,Yes,Credit Card,Yes
+932,24.0,Male,Coat,Outerwear,36,4.1,Yes,,Yes
+933,62.0,Male,Skirt,Clothing,24,3.2,Yes,Venmo,Yes
+934,,Male,Sneakers,Footwear,84,,Yes,Debit Card,Yes
+935,45.0,Male,Jeans,Clothing,47,3.7,Yes,Bank Transfer,Yes
+936,58.0,,Hoodie,Clothing,51,2.6,Yes,,Yes
+937,31.0,Male,Shoes,Footwear,84,2.7,Yes,,Yes
+938,32.0,Male,Shorts,Clothing,24,,Yes,Debit Card,Yes
+939,36.0,Male,Blouse,Clothing,97,,Yes,,Yes
+940,25.0,,T-shirt,Clothing,89,,Yes,,Yes
+941,48.0,,Belt,Accessories,44,2.6,Yes,,Yes
+942,39.0,Male,Handbag,Accessories,35,,Yes,Bank Transfer,Yes
+943,26.0,Male,Dress,Clothing,91,,Yes,Cash,Yes
+944,32.0,Male,Hat,Accessories,63,3.8,Yes,PayPal,Yes
+945,,Male,Belt,Accessories,97,4.8,Yes,Debit Card,Yes
+946,38.0,,Boots,Footwear,38,4.1,Yes,,Yes
+947,46.0,Male,Coat,Outerwear,24,,Yes,PayPal,Yes
+948,,Male,Blouse,Clothing,32,,Yes,Cash,Yes
+949,49.0,,Hat,Accessories,90,4.9,Yes,Venmo,Yes
+950,33.0,Male,Jeans,Clothing,36,,Yes,Cash,Yes
+951,54.0,Male,,Accessories,37,,Yes,,Yes
+952,47.0,Male,Dress,Clothing,51,,Yes,,Yes
+953,36.0,Male,Hat,Accessories,71,3.1,Yes,Bank Transfer,Yes
+954,68.0,,Sunglasses,Accessories,50,3.6,Yes,Credit Card,Yes
+955,60.0,Male,Hat,Accessories,74,3.5,Yes,Venmo,Yes
+956,55.0,Male,Dress,Clothing,75,,Yes,Venmo,Yes
+957,,Male,Shirt,Clothing,99,,Yes,Venmo,Yes
+958,,Male,Scarf,Accessories,23,4.7,Yes,,Yes
+959,70.0,Male,Sneakers,Footwear,53,4.4,Yes,Cash,Yes
+960,36.0,Male,Skirt,Clothing,99,2.6,Yes,,Yes
+961,18.0,Male,Jewelry,Accessories,48,4.4,Yes,Debit Card,Yes
+962,62.0,Male,Boots,Footwear,72,3.7,Yes,Venmo,Yes
+963,29.0,Male,Sunglasses,Accessories,64,4.4,Yes,Cash,Yes
+964,21.0,Male,Boots,Footwear,63,,Yes,Cash,Yes
+965,42.0,,Sandals,Footwear,51,2.6,Yes,Bank Transfer,Yes
+966,,Male,Boots,Footwear,55,5.0,Yes,,Yes
+967,58.0,,Dress,Clothing,55,,Yes,Cash,Yes
+968,27.0,,,Clothing,26,,Yes,Debit Card,Yes
+969,57.0,Male,Shorts,Clothing,67,,Yes,Debit Card,Yes
+970,40.0,Male,Coat,Outerwear,31,3.2,Yes,,Yes
+971,,Male,Jeans,Clothing,66,4.4,Yes,,Yes
+972,,,Sunglasses,Accessories,67,4.3,Yes,Bank Transfer,Yes
+973,61.0,Male,,Footwear,61,3.0,Yes,,Yes
+974,60.0,Male,Jacket,Outerwear,75,,Yes,,Yes
+975,69.0,Male,Skirt,Clothing,90,3.6,Yes,Credit Card,Yes
+976,58.0,Male,,Clothing,40,3.8,Yes,Bank Transfer,Yes
+977,34.0,Male,T-shirt,Clothing,90,3.6,Yes,,Yes
+978,,Male,Belt,Accessories,20,,Yes,Credit Card,Yes
+979,,Male,Gloves,Accessories,40,2.5,Yes,,Yes
+980,64.0,Male,Hat,Accessories,33,3.5,Yes,,Yes
+981,,Male,,Footwear,98,4.0,Yes,Bank Transfer,Yes
+982,27.0,Male,Belt,Accessories,42,3.5,Yes,Debit Card,Yes
+983,35.0,Male,,Outerwear,62,3.2,Yes,,Yes
+984,24.0,Male,,Accessories,45,3.5,Yes,,Yes
+985,26.0,Male,Shoes,Footwear,78,,Yes,,Yes
+986,32.0,,Handbag,Accessories,80,,Yes,Credit Card,Yes
+987,54.0,Male,,Accessories,96,4.5,Yes,Credit Card,Yes
+988,62.0,Male,Handbag,Accessories,47,,Yes,PayPal,Yes
+989,50.0,Male,,Clothing,84,4.9,Yes,Venmo,Yes
+990,70.0,Male,Shoes,Footwear,31,3.1,Yes,,Yes
+991,48.0,Male,Sunglasses,Accessories,63,4.8,Yes,PayPal,Yes
+992,20.0,Male,Shorts,Clothing,97,,Yes,Debit Card,Yes
+993,,Male,Jacket,Outerwear,99,4.6,Yes,Credit Card,Yes
+994,51.0,Male,Sandals,Footwear,90,4.4,Yes,,Yes
+995,,Male,Shoes,Footwear,68,,Yes,,Yes
+996,44.0,,Jewelry,Accessories,80,3.0,Yes,Venmo,Yes
+997,29.0,Male,Sandals,Footwear,91,4.9,Yes,Bank Transfer,Yes
+998,64.0,Male,Pants,Clothing,30,,Yes,Debit Card,Yes
+999,51.0,,Shoes,Footwear,90,3.8,Yes,Venmo,Yes
+1000,50.0,,Socks,Clothing,28,,Yes,,Yes
+1001,43.0,Male,Socks,Clothing,46,3.9,Yes,Credit Card,Yes
+1002,61.0,Male,,Clothing,60,3.6,Yes,Credit Card,Yes
+1003,55.0,Male,Shoes,Footwear,59,,Yes,Credit Card,Yes
+1004,56.0,Male,Hat,Accessories,68,,Yes,,Yes
+1005,33.0,Male,Backpack,Accessories,79,,Yes,Cash,Yes
+1006,43.0,,Backpack,Accessories,94,3.9,Yes,Credit Card,Yes
+1007,21.0,,,Clothing,83,,Yes,Credit Card,Yes
+1008,58.0,Male,Gloves,Accessories,62,4.8,Yes,Venmo,Yes
+1009,41.0,,,Accessories,85,,Yes,Cash,Yes
+1010,39.0,Male,Hoodie,Clothing,30,,Yes,,Yes
+1011,54.0,Male,Jeans,Clothing,24,,Yes,,Yes
+1012,43.0,Male,Backpack,Accessories,25,,Yes,,Yes
+1013,28.0,Male,Sandals,Footwear,37,3.8,Yes,,Yes
+1014,59.0,Male,Belt,Accessories,69,,Yes,Bank Transfer,Yes
+1015,28.0,,Shoes,Footwear,97,3.0,Yes,Bank Transfer,Yes
+1016,68.0,,Gloves,Accessories,24,4.1,Yes,Debit Card,Yes
+1017,20.0,Male,Belt,Accessories,30,,Yes,,Yes
+1018,21.0,Male,Jacket,Outerwear,53,,Yes,Cash,Yes
+1019,50.0,Male,Dress,Clothing,70,4.9,Yes,Credit Card,Yes
+1020,32.0,Male,Shirt,Clothing,76,,Yes,Debit Card,Yes
+1021,24.0,Male,Scarf,Accessories,95,4.5,Yes,,Yes
+1022,55.0,Male,Coat,Outerwear,51,,Yes,Credit Card,Yes
+1023,,Male,Handbag,Accessories,41,4.9,Yes,Cash,Yes
+1024,61.0,Male,Sunglasses,Accessories,71,,Yes,Bank Transfer,Yes
+1025,28.0,Male,T-shirt,Clothing,66,3.5,Yes,Debit Card,Yes
+1026,60.0,Male,Shirt,Clothing,84,,Yes,,Yes
+1027,49.0,Male,Handbag,Accessories,95,3.0,Yes,Venmo,Yes
+1028,33.0,Male,Jewelry,Accessories,90,2.8,Yes,,Yes
+1029,,Male,Hoodie,Clothing,36,3.7,Yes,Venmo,Yes
+1030,29.0,Male,Gloves,Accessories,22,3.6,Yes,Credit Card,Yes
+1031,58.0,Male,Coat,Outerwear,89,3.3,Yes,Credit Card,Yes
+1032,22.0,,Sandals,Footwear,50,3.4,Yes,Cash,Yes
+1033,55.0,,Boots,Footwear,36,,Yes,Bank Transfer,Yes
+1034,19.0,,Pants,Clothing,52,4.6,Yes,Credit Card,Yes
+1035,68.0,Male,Socks,Clothing,29,4.2,Yes,,Yes
+1036,61.0,Male,Blouse,Clothing,89,2.8,Yes,Venmo,Yes
+1037,68.0,Male,Handbag,Accessories,47,3.7,Yes,Credit Card,Yes
+1038,52.0,Male,Jewelry,Accessories,25,3.4,Yes,,Yes
+1039,41.0,Male,Pants,Clothing,74,3.0,Yes,Bank Transfer,Yes
+1040,29.0,Male,Belt,Accessories,46,4.8,Yes,PayPal,Yes
+1041,68.0,Male,Jeans,Clothing,22,4.0,Yes,Venmo,Yes
+1042,,Male,Shirt,Clothing,25,4.9,Yes,,Yes
+1043,55.0,,Belt,Accessories,80,4.9,Yes,Venmo,Yes
+1044,28.0,Male,Jeans,Clothing,76,3.3,Yes,Bank Transfer,Yes
+1045,39.0,Male,Jeans,Clothing,30,4.4,Yes,Credit Card,Yes
+1046,54.0,Male,Sweater,Clothing,79,3.5,Yes,,Yes
+1047,40.0,Male,Sneakers,Footwear,22,,Yes,Credit Card,Yes
+1048,31.0,Male,Socks,Clothing,36,4.2,Yes,Debit Card,Yes
+1049,30.0,Male,Socks,Clothing,77,2.7,Yes,Cash,Yes
+1050,,Male,Sunglasses,Accessories,33,2.8,Yes,Credit Card,Yes
+1051,48.0,,,Footwear,64,3.8,Yes,Credit Card,Yes
+1052,45.0,Male,,Clothing,53,,Yes,,Yes
+1053,60.0,Male,,Footwear,36,,Yes,Venmo,Yes
+1054,59.0,Male,Blouse,Clothing,70,3.3,No,Cash,Yes
+1055,18.0,Male,Shorts,Clothing,96,4.9,No,,Yes
+1056,70.0,Male,Jacket,Outerwear,27,3.3,No,PayPal,Yes
+1057,20.0,,Sweater,Clothing,64,2.9,No,Debit Card,Yes
+1058,65.0,Male,Jacket,Outerwear,23,4.4,No,Bank Transfer,Yes
+1059,29.0,Male,Scarf,Accessories,33,3.1,No,Credit Card,Yes
+1060,22.0,,Jacket,Outerwear,34,,No,Venmo,Yes
+1061,27.0,,Sweater,Clothing,35,2.6,No,PayPal,Yes
+1062,36.0,Male,Coat,Outerwear,62,,No,Debit Card,Yes
+1063,59.0,Male,Boots,Footwear,75,2.6,No,Venmo,Yes
+1064,62.0,Male,Hoodie,Clothing,29,3.3,No,Bank Transfer,Yes
+1065,34.0,Male,Hat,Accessories,28,3.5,No,Debit Card,Yes
+1066,59.0,Male,T-shirt,Clothing,20,,No,,Yes
+1067,,Male,Coat,Outerwear,96,4.0,No,Credit Card,Yes
+1068,18.0,Male,Dress,Clothing,43,,No,Venmo,Yes
+1069,55.0,Male,,Clothing,94,2.5,No,,Yes
+1070,,Male,,Clothing,81,4.3,No,Credit Card,Yes
+1071,50.0,,,Accessories,75,3.3,No,Venmo,Yes
+1072,61.0,Male,Hat,Accessories,81,,No,Cash,Yes
+1073,48.0,Male,Shorts,Clothing,92,3.5,No,,Yes
+1074,22.0,Male,Scarf,Accessories,96,4.0,No,Cash,Yes
+1075,48.0,Male,,Accessories,71,2.6,No,,Yes
+1076,,Male,Sunglasses,Accessories,50,4.9,No,Debit Card,Yes
+1077,33.0,,Coat,Outerwear,72,2.9,No,,Yes
+1078,58.0,Male,Jacket,Outerwear,28,,No,,Yes
+1079,,Male,,Clothing,59,4.4,No,Cash,Yes
+1080,18.0,Male,Coat,Outerwear,33,4.4,No,,Yes
+1081,65.0,,Scarf,Accessories,59,3.8,No,,Yes
+1082,62.0,Male,Belt,Accessories,30,,No,Cash,Yes
+1083,54.0,Male,Hat,Accessories,85,2.6,No,PayPal,Yes
+1084,35.0,Male,Backpack,Accessories,97,3.3,No,Credit Card,Yes
+1085,,Male,T-shirt,Clothing,36,,No,Credit Card,Yes
+1086,,Male,Jewelry,Accessories,85,,No,,Yes
+1087,53.0,Male,Sunglasses,Accessories,62,3.0,No,PayPal,Yes
+1088,45.0,Male,Jeans,Clothing,71,3.4,No,PayPal,Yes
+1089,49.0,Male,Pants,Clothing,21,,No,Bank Transfer,Yes
+1090,40.0,Male,Backpack,Accessories,61,3.8,No,Debit Card,Yes
+1091,38.0,Male,Scarf,Accessories,58,4.2,No,,Yes
+1092,44.0,,Sweater,Clothing,80,,No,Cash,Yes
+1093,68.0,Male,Jewelry,Accessories,50,4.1,No,,Yes
+1094,60.0,Male,Sneakers,Footwear,48,4.2,No,PayPal,Yes
+1095,25.0,Male,Jewelry,Accessories,40,4.8,No,Credit Card,Yes
+1096,19.0,Male,Coat,Outerwear,34,,No,Debit Card,Yes
+1097,57.0,Male,Coat,Outerwear,46,,No,Credit Card,Yes
+1098,,Male,Sunglasses,Accessories,27,,No,Venmo,Yes
+1099,49.0,Male,Handbag,Accessories,98,,No,PayPal,Yes
+1100,,Male,Sweater,Clothing,73,2.6,No,Cash,Yes
+1101,50.0,Male,Pants,Clothing,28,4.4,No,Debit Card,Yes
+1102,30.0,Male,Gloves,Accessories,76,3.0,No,Cash,Yes
+1103,52.0,Male,,Clothing,83,2.9,No,Credit Card,Yes
+1104,35.0,Male,Hoodie,Clothing,23,,No,,Yes
+1105,35.0,,Hat,Accessories,28,3.1,No,Bank Transfer,Yes
+1106,,Male,T-shirt,Clothing,83,3.0,No,Credit Card,Yes
+1107,52.0,Male,Skirt,Clothing,96,3.6,No,Credit Card,Yes
+1108,69.0,,Sneakers,Footwear,62,2.8,No,,Yes
+1109,,Male,Shorts,Clothing,25,2.8,No,Venmo,Yes
+1110,66.0,Male,Hoodie,Clothing,97,4.9,No,Debit Card,Yes
+1111,,,Hoodie,Clothing,61,3.0,No,Debit Card,Yes
+1112,22.0,Male,Shoes,Footwear,66,4.1,No,Bank Transfer,Yes
+1113,69.0,Male,Hoodie,Clothing,67,4.6,No,Credit Card,Yes
+1114,28.0,Male,Sunglasses,Accessories,80,,No,,Yes
+1115,55.0,Male,,Clothing,25,2.6,No,Cash,Yes
+1116,30.0,Male,,Accessories,58,4.0,No,Bank Transfer,Yes
+1117,67.0,Male,Backpack,Accessories,96,,No,,Yes
+1118,25.0,Male,Sunglasses,Accessories,77,4.5,No,PayPal,Yes
+1119,49.0,Male,Belt,Accessories,65,,No,Debit Card,Yes
+1120,34.0,Male,Jewelry,Accessories,36,3.1,No,Venmo,Yes
+1121,22.0,Male,Sneakers,Footwear,84,,No,,Yes
+1122,63.0,Male,T-shirt,Clothing,58,3.2,No,,Yes
+1123,,,Handbag,Accessories,62,4.3,No,PayPal,Yes
+1124,36.0,Male,Hat,Accessories,67,2.5,No,Debit Card,Yes
+1125,,Male,,Clothing,20,,No,,Yes
+1126,27.0,Male,Sandals,Footwear,90,2.7,No,,Yes
+1127,23.0,Male,Scarf,Accessories,58,,No,Venmo,Yes
+1128,,Male,Shirt,Clothing,53,,No,Venmo,Yes
+1129,56.0,Male,Gloves,Accessories,30,4.7,No,,Yes
+1130,37.0,Male,Hoodie,Clothing,65,4.7,No,,Yes
+1131,67.0,Male,Jewelry,Accessories,41,3.9,No,Cash,Yes
+1132,67.0,,Shirt,Clothing,73,3.7,No,Credit Card,Yes
+1133,50.0,Male,,Clothing,98,4.3,No,PayPal,Yes
+1134,36.0,Male,Shoes,Footwear,36,4.1,No,,Yes
+1135,62.0,,T-shirt,Clothing,81,,No,Bank Transfer,Yes
+1136,,Male,Skirt,Clothing,90,3.6,No,,Yes
+1137,23.0,Male,Handbag,Accessories,83,4.8,No,Debit Card,Yes
+1138,46.0,Male,Shirt,Clothing,91,2.8,No,,Yes
+1139,18.0,,Pants,Clothing,36,4.7,No,Venmo,Yes
+1140,58.0,,Coat,Outerwear,53,3.9,No,PayPal,Yes
+1141,31.0,Male,Jeans,Clothing,39,2.6,No,Cash,Yes
+1142,39.0,Male,Gloves,Accessories,33,,No,Debit Card,Yes
+1143,69.0,Male,T-shirt,Clothing,76,3.5,No,Cash,Yes
+1144,68.0,Male,Boots,Footwear,23,,No,Cash,Yes
+1145,41.0,Male,Jeans,Clothing,54,4.4,No,PayPal,Yes
+1146,31.0,Male,Sneakers,Footwear,89,,No,,Yes
+1147,48.0,Male,Sneakers,Footwear,38,4.2,No,Debit Card,Yes
+1148,59.0,Male,Hat,Accessories,36,,No,PayPal,Yes
+1149,34.0,Male,Pants,Clothing,66,,No,Bank Transfer,Yes
+1150,21.0,Male,Jewelry,Accessories,42,,No,Cash,Yes
+1151,29.0,Male,Jewelry,Accessories,36,,No,,Yes
+1152,41.0,,Blouse,Clothing,86,,No,Bank Transfer,Yes
+1153,62.0,Male,Handbag,Accessories,49,4.0,No,Cash,Yes
+1154,27.0,Male,Shirt,Clothing,41,4.0,No,,Yes
+1155,49.0,Male,Dress,Clothing,82,2.9,No,Venmo,Yes
+1156,67.0,,T-shirt,Clothing,53,,No,Debit Card,Yes
+1157,20.0,Male,Shoes,Footwear,21,4.8,No,,Yes
+1158,37.0,Male,Belt,Accessories,66,4.4,No,Credit Card,Yes
+1159,69.0,Male,Belt,Accessories,89,4.0,No,Venmo,Yes
+1160,66.0,Male,Handbag,Accessories,55,,No,Debit Card,Yes
+1161,37.0,Male,,Accessories,42,,No,Cash,Yes
+1162,63.0,Male,Shorts,Clothing,52,3.1,No,Bank Transfer,Yes
+1163,47.0,Male,Sandals,Footwear,92,,No,Venmo,Yes
+1164,26.0,Male,Pants,Clothing,56,3.0,No,Credit Card,Yes
+1165,68.0,Male,Dress,Clothing,96,4.2,No,Credit Card,Yes
+1166,51.0,Male,T-shirt,Clothing,64,2.9,No,,Yes
+1167,48.0,Male,Dress,Clothing,48,,No,Cash,Yes
+1168,60.0,Male,Socks,Clothing,83,,No,,Yes
+1169,68.0,Male,Scarf,Accessories,91,,No,PayPal,Yes
+1170,25.0,Male,Backpack,Accessories,94,,No,Venmo,Yes
+1171,57.0,Male,Skirt,Clothing,62,3.2,No,Bank Transfer,Yes
+1172,41.0,Male,,Clothing,55,,No,Bank Transfer,Yes
+1173,59.0,,Coat,Outerwear,68,4.6,No,Credit Card,Yes
+1174,44.0,Male,Jewelry,Accessories,76,2.5,No,Credit Card,Yes
+1175,42.0,Male,Backpack,Accessories,31,4.3,No,,Yes
+1176,35.0,Male,Belt,Accessories,81,4.1,No,,Yes
+1177,36.0,Male,Dress,Clothing,83,4.6,No,Credit Card,Yes
+1178,54.0,Male,,Clothing,21,4.8,No,Cash,Yes
+1179,37.0,Male,Dress,Clothing,22,4.9,No,Credit Card,Yes
+1180,20.0,Male,T-shirt,Clothing,33,,No,Debit Card,Yes
+1181,23.0,Male,,Clothing,23,4.9,No,Cash,Yes
+1182,61.0,Male,Shorts,Clothing,96,3.5,No,Cash,Yes
+1183,37.0,Male,Jewelry,Accessories,21,3.8,No,,Yes
+1184,23.0,Male,Pants,Clothing,39,4.5,No,PayPal,Yes
+1185,63.0,Male,Belt,Accessories,73,,No,Bank Transfer,Yes
+1186,47.0,Male,Jeans,Clothing,64,,No,Debit Card,Yes
+1187,63.0,Male,Jeans,Clothing,68,,No,Cash,Yes
+1188,56.0,,Hat,Accessories,89,3.0,No,Cash,Yes
+1189,68.0,Male,Blouse,Clothing,29,3.3,No,Credit Card,Yes
+1190,64.0,Male,Shirt,Clothing,97,4.9,No,Venmo,Yes
+1191,62.0,,Shirt,Clothing,45,4.3,No,Bank Transfer,Yes
+1192,,Male,T-shirt,Clothing,70,,No,Debit Card,Yes
+1193,49.0,Male,Coat,Outerwear,56,4.0,No,,Yes
+1194,40.0,Male,Jacket,Outerwear,55,5.0,No,Venmo,Yes
+1195,50.0,Male,Hoodie,Clothing,46,3.1,No,,Yes
+1196,25.0,Male,Scarf,Accessories,95,4.0,No,Cash,Yes
+1197,30.0,,Belt,Accessories,88,3.2,No,,Yes
+1198,54.0,,,Footwear,92,3.9,No,Debit Card,Yes
+1199,40.0,Male,Socks,Clothing,49,3.9,No,Bank Transfer,Yes
+1200,49.0,Male,Sandals,Footwear,89,4.5,No,Credit Card,Yes
+1201,27.0,Male,Coat,Outerwear,22,4.4,No,Bank Transfer,Yes
+1202,27.0,,Shoes,Footwear,61,3.1,No,Cash,Yes
+1203,48.0,Male,Scarf,Accessories,29,2.9,No,Bank Transfer,Yes
+1204,40.0,Male,Sneakers,Footwear,82,3.7,No,Bank Transfer,Yes
+1205,67.0,Male,,Accessories,94,3.2,No,Bank Transfer,Yes
+1206,52.0,Male,Handbag,Accessories,99,3.5,No,Credit Card,Yes
+1207,22.0,Male,Handbag,Accessories,59,,No,Cash,Yes
+1208,62.0,Male,Boots,Footwear,90,4.1,No,,Yes
+1209,20.0,Male,,Footwear,100,2.9,No,Cash,Yes
+1210,41.0,Male,Pants,Clothing,62,3.8,No,PayPal,Yes
+1211,34.0,Male,Sunglasses,Accessories,78,4.1,No,PayPal,Yes
+1212,23.0,Male,Hoodie,Clothing,94,,No,,Yes
+1213,32.0,Male,Shoes,Footwear,74,2.5,No,Venmo,Yes
+1214,68.0,,Handbag,Accessories,52,3.7,No,Cash,Yes
+1215,30.0,Male,Jacket,Outerwear,81,3.8,No,,Yes
+1216,66.0,Male,Blouse,Clothing,20,,No,,Yes
+1217,62.0,Male,Pants,Clothing,32,,No,PayPal,Yes
+1218,50.0,Male,Boots,Footwear,63,2.6,No,Debit Card,Yes
+1219,55.0,Male,Boots,Footwear,79,3.1,No,Venmo,Yes
+1220,,Male,Sweater,Clothing,23,,No,,Yes
+1221,67.0,Male,Gloves,Accessories,64,,No,Bank Transfer,Yes
+1222,18.0,Male,Socks,Clothing,69,4.5,No,Bank Transfer,Yes
+1223,58.0,,,Clothing,69,3.4,No,Bank Transfer,Yes
+1224,69.0,Male,,Clothing,24,3.9,No,Credit Card,Yes
+1225,62.0,Male,,Clothing,50,3.7,No,,Yes
+1226,28.0,,Gloves,Accessories,97,2.6,No,Credit Card,Yes
+1227,53.0,Male,Sandals,Footwear,91,3.4,No,PayPal,Yes
+1228,27.0,Male,Blouse,Clothing,37,,No,Venmo,Yes
+1229,55.0,Male,Jacket,Outerwear,55,3.9,No,Venmo,Yes
+1230,,Male,Jewelry,Accessories,52,3.6,No,Venmo,Yes
+1231,25.0,Male,Hat,Accessories,80,4.6,No,Debit Card,Yes
+1232,66.0,,Socks,Clothing,79,,No,Credit Card,Yes
+1233,57.0,Male,Handbag,Accessories,23,3.6,No,Cash,Yes
+1234,46.0,Male,Pants,Clothing,73,3.5,No,Cash,Yes
+1235,38.0,Male,Gloves,Accessories,99,4.1,No,Cash,Yes
+1236,23.0,Male,,Clothing,22,3.0,No,,Yes
+1237,42.0,Male,Hat,Accessories,68,,No,,Yes
+1238,25.0,Male,Dress,Clothing,92,,No,Credit Card,Yes
+1239,55.0,Male,,Clothing,77,,No,PayPal,Yes
+1240,62.0,Male,Coat,Outerwear,37,4.8,No,PayPal,Yes
+1241,41.0,Male,Scarf,Accessories,79,2.9,No,Debit Card,Yes
+1242,58.0,Male,Hoodie,Clothing,51,3.1,No,Cash,Yes
+1243,56.0,,Socks,Clothing,27,,No,Bank Transfer,Yes
+1244,25.0,Male,Blouse,Clothing,23,3.0,No,PayPal,Yes
+1245,70.0,Male,,Clothing,76,3.9,No,Cash,Yes
+1246,42.0,Male,Dress,Clothing,31,,No,Bank Transfer,Yes
+1247,27.0,Male,Hoodie,Clothing,60,,No,Credit Card,Yes
+1248,65.0,Male,T-shirt,Clothing,99,3.5,No,Bank Transfer,Yes
+1249,62.0,,,Accessories,37,3.0,No,Credit Card,Yes
+1250,62.0,,,Footwear,50,4.5,No,PayPal,Yes
+1251,,Male,Jeans,Clothing,26,,No,Cash,Yes
+1252,,Male,Shorts,Clothing,86,5.0,No,,Yes
+1253,28.0,Male,Sandals,Footwear,41,4.0,No,,Yes
+1254,39.0,Male,Sandals,Footwear,23,4.9,No,Venmo,Yes
+1255,54.0,Male,Sneakers,Footwear,56,,No,Cash,Yes
+1256,,Male,Hat,Accessories,68,4.1,No,Credit Card,Yes
+1257,45.0,Male,Coat,Outerwear,48,,No,Cash,Yes
+1258,68.0,Male,,Clothing,67,3.0,No,,Yes
+1259,47.0,Male,Boots,Footwear,87,,No,,Yes
+1260,,Male,,Clothing,64,3.9,No,Bank Transfer,Yes
+1261,63.0,,Shirt,Clothing,93,4.1,No,Venmo,Yes
+1262,20.0,Male,Shirt,Clothing,29,2.8,No,Venmo,Yes
+1263,29.0,Male,Boots,Footwear,62,4.8,No,,Yes
+1264,41.0,Male,,Clothing,70,,No,Bank Transfer,Yes
+1265,52.0,Male,,Clothing,92,2.5,No,,Yes
+1266,32.0,Male,,Clothing,79,,No,,Yes
+1267,20.0,,,Clothing,31,4.0,No,Cash,Yes
+1268,47.0,Male,T-shirt,Clothing,83,,No,,Yes
+1269,23.0,Male,,Outerwear,88,2.9,No,Venmo,Yes
+1270,43.0,,Jewelry,Accessories,53,3.0,No,PayPal,Yes
+1271,67.0,Male,Hoodie,Clothing,98,3.3,No,Cash,Yes
+1272,70.0,Male,Jewelry,Accessories,57,4.3,No,Cash,Yes
+1273,,Male,Sandals,Footwear,80,,No,,Yes
+1274,,Male,Jeans,Clothing,29,4.1,No,,Yes
+1275,54.0,Male,Hat,Accessories,73,3.1,No,Cash,Yes
+1276,55.0,Male,Sweater,Clothing,32,4.5,No,PayPal,Yes
+1277,51.0,Male,Boots,Footwear,68,4.8,No,PayPal,Yes
+1278,19.0,Male,Blouse,Clothing,97,,No,Debit Card,Yes
+1279,28.0,,Shorts,Clothing,98,2.8,No,Credit Card,Yes
+1280,,Male,,Clothing,56,3.7,No,PayPal,Yes
+1281,30.0,Male,Pants,Clothing,78,4.4,No,PayPal,Yes
+1282,29.0,Male,Belt,Accessories,81,4.5,No,Cash,Yes
+1283,24.0,Male,Shirt,Clothing,68,3.0,No,Debit Card,Yes
+1284,69.0,Male,Shirt,Clothing,94,3.9,No,Credit Card,Yes
+1285,65.0,Male,Dress,Clothing,93,3.9,No,,Yes
+1286,64.0,Male,Gloves,Accessories,99,,No,Venmo,Yes
+1287,40.0,Male,Gloves,Accessories,49,,No,Bank Transfer,Yes
+1288,24.0,,Jeans,Clothing,28,,No,Venmo,Yes
+1289,66.0,Male,Belt,Accessories,93,4.1,No,Venmo,Yes
+1290,35.0,Male,Jacket,Outerwear,24,2.9,No,Debit Card,Yes
+1291,67.0,,Skirt,Clothing,35,3.4,No,,Yes
+1292,69.0,Male,Sandals,Footwear,68,3.2,No,Venmo,Yes
+1293,26.0,Male,Belt,Accessories,61,3.9,No,Debit Card,Yes
+1294,23.0,Male,,Clothing,74,4.1,No,Bank Transfer,Yes
+1295,27.0,Male,Shirt,Clothing,64,4.5,No,Credit Card,Yes
+1296,30.0,Male,Sneakers,Footwear,60,2.8,No,,Yes
+1297,48.0,Male,Jeans,Clothing,29,2.8,No,PayPal,Yes
+1298,44.0,Male,Sandals,Footwear,85,,No,Debit Card,Yes
+1299,29.0,Male,Pants,Clothing,81,,No,Cash,Yes
+1300,29.0,Male,Belt,Accessories,23,,No,Bank Transfer,Yes
+1301,67.0,Male,T-shirt,Clothing,100,4.5,No,,Yes
+1302,42.0,Male,,Clothing,54,,No,,Yes
+1303,23.0,Male,Sneakers,Footwear,25,2.9,No,Bank Transfer,Yes
+1304,34.0,Male,Blouse,Clothing,32,3.1,No,,Yes
+1305,64.0,Male,Backpack,Accessories,63,,No,Bank Transfer,Yes
+1306,31.0,,Pants,Clothing,56,4.5,No,Venmo,Yes
+1307,54.0,Male,Sweater,Clothing,33,,No,Cash,Yes
+1308,23.0,,Coat,Outerwear,32,3.1,No,,Yes
+1309,59.0,Male,Dress,Clothing,38,4.4,No,Credit Card,Yes
+1310,32.0,Male,Blouse,Clothing,21,4.7,No,,Yes
+1311,43.0,,,Clothing,59,3.1,No,Credit Card,Yes
+1312,32.0,Male,Shoes,Footwear,87,,No,Credit Card,Yes
+1313,66.0,,T-shirt,Clothing,79,,No,,Yes
+1314,,Male,Shoes,Footwear,28,2.6,No,,Yes
+1315,,Male,Boots,Footwear,67,3.4,No,Venmo,Yes
+1316,56.0,Male,Shorts,Clothing,75,4.2,No,,Yes
+1317,28.0,Male,Belt,Accessories,32,4.6,No,PayPal,Yes
+1318,,Male,,Clothing,43,2.8,No,Credit Card,Yes
+1319,52.0,Male,Shorts,Clothing,93,2.7,No,Venmo,Yes
+1320,65.0,Male,Sunglasses,Accessories,24,4.0,No,Credit Card,Yes
+1321,56.0,Male,,Accessories,31,,No,PayPal,Yes
+1322,59.0,Male,T-shirt,Clothing,84,,No,Credit Card,Yes
+1323,23.0,Male,Pants,Clothing,74,4.0,No,Credit Card,Yes
+1324,58.0,Male,Shorts,Clothing,62,4.6,No,Cash,Yes
+1325,39.0,,Jewelry,Accessories,77,3.8,No,Credit Card,Yes
+1326,28.0,Male,Backpack,Accessories,73,,No,Venmo,Yes
+1327,40.0,Male,Shoes,Footwear,50,4.6,No,Bank Transfer,Yes
+1328,52.0,Male,Coat,Outerwear,40,,No,Credit Card,Yes
+1329,37.0,,Sweater,Clothing,97,3.7,No,Debit Card,Yes
+1330,70.0,Male,Gloves,Accessories,63,3.3,No,PayPal,Yes
+1331,30.0,,Handbag,Accessories,65,2.9,No,,Yes
+1332,38.0,,,Clothing,91,,No,Credit Card,Yes
+1333,66.0,Male,Hoodie,Clothing,60,4.3,No,Bank Transfer,Yes
+1334,29.0,Male,Pants,Clothing,69,,No,,Yes
+1335,46.0,Male,,Outerwear,52,,No,,Yes
+1336,56.0,Male,Boots,Footwear,49,4.8,No,Credit Card,Yes
+1337,23.0,,Sneakers,Footwear,85,,No,PayPal,Yes
+1338,,Male,Sweater,Clothing,86,3.4,No,,Yes
+1339,56.0,Male,Handbag,Accessories,51,2.6,No,Bank Transfer,Yes
+1340,36.0,Male,Belt,Accessories,56,5.0,No,PayPal,Yes
+1341,40.0,Male,Belt,Accessories,72,4.4,No,Credit Card,Yes
+1342,26.0,,Hoodie,Clothing,27,2.9,No,,Yes
+1343,57.0,Male,Sunglasses,Accessories,43,3.4,No,,Yes
+1344,,Male,Sneakers,Footwear,56,,No,Venmo,Yes
+1345,56.0,Male,T-shirt,Clothing,37,4.9,No,Credit Card,Yes
+1346,40.0,Male,Dress,Clothing,21,3.6,No,Credit Card,Yes
+1347,44.0,Male,Hoodie,Clothing,91,3.0,No,Credit Card,Yes
+1348,44.0,,Sweater,Clothing,95,3.9,No,Venmo,Yes
+1349,,,Belt,Accessories,54,,No,PayPal,Yes
+1350,21.0,Male,Socks,Clothing,36,3.2,No,Bank Transfer,Yes
+1351,31.0,Male,Sunglasses,Accessories,71,4.3,No,Cash,Yes
+1352,30.0,Male,Coat,Outerwear,31,2.8,No,Credit Card,Yes
+1353,65.0,,Hat,Accessories,89,4.5,No,Bank Transfer,Yes
+1354,39.0,Male,Pants,Clothing,83,4.1,No,Bank Transfer,Yes
+1355,64.0,Male,Backpack,Accessories,42,3.6,No,,Yes
+1356,59.0,Male,,Clothing,91,3.0,No,Venmo,Yes
+1357,49.0,,Jacket,Outerwear,61,4.0,No,Debit Card,Yes
+1358,24.0,Male,Backpack,Accessories,66,3.5,No,,Yes
+1359,,,,Accessories,22,2.5,No,Debit Card,Yes
+1360,27.0,Male,Hoodie,Clothing,68,,No,Debit Card,Yes
+1361,56.0,,Skirt,Clothing,43,2.8,No,,Yes
+1362,,Male,Dress,Clothing,32,3.7,No,,Yes
+1363,41.0,Male,Coat,Outerwear,46,4.3,No,Cash,Yes
+1364,36.0,Male,Blouse,Clothing,90,,No,Bank Transfer,Yes
+1365,68.0,Male,Hat,Accessories,75,4.7,No,Cash,Yes
+1366,28.0,,Handbag,Accessories,69,,No,PayPal,Yes
+1367,45.0,Male,,Accessories,40,3.1,No,Debit Card,Yes
+1368,60.0,Male,Belt,Accessories,63,,No,Venmo,Yes
+1369,21.0,Male,Shirt,Clothing,36,4.9,No,Venmo,Yes
+1370,32.0,,Shoes,Footwear,75,3.2,No,Cash,Yes
+1371,27.0,Male,Scarf,Accessories,67,,No,PayPal,Yes
+1372,40.0,Male,Pants,Clothing,64,2.8,No,PayPal,Yes
+1373,64.0,Male,Blouse,Clothing,61,4.0,No,Credit Card,Yes
+1374,18.0,Male,Gloves,Accessories,40,2.6,No,Credit Card,Yes
+1375,22.0,Male,Handbag,Accessories,97,2.7,No,Debit Card,Yes
+1376,42.0,Male,Sneakers,Footwear,31,4.1,No,Venmo,Yes
+1377,57.0,Male,Sandals,Footwear,65,5.0,No,Cash,Yes
+1378,33.0,Male,Sunglasses,Accessories,54,3.0,No,Credit Card,Yes
+1379,37.0,,Jacket,Outerwear,49,3.6,No,PayPal,Yes
+1380,21.0,Male,T-shirt,Clothing,64,2.8,No,,Yes
+1381,51.0,Male,Sneakers,Footwear,35,4.6,No,Bank Transfer,Yes
+1382,30.0,Male,Shoes,Footwear,86,,No,Cash,Yes
+1383,68.0,Male,,Outerwear,55,4.8,No,Venmo,Yes
+1384,36.0,Male,Scarf,Accessories,58,,No,Bank Transfer,Yes
+1385,,Male,Sneakers,Footwear,96,4.6,No,Cash,Yes
+1386,,Male,,Accessories,64,2.6,No,Debit Card,Yes
+1387,68.0,Male,Jacket,Outerwear,56,4.0,No,Bank Transfer,Yes
+1388,21.0,Male,Blouse,Clothing,85,3.8,No,,Yes
+1389,62.0,Male,Dress,Clothing,23,3.9,No,Cash,Yes
+1390,59.0,Male,Scarf,Accessories,72,2.6,No,Debit Card,Yes
+1391,25.0,,Hat,Accessories,38,,No,Venmo,Yes
+1392,53.0,Male,Blouse,Clothing,29,,No,Bank Transfer,Yes
+1393,31.0,Male,Gloves,Accessories,46,,No,Debit Card,Yes
+1394,46.0,Male,Gloves,Accessories,58,3.9,No,,Yes
+1395,26.0,,Coat,Outerwear,43,4.7,No,,Yes
+1396,47.0,Male,Scarf,Accessories,32,2.8,No,Cash,Yes
+1397,,Male,,Clothing,30,3.0,No,Cash,Yes
+1398,55.0,Male,Sunglasses,Accessories,67,,No,Cash,Yes
+1399,30.0,Male,Dress,Clothing,45,,No,,Yes
+1400,19.0,,Hat,Accessories,81,3.1,No,Bank Transfer,Yes
+1401,36.0,Male,Backpack,Accessories,23,3.6,No,Venmo,Yes
+1402,23.0,Male,Sandals,Footwear,59,3.5,No,Cash,Yes
+1403,62.0,,,Accessories,21,3.1,No,,Yes
+1404,26.0,,Backpack,Accessories,20,,No,Bank Transfer,Yes
+1405,36.0,Male,Jewelry,Accessories,28,,No,,Yes
+1406,33.0,Male,Socks,Clothing,100,2.7,No,Cash,Yes
+1407,32.0,Male,Shirt,Clothing,46,3.6,No,Venmo,Yes
+1408,56.0,Male,Handbag,Accessories,61,4.5,No,,Yes
+1409,58.0,Male,Blouse,Clothing,58,4.1,No,Debit Card,Yes
+1410,34.0,Male,Backpack,Accessories,50,4.2,No,Credit Card,Yes
+1411,61.0,,Hat,Accessories,93,,No,Venmo,Yes
+1412,48.0,Male,Skirt,Clothing,24,,No,PayPal,Yes
+1413,25.0,Male,Shorts,Clothing,100,2.6,No,Debit Card,Yes
+1414,51.0,Male,,Clothing,79,2.7,No,Venmo,Yes
+1415,29.0,Male,Socks,Clothing,51,4.5,No,Debit Card,Yes
+1416,54.0,Male,,Accessories,90,,No,Bank Transfer,Yes
+1417,48.0,,Boots,Footwear,56,3.4,No,PayPal,Yes
+1418,62.0,,Shorts,Clothing,25,4.6,No,Cash,Yes
+1419,18.0,Male,,Clothing,75,,No,,Yes
+1420,43.0,Male,,Accessories,75,2.6,No,,Yes
+1421,22.0,Male,Jeans,Clothing,53,4.6,No,,Yes
+1422,68.0,Male,,Clothing,100,,No,Credit Card,Yes
+1423,44.0,Male,Dress,Clothing,27,,No,PayPal,Yes
+1424,51.0,Male,,Footwear,60,,No,,Yes
+1425,,Male,Jacket,Outerwear,23,,No,Cash,Yes
+1426,,,Coat,Outerwear,40,3.7,No,Debit Card,Yes
+1427,,Male,,Clothing,38,4.8,No,Credit Card,Yes
+1428,31.0,Male,Backpack,Accessories,90,4.9,No,PayPal,Yes
+1429,20.0,,Blouse,Clothing,97,4.9,No,Debit Card,Yes
+1430,24.0,Male,Skirt,Clothing,38,4.7,No,Venmo,Yes
+1431,48.0,Male,,Footwear,30,4.9,No,PayPal,Yes
+1432,39.0,Male,Pants,Clothing,88,2.9,No,Bank Transfer,Yes
+1433,34.0,,Hat,Accessories,33,4.4,No,Cash,Yes
+1434,70.0,Male,Hoodie,Clothing,60,,No,Venmo,Yes
+1435,59.0,Male,Sweater,Clothing,64,4.6,No,PayPal,Yes
+1436,,,Scarf,Accessories,95,4.0,No,Debit Card,Yes
+1437,35.0,,Sneakers,Footwear,83,,No,,Yes
+1438,69.0,,Boots,Footwear,97,4.2,No,Debit Card,Yes
+1439,58.0,,Coat,Outerwear,38,2.9,No,Cash,Yes
+1440,25.0,Male,Boots,Footwear,48,,No,,Yes
+1441,27.0,Male,Sandals,Footwear,76,4.4,No,Bank Transfer,Yes
+1442,34.0,Male,Pants,Clothing,25,3.4,No,,Yes
+1443,53.0,,Hoodie,Clothing,92,2.8,No,,Yes
+1444,,,,Footwear,47,4.2,No,PayPal,Yes
+1445,32.0,,,Clothing,36,3.8,No,Venmo,Yes
+1446,64.0,Male,Belt,Accessories,51,3.1,No,Venmo,Yes
+1447,63.0,Male,Jeans,Clothing,35,3.2,No,,Yes
+1448,,Male,Hoodie,Clothing,57,3.0,No,Credit Card,Yes
+1449,64.0,Male,Boots,Footwear,95,,No,Bank Transfer,Yes
+1450,18.0,,,Clothing,41,2.5,No,Debit Card,Yes
+1451,25.0,Male,Dress,Clothing,44,3.4,No,PayPal,Yes
+1452,54.0,Male,,Outerwear,34,2.5,No,Venmo,Yes
+1453,60.0,Male,,Outerwear,25,4.7,No,Venmo,Yes
+1454,36.0,Male,Boots,Footwear,93,3.2,No,PayPal,Yes
+1455,66.0,,,Footwear,50,,No,Bank Transfer,Yes
+1456,60.0,Male,Pants,Clothing,79,4.9,No,Debit Card,Yes
+1457,59.0,Male,Coat,Outerwear,100,2.7,No,Venmo,Yes
+1458,58.0,Male,Shirt,Clothing,57,,No,Bank Transfer,Yes
+1459,35.0,Male,Sweater,Clothing,28,2.9,No,Debit Card,Yes
+1460,20.0,Male,,Footwear,35,4.8,No,PayPal,Yes
+1461,70.0,Male,Boots,Footwear,85,4.6,No,Venmo,Yes
+1462,54.0,Male,Sunglasses,Accessories,95,5.0,No,PayPal,Yes
+1463,38.0,Male,Sneakers,Footwear,90,4.8,No,Venmo,Yes
+1464,54.0,,Jewelry,Accessories,49,4.9,No,,Yes
+1465,33.0,,Belt,Accessories,92,4.6,No,,Yes
+1466,46.0,,Gloves,Accessories,72,3.9,No,Bank Transfer,Yes
+1467,58.0,Male,Shorts,Clothing,71,4.5,No,PayPal,Yes
+1468,30.0,Male,Jewelry,Accessories,27,4.7,No,,Yes
+1469,42.0,Male,Gloves,Accessories,39,3.9,No,Bank Transfer,Yes
+1470,28.0,Male,Jewelry,Accessories,98,4.4,No,Debit Card,Yes
+1471,43.0,Male,Sandals,Footwear,27,3.9,No,Venmo,Yes
+1472,31.0,Male,Jewelry,Accessories,71,,No,PayPal,Yes
+1473,39.0,Male,Hat,Accessories,24,3.5,No,,Yes
+1474,69.0,,,Clothing,63,,No,,Yes
+1475,31.0,,Sweater,Clothing,72,3.9,No,Bank Transfer,Yes
+1476,44.0,Male,Blouse,Clothing,61,4.0,No,Bank Transfer,Yes
+1477,39.0,Male,Hat,Accessories,56,,No,Credit Card,Yes
+1478,24.0,Male,Belt,Accessories,32,4.3,No,Credit Card,Yes
+1479,28.0,Male,Gloves,Accessories,23,4.2,No,,Yes
+1480,48.0,,Coat,Outerwear,100,4.0,No,Debit Card,Yes
+1481,,Male,Jewelry,Accessories,74,,No,Cash,Yes
+1482,64.0,,Skirt,Clothing,33,3.3,No,Credit Card,Yes
+1483,28.0,,Gloves,Accessories,67,,No,Venmo,Yes
+1484,39.0,Male,Jewelry,Accessories,61,4.7,No,PayPal,Yes
+1485,49.0,Male,Shorts,Clothing,46,,No,Cash,Yes
+1486,22.0,Male,Gloves,Accessories,56,3.4,No,Bank Transfer,Yes
+1487,25.0,Male,Sneakers,Footwear,73,5.0,No,Cash,Yes
+1488,,Male,Skirt,Clothing,44,4.6,No,Credit Card,Yes
+1489,23.0,Male,Hat,Accessories,44,4.0,No,Venmo,Yes
+1490,24.0,Male,Jewelry,Accessories,26,4.1,No,PayPal,Yes
+1491,66.0,,Sneakers,Footwear,52,4.9,No,Venmo,Yes
+1492,,Male,Shirt,Clothing,54,2.7,No,Venmo,Yes
+1493,62.0,Male,Jacket,Outerwear,38,,No,,Yes
+1494,70.0,Male,Belt,Accessories,44,2.7,No,Venmo,Yes
+1495,43.0,Male,T-shirt,Clothing,76,,No,Bank Transfer,Yes
+1496,45.0,Male,Jewelry,Accessories,23,,No,PayPal,Yes
+1497,63.0,Male,,Clothing,98,5.0,No,Credit Card,Yes
+1498,69.0,Male,Jacket,Outerwear,33,3.8,No,Debit Card,Yes
+1499,59.0,,Sweater,Clothing,32,3.1,No,PayPal,Yes
+1500,19.0,,Boots,Footwear,85,3.4,No,Cash,Yes
+1501,63.0,Male,Jeans,Clothing,69,4.8,No,Venmo,Yes
+1502,37.0,,Jeans,Clothing,55,2.7,No,,Yes
+1503,37.0,Male,Pants,Clothing,66,3.2,No,,Yes
+1504,50.0,Male,Jacket,Outerwear,30,3.9,No,Cash,Yes
+1505,60.0,,Jacket,Outerwear,80,4.2,No,Cash,Yes
+1506,46.0,Male,Belt,Accessories,20,3.0,No,PayPal,Yes
+1507,35.0,,,Clothing,30,,No,Venmo,Yes
+1508,66.0,Male,,Clothing,86,,No,Bank Transfer,Yes
+1509,35.0,Male,Blouse,Clothing,84,,No,,Yes
+1510,20.0,Male,Dress,Clothing,54,4.6,No,Credit Card,Yes
+1511,55.0,Male,Blouse,Clothing,30,3.0,No,,Yes
+1512,34.0,,Dress,Clothing,91,3.6,No,Credit Card,Yes
+1513,60.0,Male,Sneakers,Footwear,23,3.9,No,Debit Card,Yes
+1514,22.0,,Socks,Clothing,35,,No,PayPal,Yes
+1515,26.0,Male,Shoes,Footwear,90,3.9,No,,Yes
+1516,39.0,Male,Jeans,Clothing,93,,No,,Yes
+1517,20.0,Male,Jeans,Clothing,68,4.5,No,,Yes
+1518,57.0,Male,Gloves,Accessories,41,3.4,No,,Yes
+1519,68.0,,Belt,Accessories,73,4.1,No,Cash,Yes
+1520,50.0,Male,Sunglasses,Accessories,73,4.9,No,Venmo,Yes
+1521,,,Hat,Accessories,66,,No,Venmo,Yes
+1522,29.0,Male,Backpack,Accessories,59,2.7,No,,Yes
+1523,38.0,Male,Shorts,Clothing,72,4.8,No,Venmo,Yes
+1524,54.0,Male,Socks,Clothing,88,3.3,No,Venmo,Yes
+1525,22.0,Male,Socks,Clothing,76,,No,Debit Card,Yes
+1526,29.0,Male,Belt,Accessories,31,,No,Debit Card,Yes
+1527,41.0,Male,,Outerwear,22,3.1,No,,Yes
+1528,26.0,Male,Hat,Accessories,75,,No,,Yes
+1529,69.0,Male,T-shirt,Clothing,75,4.0,No,Credit Card,Yes
+1530,20.0,Male,Backpack,Accessories,63,3.1,No,Venmo,Yes
+1531,59.0,Male,Coat,Outerwear,21,3.9,No,Venmo,Yes
+1532,63.0,Male,Backpack,Accessories,83,,No,Cash,Yes
+1533,68.0,Male,Jacket,Outerwear,46,4.4,No,PayPal,Yes
+1534,50.0,Male,Shoes,Footwear,59,3.6,No,,Yes
+1535,55.0,Male,Blouse,Clothing,66,,No,Venmo,Yes
+1536,36.0,Male,Sandals,Footwear,74,4.0,No,PayPal,Yes
+1537,,Male,Sunglasses,Accessories,82,,No,Cash,Yes
+1538,68.0,,Shoes,Footwear,89,3.2,No,,Yes
+1539,56.0,Male,Dress,Clothing,65,,No,,Yes
+1540,32.0,Male,Belt,Accessories,55,5.0,No,Credit Card,Yes
+1541,28.0,Male,Shorts,Clothing,95,,No,Debit Card,Yes
+1542,24.0,Male,Handbag,Accessories,77,2.9,No,,Yes
+1543,59.0,Male,Blouse,Clothing,44,3.5,No,,Yes
+1544,56.0,Male,Jeans,Clothing,89,4.0,No,Bank Transfer,Yes
+1545,30.0,Male,Jewelry,Accessories,24,,No,PayPal,Yes
+1546,48.0,Male,Belt,Accessories,43,,No,Cash,Yes
+1547,60.0,Male,,Footwear,51,3.8,No,Credit Card,Yes
+1548,46.0,Male,Hat,Accessories,46,,No,,Yes
+1549,69.0,Male,Dress,Clothing,32,,No,PayPal,Yes
+1550,19.0,Male,,Footwear,55,2.9,No,Cash,Yes
+1551,66.0,Male,Sunglasses,Accessories,26,2.8,No,Debit Card,Yes
+1552,64.0,,,Accessories,29,3.7,No,Debit Card,Yes
+1553,54.0,,Blouse,Clothing,49,3.0,No,Debit Card,Yes
+1554,27.0,,,Clothing,45,4.8,No,PayPal,Yes
+1555,64.0,,Shorts,Clothing,48,2.7,No,Credit Card,Yes
+1556,43.0,Male,Shorts,Clothing,47,4.5,No,,Yes
+1557,43.0,Male,Hoodie,Clothing,57,2.7,No,Venmo,Yes
+1558,27.0,Male,Backpack,Accessories,34,3.5,No,PayPal,Yes
+1559,,,Sunglasses,Accessories,75,,No,Credit Card,Yes
+1560,43.0,Male,Scarf,Accessories,94,4.5,No,Venmo,Yes
+1561,57.0,Male,Hat,Accessories,84,3.8,No,Venmo,Yes
+1562,50.0,,Scarf,Accessories,38,3.8,No,Credit Card,Yes
+1563,37.0,Male,Scarf,Accessories,75,3.2,No,Credit Card,Yes
+1564,68.0,Male,Pants,Clothing,44,4.3,No,Credit Card,Yes
+1565,22.0,Male,Backpack,Accessories,33,4.5,No,,Yes
+1566,,,,Accessories,93,,No,Venmo,Yes
+1567,,Male,,Footwear,99,3.0,No,,Yes
+1568,30.0,Male,Backpack,Accessories,33,4.1,No,,Yes
+1569,51.0,,Sneakers,Footwear,76,4.6,No,,Yes
+1570,20.0,Male,Skirt,Clothing,63,2.9,No,,Yes
+1571,30.0,Male,Pants,Clothing,41,4.8,No,Debit Card,Yes
+1572,28.0,Male,Jewelry,Accessories,88,,No,Cash,Yes
+1573,37.0,Male,Skirt,Clothing,92,,No,Venmo,Yes
+1574,36.0,Male,T-shirt,Clothing,31,4.3,No,Debit Card,Yes
+1575,18.0,Male,Skirt,Clothing,25,4.2,No,,Yes
+1576,52.0,Male,Shirt,Clothing,28,3.6,No,Cash,Yes
+1577,56.0,Male,Dress,Clothing,75,3.7,No,,Yes
+1578,68.0,Male,Boots,Footwear,34,4.0,No,Debit Card,Yes
+1579,,,Pants,Clothing,97,4.9,No,,Yes
+1580,35.0,Male,Jacket,Outerwear,80,3.1,No,Cash,Yes
+1581,65.0,Male,Sneakers,Footwear,71,3.7,No,Credit Card,Yes
+1582,69.0,Male,Jewelry,Accessories,77,4.2,No,PayPal,Yes
+1583,28.0,Male,,Accessories,41,,No,Cash,Yes
+1584,37.0,Male,Scarf,Accessories,92,4.3,No,Cash,Yes
+1585,41.0,Male,Blouse,Clothing,95,,No,Venmo,Yes
+1586,37.0,Male,Sweater,Clothing,25,3.0,No,Cash,Yes
+1587,,,Boots,Footwear,77,4.0,No,Debit Card,Yes
+1588,41.0,Male,Socks,Clothing,99,,No,Venmo,Yes
+1589,,Male,,Accessories,24,3.2,No,Cash,Yes
+1590,42.0,Male,Sneakers,Footwear,72,2.7,No,Venmo,Yes
+1591,54.0,Male,Jeans,Clothing,80,3.0,No,Cash,Yes
+1592,18.0,Male,Skirt,Clothing,100,,No,Bank Transfer,Yes
+1593,56.0,,Shoes,Footwear,83,3.3,No,Credit Card,Yes
+1594,61.0,Male,Dress,Clothing,95,4.9,No,PayPal,Yes
+1595,40.0,Male,Handbag,Accessories,41,3.7,No,Bank Transfer,Yes
+1596,34.0,Male,Backpack,Accessories,35,3.5,No,Cash,Yes
+1597,42.0,Male,Jewelry,Accessories,30,4.7,No,,Yes
+1598,43.0,,Hat,Accessories,21,2.6,No,Debit Card,Yes
+1599,47.0,,Jewelry,Accessories,85,,No,Credit Card,Yes
+1600,48.0,Male,Shirt,Clothing,54,2.8,No,Venmo,Yes
+1601,20.0,,Boots,Footwear,26,4.7,No,,Yes
+1602,65.0,Male,Shirt,Clothing,59,2.9,No,,Yes
+1603,54.0,Male,Sunglasses,Accessories,48,2.8,No,Credit Card,Yes
+1604,23.0,,,Clothing,98,,No,,Yes
+1605,18.0,,Sweater,Clothing,92,4.8,No,Venmo,Yes
+1606,70.0,Male,,Accessories,46,,No,Bank Transfer,Yes
+1607,55.0,Male,T-shirt,Clothing,21,4.3,No,Debit Card,Yes
+1608,49.0,,Shorts,Clothing,72,2.7,No,Venmo,Yes
+1609,26.0,Male,Sandals,Footwear,58,4.6,No,,Yes
+1610,33.0,Male,Shirt,Clothing,93,4.1,No,,Yes
+1611,,Male,,Clothing,31,3.4,No,Credit Card,Yes
+1612,41.0,Male,Pants,Clothing,26,4.5,No,PayPal,Yes
+1613,,Male,Skirt,Clothing,68,4.4,No,Bank Transfer,Yes
+1614,,Male,Jewelry,Accessories,31,,No,Credit Card,Yes
+1615,30.0,Male,,Clothing,41,3.4,No,Cash,Yes
+1616,64.0,Male,Jewelry,Accessories,62,,No,PayPal,Yes
+1617,26.0,Male,,Accessories,41,3.4,No,Bank Transfer,Yes
+1618,43.0,,Blouse,Clothing,64,4.3,No,PayPal,Yes
+1619,63.0,Male,Sandals,Footwear,72,5.0,No,Venmo,Yes
+1620,57.0,,Handbag,Accessories,78,3.5,No,Cash,Yes
+1621,25.0,Male,Hat,Accessories,47,3.1,No,Bank Transfer,Yes
+1622,68.0,Male,Scarf,Accessories,46,3.9,No,Venmo,Yes
+1623,31.0,Male,,Clothing,43,,No,PayPal,Yes
+1624,64.0,Male,Backpack,Accessories,58,3.5,No,Venmo,Yes
+1625,38.0,Male,Sweater,Clothing,32,3.6,No,Venmo,Yes
+1626,,Male,Skirt,Clothing,45,,No,PayPal,Yes
+1627,32.0,Male,Sneakers,Footwear,35,2.6,No,,Yes
+1628,,Male,Sunglasses,Accessories,21,2.9,No,Venmo,Yes
+1629,45.0,Male,Dress,Clothing,64,,No,,Yes
+1630,35.0,Male,Blouse,Clothing,88,3.3,No,Credit Card,Yes
+1631,,,Shoes,Footwear,48,2.9,No,,Yes
+1632,65.0,,Sweater,Clothing,36,3.9,No,PayPal,Yes
+1633,,Male,Gloves,Accessories,28,4.7,No,PayPal,Yes
+1634,54.0,,Socks,Clothing,80,4.4,No,Bank Transfer,Yes
+1635,28.0,,Coat,Outerwear,23,,No,,Yes
+1636,68.0,Male,Sunglasses,Accessories,24,,No,Cash,Yes
+1637,58.0,Male,Boots,Footwear,22,,No,Credit Card,Yes
+1638,35.0,Male,Dress,Clothing,21,3.5,No,Bank Transfer,Yes
+1639,68.0,Male,Jacket,Outerwear,51,4.6,No,PayPal,Yes
+1640,,Male,Gloves,Accessories,65,,No,,Yes
+1641,65.0,Male,Scarf,Accessories,51,4.0,No,,Yes
+1642,50.0,Male,Hoodie,Clothing,32,3.4,No,,Yes
+1643,18.0,Male,Coat,Outerwear,70,4.2,No,Bank Transfer,Yes
+1644,38.0,,Scarf,Accessories,77,3.9,No,PayPal,Yes
+1645,68.0,Male,Coat,Outerwear,90,3.9,No,PayPal,Yes
+1646,53.0,Male,Scarf,Accessories,36,2.8,No,Bank Transfer,Yes
+1647,58.0,Male,Handbag,Accessories,77,3.7,No,Credit Card,Yes
+1648,34.0,Male,Boots,Footwear,78,,No,Credit Card,Yes
+1649,,Male,Pants,Clothing,69,2.6,No,,Yes
+1650,58.0,Male,T-shirt,Clothing,63,4.9,No,PayPal,Yes
+1651,60.0,Male,Scarf,Accessories,36,3.4,No,Venmo,Yes
+1652,59.0,Male,,Outerwear,80,,No,,Yes
+1653,65.0,Male,Sweater,Clothing,35,4.0,No,,Yes
+1654,31.0,Male,Belt,Accessories,93,3.0,No,Venmo,Yes
+1655,,Male,Belt,Accessories,25,2.6,No,Venmo,Yes
+1656,37.0,,Sweater,Clothing,81,,No,Venmo,Yes
+1657,21.0,Male,,Clothing,42,,No,Credit Card,Yes
+1658,69.0,,Skirt,Clothing,36,3.2,No,Cash,Yes
+1659,32.0,,Jewelry,Accessories,66,4.1,No,Debit Card,Yes
+1660,53.0,Male,Gloves,Accessories,37,3.9,No,Bank Transfer,Yes
+1661,59.0,,T-shirt,Clothing,45,,No,Venmo,Yes
+1662,64.0,Male,Gloves,Accessories,86,2.7,No,Credit Card,Yes
+1663,63.0,Male,Sunglasses,Accessories,24,4.6,No,Debit Card,Yes
+1664,43.0,Male,Shirt,Clothing,22,3.5,No,Cash,Yes
+1665,19.0,Male,Handbag,Accessories,53,5.0,No,PayPal,Yes
+1666,40.0,Male,Jacket,Outerwear,41,3.4,No,Cash,Yes
+1667,51.0,Male,Skirt,Clothing,64,3.1,No,Cash,Yes
+1668,,,Handbag,Accessories,40,3.4,No,,Yes
+1669,66.0,Male,Blouse,Clothing,33,4.0,No,Credit Card,Yes
+1670,42.0,Male,T-shirt,Clothing,59,2.7,No,PayPal,Yes
+1671,22.0,Male,Pants,Clothing,73,3.6,No,Venmo,Yes
+1672,31.0,,Hoodie,Clothing,22,,No,PayPal,Yes
+1673,18.0,Male,,Footwear,73,,No,Debit Card,Yes
+1674,21.0,,Blouse,Clothing,62,3.4,No,Debit Card,Yes
+1675,35.0,Male,Coat,Outerwear,56,3.2,No,PayPal,Yes
+1676,35.0,,,Clothing,90,4.7,No,Venmo,Yes
+1677,27.0,Male,Sunglasses,Accessories,44,3.1,No,PayPal,Yes
+1678,,Male,Jeans,Clothing,35,,No,PayPal,No
+1679,41.0,,,Clothing,71,4.8,No,PayPal,No
+1680,,Male,Dress,Clothing,52,4.5,No,,No
+1681,61.0,Male,Shoes,Footwear,37,,No,Credit Card,No
+1682,24.0,Male,,Footwear,95,3.7,No,,No
+1683,65.0,Male,Socks,Clothing,97,4.9,No,Venmo,No
+1684,,Male,Coat,Outerwear,57,3.5,No,Debit Card,No
+1685,30.0,Male,Shirt,Clothing,93,4.6,No,Cash,No
+1686,33.0,Male,Blouse,Clothing,48,4.6,No,,No
+1687,,Male,Gloves,Accessories,75,,No,Credit Card,No
+1688,67.0,,Skirt,Clothing,70,3.7,No,Venmo,No
+1689,28.0,Male,Handbag,Accessories,26,3.0,No,,No
+1690,32.0,Male,,Clothing,73,,No,Credit Card,No
+1691,40.0,Male,Coat,Outerwear,30,3.2,No,Cash,No
+1692,64.0,Male,Shoes,Footwear,61,3.5,No,Credit Card,No
+1693,56.0,,Handbag,Accessories,75,2.6,No,,No
+1694,63.0,,Jacket,Outerwear,88,,No,Venmo,No
+1695,20.0,Male,Shirt,Clothing,67,2.7,No,Credit Card,No
+1696,,Male,Hat,Accessories,95,,No,,No
+1697,31.0,Male,Sunglasses,Accessories,69,4.0,No,Bank Transfer,No
+1698,36.0,Male,Shirt,Clothing,87,,No,Venmo,No
+1699,25.0,Male,Belt,Accessories,41,4.8,No,Credit Card,No
+1700,20.0,Male,Sweater,Clothing,67,4.0,No,,No
+1701,62.0,Male,Hoodie,Clothing,70,4.1,No,Credit Card,No
+1702,69.0,Male,Handbag,Accessories,41,,No,PayPal,No
+1703,54.0,Male,Jeans,Clothing,83,5.0,No,Debit Card,No
+1704,39.0,Male,Backpack,Accessories,22,4.0,No,Venmo,No
+1705,56.0,,Sneakers,Footwear,20,3.9,No,,No
+1706,39.0,Male,Jewelry,Accessories,29,3.4,No,Venmo,No
+1707,37.0,,Sunglasses,Accessories,87,3.0,No,Credit Card,No
+1708,,Male,Shorts,Clothing,81,,No,Credit Card,No
+1709,35.0,Male,Boots,Footwear,58,,No,Bank Transfer,No
+1710,,Male,,Clothing,83,3.8,No,,No
+1711,,,Pants,Clothing,59,,No,Debit Card,No
+1712,,Male,T-shirt,Clothing,93,4.7,No,Debit Card,No
+1713,65.0,Male,T-shirt,Clothing,87,3.8,No,Debit Card,No
+1714,49.0,Male,Jacket,Outerwear,22,,No,Venmo,No
+1715,30.0,Male,,Clothing,71,4.4,No,Bank Transfer,No
+1716,23.0,Male,,Clothing,69,3.4,No,PayPal,No
+1717,69.0,Male,,Clothing,47,,No,,No
+1718,29.0,Male,Hoodie,Clothing,50,,No,Cash,No
+1719,54.0,Male,T-shirt,Clothing,96,3.4,No,,No
+1720,45.0,,,Clothing,39,,No,Venmo,No
+1721,25.0,Male,Shorts,Clothing,84,2.8,No,Cash,No
+1722,34.0,Male,Jewelry,Accessories,28,4.3,No,Venmo,No
+1723,46.0,Male,T-shirt,Clothing,51,3.3,No,Cash,No
+1724,70.0,Male,,Accessories,20,3.3,No,,No
+1725,42.0,Male,,Footwear,72,3.3,No,PayPal,No
+1726,45.0,Male,,Accessories,33,,No,Cash,No
+1727,,Male,Coat,Outerwear,28,2.8,No,Credit Card,No
+1728,49.0,,Blouse,Clothing,53,,No,,No
+1729,23.0,,Jeans,Clothing,48,4.3,No,Debit Card,No
+1730,47.0,Male,,Clothing,21,3.8,No,Venmo,No
+1731,,,Shirt,Clothing,22,,No,Cash,No
+1732,21.0,Male,Backpack,Accessories,87,,No,Debit Card,No
+1733,45.0,,Belt,Accessories,50,2.6,No,,No
+1734,67.0,Male,Blouse,Clothing,85,3.4,No,Bank Transfer,No
+1735,31.0,Male,Jeans,Clothing,98,,No,Credit Card,No
+1736,58.0,Male,Dress,Clothing,34,3.6,No,,No
+1737,,Male,Shorts,Clothing,61,,No,Cash,No
+1738,42.0,Male,,Accessories,98,4.2,No,,No
+1739,60.0,Male,Handbag,Accessories,61,,No,PayPal,No
+1740,21.0,,Jewelry,Accessories,98,4.2,No,Credit Card,No
+1741,69.0,Male,,Clothing,21,3.3,No,Cash,No
+1742,41.0,Male,Pants,Clothing,51,3.6,No,Venmo,No
+1743,51.0,Male,Sandals,Footwear,80,,No,Credit Card,No
+1744,23.0,Male,Skirt,Clothing,72,3.3,No,Debit Card,No
+1745,57.0,Male,Sunglasses,Accessories,63,3.0,No,PayPal,No
+1746,40.0,Male,Skirt,Clothing,27,,No,Credit Card,No
+1747,65.0,,,Accessories,44,3.1,No,,No
+1748,61.0,Male,Coat,Outerwear,23,,No,,No
+1749,34.0,Male,Skirt,Clothing,93,3.9,No,Bank Transfer,No
+1750,43.0,Male,Hoodie,Clothing,70,3.2,No,Credit Card,No
+1751,,Male,Sunglasses,Accessories,85,3.1,No,Credit Card,No
+1752,,Male,Sweater,Clothing,40,3.2,No,PayPal,No
+1753,34.0,Male,,Footwear,29,3.3,No,Debit Card,No
+1754,25.0,Male,Skirt,Clothing,27,4.8,No,Venmo,No
+1755,66.0,Male,Dress,Clothing,93,3.8,No,Debit Card,No
+1756,56.0,,Belt,Accessories,20,4.6,No,Cash,No
+1757,49.0,Male,Jewelry,Accessories,55,2.8,No,PayPal,No
+1758,19.0,Male,Dress,Clothing,94,3.6,No,Bank Transfer,No
+1759,27.0,,Hat,Accessories,56,4.3,No,Debit Card,No
+1760,68.0,,Sweater,Clothing,58,4.0,No,,No
+1761,20.0,Male,Skirt,Clothing,44,,No,Credit Card,No
+1762,21.0,Male,Hoodie,Clothing,95,4.9,No,PayPal,No
+1763,36.0,,Sandals,Footwear,42,3.1,No,,No
+1764,37.0,Male,,Accessories,93,,No,Venmo,No
+1765,,Male,,Clothing,56,3.0,No,PayPal,No
+1766,,Male,Hoodie,Clothing,88,4.1,No,Bank Transfer,No
+1767,60.0,Male,Sweater,Clothing,54,4.3,No,,No
+1768,,Male,,Accessories,89,3.8,No,,No
+1769,25.0,Male,,Footwear,45,3.9,No,Venmo,No
+1770,32.0,Male,Socks,Clothing,75,4.3,No,Credit Card,No
+1771,53.0,,Backpack,Accessories,22,4.3,No,Credit Card,No
+1772,46.0,Male,Shirt,Clothing,82,4.7,No,Credit Card,No
+1773,58.0,Male,Shoes,Footwear,34,3.1,No,PayPal,No
+1774,,Male,Coat,Outerwear,92,2.7,No,Cash,No
+1775,46.0,,Sweater,Clothing,78,,No,,No
+1776,18.0,Male,,Outerwear,47,3.3,No,Bank Transfer,No
+1777,56.0,,Jacket,Outerwear,64,3.4,No,Bank Transfer,No
+1778,18.0,,Sneakers,Footwear,44,4.7,No,Cash,No
+1779,,Male,Belt,Accessories,94,,No,Debit Card,No
+1780,29.0,,Scarf,Accessories,62,4.3,No,Bank Transfer,No
+1781,,Male,Jewelry,Accessories,81,4.2,No,Cash,No
+1782,31.0,,T-shirt,Clothing,33,3.7,No,PayPal,No
+1783,52.0,Male,Pants,Clothing,88,2.7,No,,No
+1784,42.0,Male,,Accessories,49,3.3,No,Cash,No
+1785,32.0,Male,Backpack,Accessories,31,4.8,No,Cash,No
+1786,47.0,Male,,Accessories,29,4.1,No,Bank Transfer,No
+1787,45.0,,,Outerwear,34,4.6,No,,No
+1788,,Male,Sweater,Clothing,38,,No,Bank Transfer,No
+1789,66.0,Male,Blouse,Clothing,41,3.1,No,PayPal,No
+1790,52.0,Male,Blouse,Clothing,34,3.0,No,,No
+1791,50.0,Male,Gloves,Accessories,26,3.7,No,,No
+1792,62.0,,Jeans,Clothing,98,,No,Debit Card,No
+1793,38.0,Male,Sneakers,Footwear,59,3.0,No,,No
+1794,65.0,Male,,Accessories,92,3.8,No,Debit Card,No
+1795,60.0,,Backpack,Accessories,40,3.7,No,Bank Transfer,No
+1796,68.0,Male,Jeans,Clothing,20,4.0,No,Debit Card,No
+1797,62.0,,Skirt,Clothing,35,3.1,No,Debit Card,No
+1798,62.0,Male,Belt,Accessories,35,3.9,No,,No
+1799,40.0,,Dress,Clothing,82,,No,,No
+1800,32.0,Male,Hoodie,Clothing,48,3.9,No,,No
+1801,22.0,Male,Coat,Outerwear,58,2.7,No,Cash,No
+1802,33.0,Male,Sweater,Clothing,57,,No,Credit Card,No
+1803,57.0,Male,Shorts,Clothing,96,2.6,No,Bank Transfer,No
+1804,60.0,Male,Sneakers,Footwear,97,3.5,No,,No
+1805,30.0,,Sweater,Clothing,42,4.4,No,Debit Card,No
+1806,41.0,Male,,Clothing,62,4.9,No,Venmo,No
+1807,58.0,Male,Handbag,Accessories,67,3.9,No,,No
+1808,34.0,Male,Sneakers,Footwear,46,,No,,No
+1809,67.0,Male,Jacket,Outerwear,71,4.3,No,Credit Card,No
+1810,58.0,,Backpack,Accessories,99,3.4,No,Credit Card,No
+1811,41.0,Male,,Clothing,28,,No,,No
+1812,42.0,,,Accessories,77,3.6,No,Bank Transfer,No
+1813,50.0,Male,Boots,Footwear,63,,No,Venmo,No
+1814,40.0,Male,Shorts,Clothing,62,,No,Credit Card,No
+1815,32.0,Male,Jeans,Clothing,92,,No,,No
+1816,51.0,,Shoes,Footwear,72,4.5,No,Venmo,No
+1817,26.0,,Hat,Accessories,79,,No,Venmo,No
+1818,32.0,Male,T-shirt,Clothing,27,4.7,No,Credit Card,No
+1819,58.0,Male,Sunglasses,Accessories,39,,No,Credit Card,No
+1820,51.0,Male,Socks,Clothing,86,4.5,No,Cash,No
+1821,19.0,Male,Shirt,Clothing,94,5.0,No,PayPal,No
+1822,57.0,Male,Shorts,Clothing,53,,No,Credit Card,No
+1823,66.0,,Shirt,Clothing,85,4.4,No,Cash,No
+1824,62.0,,Socks,Clothing,50,4.7,No,Cash,No
+1825,58.0,Male,,Clothing,47,3.8,No,Credit Card,No
+1826,23.0,Male,Boots,Footwear,75,,No,Bank Transfer,No
+1827,45.0,Male,T-shirt,Clothing,60,4.2,No,,No
+1828,,Male,T-shirt,Clothing,36,4.9,No,,No
+1829,33.0,Male,Coat,Outerwear,80,,No,,No
+1830,30.0,,Hat,Accessories,96,,No,Venmo,No
+1831,50.0,Male,Sunglasses,Accessories,80,,No,Credit Card,No
+1832,62.0,Male,Blouse,Clothing,71,3.3,No,Bank Transfer,No
+1833,,Male,,Accessories,29,4.6,No,,No
+1834,34.0,Male,,Accessories,53,4.5,No,,No
+1835,49.0,,Skirt,Clothing,35,,No,Venmo,No
+1836,65.0,,,Accessories,75,,No,Cash,No
+1837,66.0,Male,Pants,Clothing,52,4.2,No,Cash,No
+1838,41.0,Male,Hat,Accessories,77,4.8,No,,No
+1839,37.0,,Gloves,Accessories,24,4.1,No,,No
+1840,32.0,,Shirt,Clothing,78,3.7,No,Venmo,No
+1841,,Male,Sandals,Footwear,98,2.6,No,Cash,No
+1842,31.0,Male,,Clothing,57,3.0,No,,No
+1843,61.0,,Handbag,Accessories,78,,No,Bank Transfer,No
+1844,36.0,Male,Jacket,Outerwear,76,,No,Bank Transfer,No
+1845,60.0,Male,,Clothing,26,2.7,No,Venmo,No
+1846,51.0,Male,,Footwear,78,2.8,No,Debit Card,No
+1847,68.0,,Scarf,Accessories,53,,No,Debit Card,No
+1848,46.0,Male,Sandals,Footwear,100,,No,,No
+1849,19.0,Male,Jeans,Clothing,73,2.7,No,Credit Card,No
+1850,30.0,Male,Skirt,Clothing,40,4.5,No,Credit Card,No
+1851,51.0,Male,Gloves,Accessories,76,2.8,No,Credit Card,No
+1852,28.0,Male,,Clothing,80,,No,Venmo,No
+1853,41.0,Male,Sweater,Clothing,80,3.8,No,Cash,No
+1854,29.0,,Blouse,Clothing,67,2.9,No,Bank Transfer,No
+1855,25.0,,Sweater,Clothing,61,,No,,No
+1856,60.0,Male,Shirt,Clothing,76,4.7,No,Bank Transfer,No
+1857,63.0,Male,Jewelry,Accessories,55,,No,Venmo,No
+1858,51.0,Male,T-shirt,Clothing,85,,No,Cash,No
+1859,22.0,Male,Scarf,Accessories,69,4.9,No,Venmo,No
+1860,54.0,Male,Belt,Accessories,26,3.7,No,Credit Card,No
+1861,18.0,,,Clothing,64,4.8,No,Credit Card,No
+1862,29.0,Male,Sneakers,Footwear,60,3.6,No,Bank Transfer,No
+1863,59.0,Male,Gloves,Accessories,36,4.6,No,Debit Card,No
+1864,25.0,Male,Sandals,Footwear,21,4.3,No,,No
+1865,19.0,Male,Backpack,Accessories,72,3.2,No,Bank Transfer,No
+1866,56.0,Male,Pants,Clothing,62,,No,,No
+1867,31.0,Male,T-shirt,Clothing,44,,No,Debit Card,No
+1868,45.0,Male,,Clothing,52,3.4,No,Debit Card,No
+1869,23.0,Male,Gloves,Accessories,58,4.7,No,,No
+1870,18.0,,,Clothing,77,3.9,No,PayPal,No
+1871,43.0,Male,Blouse,Clothing,99,4.3,No,,No
+1872,56.0,,Jeans,Clothing,96,,No,Bank Transfer,No
+1873,43.0,Male,T-shirt,Clothing,64,4.6,No,Credit Card,No
+1874,64.0,,Sweater,Clothing,44,,No,,No
+1875,67.0,Male,Pants,Clothing,33,,No,,No
+1876,63.0,,,Footwear,71,,No,Debit Card,No
+1877,,,,Clothing,36,2.6,No,Credit Card,No
+1878,69.0,Male,Gloves,Accessories,62,3.6,No,Cash,No
+1879,34.0,Male,Socks,Clothing,29,,No,,No
+1880,56.0,Male,T-shirt,Clothing,33,3.5,No,Debit Card,No
+1881,34.0,,,Clothing,33,3.1,No,PayPal,No
+1882,58.0,Male,Blouse,Clothing,41,,No,,No
+1883,44.0,Male,Scarf,Accessories,54,5.0,No,Debit Card,No
+1884,25.0,Male,Backpack,Accessories,58,,No,PayPal,No
+1885,27.0,,Shorts,Clothing,30,4.3,No,Bank Transfer,No
+1886,26.0,Male,Jewelry,Accessories,53,,No,Credit Card,No
+1887,18.0,Male,Gloves,Accessories,91,,No,Cash,No
+1888,64.0,,Hoodie,Clothing,44,3.5,No,Cash,No
+1889,62.0,Male,Hoodie,Clothing,89,,No,Bank Transfer,No
+1890,59.0,,Skirt,Clothing,57,2.5,No,,No
+1891,36.0,Male,Sunglasses,Accessories,57,,No,Debit Card,No
+1892,69.0,Male,Jewelry,Accessories,74,,No,Venmo,No
+1893,39.0,Male,Jacket,Outerwear,30,,No,Bank Transfer,No
+1894,28.0,Male,,Clothing,20,,No,Venmo,No
+1895,42.0,Male,Hoodie,Clothing,90,2.5,No,Credit Card,No
+1896,31.0,,Jeans,Clothing,61,4.5,No,,No
+1897,57.0,,Sandals,Footwear,51,,No,Cash,No
+1898,53.0,,Sunglasses,Accessories,97,,No,Venmo,No
+1899,59.0,Male,Pants,Clothing,97,3.5,No,PayPal,No
+1900,32.0,Male,Shorts,Clothing,40,4.2,No,,No
+1901,65.0,Male,Jewelry,Accessories,85,3.3,No,Debit Card,No
+1902,56.0,Male,Socks,Clothing,76,3.9,No,Venmo,No
+1903,31.0,Male,Sandals,Footwear,22,5.0,No,Bank Transfer,No
+1904,59.0,Male,Pants,Clothing,63,3.3,No,Bank Transfer,No
+1905,22.0,Male,T-shirt,Clothing,71,4.2,No,PayPal,No
+1906,47.0,,Boots,Footwear,35,,No,Debit Card,No
+1907,23.0,Male,Backpack,Accessories,30,4.6,No,Bank Transfer,No
+1908,69.0,Male,Skirt,Clothing,74,4.8,No,Cash,No
+1909,18.0,,Scarf,Accessories,71,2.7,No,Credit Card,No
+1910,50.0,Male,Sweater,Clothing,84,4.3,No,,No
+1911,29.0,Male,Sandals,Footwear,38,3.8,No,,No
+1912,65.0,Male,Jewelry,Accessories,81,4.9,No,Credit Card,No
+1913,,Male,,Clothing,56,,No,Cash,No
+1914,49.0,Male,Skirt,Clothing,48,3.6,No,Venmo,No
+1915,28.0,Male,Shorts,Clothing,97,,No,,No
+1916,51.0,Male,Backpack,Accessories,74,4.7,No,PayPal,No
+1917,,Male,Hoodie,Clothing,50,,No,,No
+1918,38.0,Male,Skirt,Clothing,71,3.4,No,,No
+1919,,Male,Skirt,Clothing,33,4.6,No,PayPal,No
+1920,34.0,Male,Backpack,Accessories,56,3.1,No,Credit Card,No
+1921,51.0,Male,Blouse,Clothing,84,2.8,No,Bank Transfer,No
+1922,47.0,Male,Shirt,Clothing,36,3.5,No,,No
+1923,18.0,Male,,Accessories,63,,No,PayPal,No
+1924,64.0,,Sandals,Footwear,36,4.3,No,PayPal,No
+1925,,Male,Jacket,Outerwear,63,4.8,No,,No
+1926,59.0,,Sneakers,Footwear,32,2.9,No,Venmo,No
+1927,66.0,Male,Backpack,Accessories,93,3.0,No,,No
+1928,40.0,Male,,Clothing,29,2.9,No,Debit Card,No
+1929,25.0,Male,,Accessories,92,3.7,No,PayPal,No
+1930,59.0,Male,Jeans,Clothing,33,,No,Debit Card,No
+1931,66.0,Male,Pants,Clothing,52,,No,Bank Transfer,No
+1932,54.0,Male,Jewelry,Accessories,42,2.7,No,PayPal,No
+1933,42.0,Male,Hoodie,Clothing,36,5.0,No,,No
+1934,48.0,,Sandals,Footwear,67,4.1,No,Cash,No
+1935,34.0,Male,Jacket,Outerwear,43,2.7,No,,No
+1936,19.0,Male,Blouse,Clothing,68,4.8,No,Debit Card,No
+1937,70.0,Male,Jewelry,Accessories,60,4.3,No,PayPal,No
+1938,43.0,Male,Socks,Clothing,53,4.5,No,,No
+1939,46.0,Male,Jeans,Clothing,23,3.8,No,,No
+1940,66.0,Male,Gloves,Accessories,57,,No,Bank Transfer,No
+1941,,Male,Hat,Accessories,89,3.9,No,Venmo,No
+1942,55.0,Male,Shoes,Footwear,99,3.3,No,,No
+1943,63.0,Male,,Clothing,28,3.4,No,Credit Card,No
+1944,32.0,Male,Socks,Clothing,53,3.8,No,,No
+1945,30.0,,Hoodie,Clothing,45,,No,Debit Card,No
+1946,35.0,,Hoodie,Clothing,38,,No,Debit Card,No
+1947,59.0,Male,,Clothing,49,4.5,No,Bank Transfer,No
+1948,59.0,,Shirt,Clothing,32,2.6,No,Debit Card,No
+1949,54.0,Male,T-shirt,Clothing,37,3.1,No,,No
+1950,63.0,,Dress,Clothing,80,,No,Venmo,No
+1951,43.0,Male,Backpack,Accessories,78,,No,,No
+1952,33.0,,Gloves,Accessories,53,,No,Bank Transfer,No
+1953,57.0,Male,Shoes,Footwear,82,4.6,No,PayPal,No
+1954,25.0,Male,,Clothing,33,4.8,No,Cash,No
+1955,26.0,,Gloves,Accessories,77,4.2,No,Bank Transfer,No
+1956,50.0,Male,,Clothing,56,4.9,No,Credit Card,No
+1957,,Male,,Clothing,37,4.9,No,,No
+1958,68.0,Male,,Accessories,54,,No,Venmo,No
+1959,39.0,Male,Shorts,Clothing,67,2.7,No,Cash,No
+1960,46.0,Male,,Footwear,90,3.1,No,Credit Card,No
+1961,57.0,Male,Jeans,Clothing,72,3.3,No,Bank Transfer,No
+1962,47.0,Male,Boots,Footwear,59,2.6,No,Cash,No
+1963,40.0,Male,,Accessories,45,4.4,No,Debit Card,No
+1964,52.0,Male,Shorts,Clothing,30,,No,Bank Transfer,No
+1965,40.0,Male,,Clothing,51,4.6,No,PayPal,No
+1966,67.0,Male,Sweater,Clothing,90,4.9,No,,No
+1967,67.0,,Jacket,Outerwear,95,,No,Venmo,No
+1968,37.0,Male,Dress,Clothing,81,3.7,No,Venmo,No
+1969,67.0,Male,Shirt,Clothing,70,4.2,No,Credit Card,No
+1970,64.0,Male,,Clothing,32,3.5,No,,No
+1971,28.0,Male,Belt,Accessories,94,2.9,No,Debit Card,No
+1972,54.0,Male,,Accessories,29,,No,,No
+1973,54.0,Male,Backpack,Accessories,31,3.3,No,,No
+1974,,,Skirt,Clothing,20,4.5,No,Debit Card,No
+1975,27.0,Male,Gloves,Accessories,44,,No,Credit Card,No
+1976,53.0,Male,Jacket,Outerwear,77,,No,,No
+1977,32.0,Male,Handbag,Accessories,51,3.2,No,Debit Card,No
+1978,,Male,,Footwear,49,,No,Debit Card,No
+1979,45.0,Male,Sunglasses,Accessories,78,,No,Cash,No
+1980,49.0,Male,Jeans,Clothing,98,2.8,No,PayPal,No
+1981,51.0,Male,Sandals,Footwear,94,4.4,No,Venmo,No
+1982,69.0,Male,,Footwear,91,4.7,No,,No
+1983,,Male,Sunglasses,Accessories,77,2.7,No,,No
+1984,59.0,Male,,Accessories,97,2.6,No,Credit Card,No
+1985,26.0,Male,Skirt,Clothing,58,3.4,No,,No
+1986,23.0,Male,Gloves,Accessories,97,3.9,No,Cash,No
+1987,62.0,Male,,Outerwear,48,,No,Debit Card,No
+1988,,Male,Belt,Accessories,23,,No,Debit Card,No
+1989,46.0,Male,Pants,Clothing,79,3.9,No,Credit Card,No
+1990,35.0,Male,Jewelry,Accessories,42,4.0,No,,No
+1991,32.0,Male,Backpack,Accessories,95,3.4,No,,No
+1992,46.0,Male,,Footwear,29,3.7,No,Venmo,No
+1993,33.0,Male,Hoodie,Clothing,98,,No,PayPal,No
+1994,32.0,Male,Blouse,Clothing,96,5.0,No,Cash,No
+1995,33.0,,,Accessories,66,2.9,No,Bank Transfer,No
+1996,67.0,Male,,Footwear,80,3.0,No,,No
+1997,67.0,Male,Sneakers,Footwear,27,3.3,No,Cash,No
+1998,42.0,Male,Backpack,Accessories,25,4.7,No,PayPal,No
+1999,20.0,Male,Pants,Clothing,45,3.4,No,Debit Card,No
+2000,39.0,Male,Socks,Clothing,89,,No,,No
+2001,26.0,Male,Belt,Accessories,27,3.6,No,Venmo,No
+2002,51.0,Male,Sunglasses,Accessories,90,,No,Debit Card,No
+2003,31.0,Male,Shirt,Clothing,65,,No,Cash,No
+2004,68.0,Male,,Footwear,72,,No,Venmo,No
+2005,44.0,,Shoes,Footwear,70,3.2,No,Cash,No
+2006,18.0,Male,Sandals,Footwear,82,3.4,No,PayPal,No
+2007,58.0,,Scarf,Accessories,97,,No,Debit Card,No
+2008,26.0,Male,Shirt,Clothing,25,,No,Cash,No
+2009,57.0,,Skirt,Clothing,48,2.5,No,PayPal,No
+2010,37.0,Male,Boots,Footwear,99,3.8,No,Venmo,No
+2011,,Male,,Clothing,21,4.4,No,Venmo,No
+2012,57.0,Male,,Footwear,94,3.7,No,,No
+2013,48.0,Male,,Clothing,53,3.2,No,Bank Transfer,No
+2014,39.0,Male,,Accessories,70,,No,PayPal,No
+2015,,Male,Skirt,Clothing,26,3.9,No,,No
+2016,57.0,Male,Belt,Accessories,82,,No,Debit Card,No
+2017,,Male,Shoes,Footwear,47,3.4,No,Credit Card,No
+2018,70.0,,,Clothing,32,,No,Venmo,No
+2019,60.0,Male,Backpack,Accessories,97,,No,Debit Card,No
+2020,31.0,Male,Shirt,Clothing,68,4.7,No,PayPal,No
+2021,41.0,Male,Sweater,Clothing,23,4.8,No,,No
+2022,62.0,Male,Handbag,Accessories,33,4.4,No,,No
+2023,59.0,,Jewelry,Accessories,38,4.0,No,Bank Transfer,No
+2024,46.0,,Socks,Clothing,68,,No,Bank Transfer,No
+2025,62.0,Male,Socks,Clothing,23,3.7,No,Bank Transfer,No
+2026,42.0,,,Clothing,29,,No,Bank Transfer,No
+2027,37.0,,,Accessories,35,3.6,No,Bank Transfer,No
+2028,50.0,Male,,Footwear,73,4.8,No,Venmo,No
+2029,29.0,Male,Shoes,Footwear,84,3.7,No,Cash,No
+2030,,Male,Scarf,Accessories,23,,No,Bank Transfer,No
+2031,66.0,Male,Sunglasses,Accessories,67,2.8,No,,No
+2032,21.0,Male,Socks,Clothing,51,4.0,No,,No
+2033,46.0,Male,Blouse,Clothing,36,,No,,No
+2034,57.0,Male,,Clothing,55,3.6,No,Cash,No
+2035,61.0,Male,Shorts,Clothing,30,2.9,No,Credit Card,No
+2036,53.0,Male,,Clothing,70,4.1,No,Venmo,No
+2037,,,,Clothing,63,3.1,No,,No
+2038,39.0,Male,Belt,Accessories,87,,No,Cash,No
+2039,53.0,,Blouse,Clothing,70,,No,Debit Card,No
+2040,35.0,,,Clothing,51,3.1,No,Cash,No
+2041,69.0,Male,Jewelry,Accessories,25,2.9,No,Debit Card,No
+2042,66.0,Male,Jacket,Outerwear,32,,No,Cash,No
+2043,19.0,Male,Shoes,Footwear,52,4.0,No,Credit Card,No
+2044,47.0,,Gloves,Accessories,33,,No,PayPal,No
+2045,49.0,,Jeans,Clothing,68,3.0,No,,No
+2046,31.0,Male,Jewelry,Accessories,20,4.4,No,PayPal,No
+2047,,Male,Pants,Clothing,32,2.8,No,Bank Transfer,No
+2048,58.0,Male,,Accessories,82,3.1,No,,No
+2049,45.0,Male,Sneakers,Footwear,64,3.9,No,Credit Card,No
+2050,68.0,Male,Boots,Footwear,24,2.7,No,Debit Card,No
+2051,35.0,Male,Hat,Accessories,96,,No,Credit Card,No
+2052,65.0,,T-shirt,Clothing,94,,No,Cash,No
+2053,45.0,,Backpack,Accessories,48,3.7,No,PayPal,No
+2054,19.0,Male,Sunglasses,Accessories,60,4.5,No,Bank Transfer,No
+2055,65.0,Male,Sweater,Clothing,56,2.9,No,,No
+2056,28.0,,Handbag,Accessories,33,3.4,No,Debit Card,No
+2057,55.0,Male,Backpack,Accessories,46,,No,Cash,No
+2058,66.0,Male,Socks,Clothing,37,4.2,No,,No
+2059,29.0,Male,Shirt,Clothing,98,,No,Debit Card,No
+2060,56.0,Male,Shorts,Clothing,50,3.7,No,Cash,No
+2061,21.0,,Belt,Accessories,63,3.2,No,Debit Card,No
+2062,,Male,Sweater,Clothing,70,2.6,No,PayPal,No
+2063,54.0,,Coat,Outerwear,63,2.8,No,PayPal,No
+2064,61.0,Male,,Clothing,86,2.9,No,,No
+2065,31.0,Male,Shoes,Footwear,99,4.0,No,Bank Transfer,No
+2066,27.0,,,Footwear,40,2.9,No,PayPal,No
+2067,64.0,Male,Sneakers,Footwear,92,,No,Credit Card,No
+2068,60.0,,Pants,Clothing,21,,No,Cash,No
+2069,70.0,Male,Jewelry,Accessories,81,3.9,No,Credit Card,No
+2070,36.0,Male,T-shirt,Clothing,82,3.4,No,Cash,No
+2071,56.0,Male,Jewelry,Accessories,88,,No,,No
+2072,69.0,Male,Jacket,Outerwear,100,,No,Debit Card,No
+2073,39.0,Male,Backpack,Accessories,66,,No,Credit Card,No
+2074,38.0,Male,,Accessories,25,3.5,No,Debit Card,No
+2075,36.0,Male,Scarf,Accessories,53,,No,Credit Card,No
+2076,46.0,Male,,Clothing,28,4.7,No,Bank Transfer,No
+2077,59.0,Male,Gloves,Accessories,23,4.6,No,Cash,No
+2078,64.0,,Scarf,Accessories,34,3.3,No,Bank Transfer,No
+2079,49.0,Male,Dress,Clothing,42,3.2,No,Venmo,No
+2080,,Male,,Clothing,24,,No,Debit Card,No
+2081,29.0,Male,Sunglasses,Accessories,47,3.5,No,,No
+2082,24.0,Male,Coat,Outerwear,78,,No,Credit Card,No
+2083,41.0,,Jeans,Clothing,89,,No,,No
+2084,41.0,Male,Scarf,Accessories,59,2.7,No,,No
+2085,32.0,Male,Blouse,Clothing,94,,No,Bank Transfer,No
+2086,,Male,Jeans,Clothing,49,4.6,No,Cash,No
+2087,65.0,Male,Dress,Clothing,89,,No,,No
+2088,54.0,Male,Hat,Accessories,91,4.7,No,Credit Card,No
+2089,39.0,,Sandals,Footwear,89,4.0,No,Cash,No
+2090,37.0,,Jacket,Outerwear,57,,No,Cash,No
+2091,51.0,,,Clothing,71,3.4,No,Debit Card,No
+2092,26.0,Male,Jeans,Clothing,97,,No,PayPal,No
+2093,,Male,Sandals,Footwear,45,2.6,No,,No
+2094,21.0,,Dress,Clothing,91,,No,Venmo,No
+2095,53.0,Male,,Clothing,25,3.4,No,Bank Transfer,No
+2096,36.0,Male,Hoodie,Clothing,63,4.0,No,,No
+2097,21.0,Male,,Clothing,52,4.7,No,Debit Card,No
+2098,33.0,Male,,Footwear,43,3.9,No,Credit Card,No
+2099,49.0,Male,T-shirt,Clothing,28,3.3,No,,No
+2100,31.0,Male,T-shirt,Clothing,78,2.9,No,Debit Card,No
+2101,68.0,Male,Sweater,Clothing,31,4.4,No,PayPal,No
+2102,49.0,Male,Shirt,Clothing,23,3.6,No,Cash,No
+2103,23.0,Male,,Accessories,25,,No,,No
+2104,30.0,Male,Pants,Clothing,86,3.7,No,,No
+2105,53.0,Male,Shoes,Footwear,88,2.8,No,Bank Transfer,No
+2106,65.0,,Gloves,Accessories,35,4.5,No,Credit Card,No
+2107,60.0,Male,Jewelry,Accessories,34,4.4,No,Cash,No
+2108,46.0,Male,Pants,Clothing,75,,No,PayPal,No
+2109,54.0,,Hoodie,Clothing,46,4.2,No,,No
+2110,59.0,,Jewelry,Accessories,31,2.7,No,Cash,No
+2111,52.0,Male,Socks,Clothing,93,3.9,No,,No
+2112,41.0,Male,Sunglasses,Accessories,85,2.6,No,Credit Card,No
+2113,43.0,,Belt,Accessories,68,4.5,No,Credit Card,No
+2114,,Male,,Clothing,40,,No,Credit Card,No
+2115,,Male,Shirt,Clothing,51,,No,,No
+2116,44.0,Male,Scarf,Accessories,85,,No,Credit Card,No
+2117,67.0,Male,Jacket,Outerwear,23,2.9,No,PayPal,No
+2118,27.0,Male,Dress,Clothing,28,3.8,No,,No
+2119,60.0,Male,Socks,Clothing,44,4.2,No,Bank Transfer,No
+2120,58.0,,Jewelry,Accessories,57,3.5,No,Debit Card,No
+2121,53.0,,Scarf,Accessories,98,,No,,No
+2122,43.0,Male,Backpack,Accessories,68,,No,Credit Card,No
+2123,32.0,,Jacket,Outerwear,36,4.0,No,PayPal,No
+2124,54.0,Male,Coat,Outerwear,71,,No,Cash,No
+2125,47.0,Male,Skirt,Clothing,60,4.2,No,,No
+2126,57.0,Male,Coat,Outerwear,87,4.8,No,Credit Card,No
+2127,63.0,Male,Shoes,Footwear,38,4.1,No,PayPal,No
+2128,70.0,,,Footwear,45,,No,Credit Card,No
+2129,,Male,Coat,Outerwear,47,,No,PayPal,No
+2130,40.0,Male,Skirt,Clothing,57,2.8,No,Credit Card,No
+2131,25.0,,Backpack,Accessories,68,3.7,No,,No
+2132,19.0,Male,Shorts,Clothing,52,,No,,No
+2133,25.0,Male,Skirt,Clothing,87,4.7,No,PayPal,No
+2134,21.0,Male,Hat,Accessories,34,3.8,No,PayPal,No
+2135,55.0,Male,Sandals,Footwear,41,2.9,No,Venmo,No
+2136,34.0,Male,Sunglasses,Accessories,94,4.6,No,Credit Card,No
+2137,47.0,Male,Sunglasses,Accessories,93,2.8,No,Bank Transfer,No
+2138,27.0,Male,Socks,Clothing,51,4.6,No,Bank Transfer,No
+2139,67.0,Male,,Clothing,42,2.8,No,Venmo,No
+2140,40.0,Male,Boots,Footwear,95,3.0,No,Credit Card,No
+2141,53.0,Male,,Accessories,90,3.7,No,Cash,No
+2142,24.0,Male,Dress,Clothing,98,4.1,No,,No
+2143,47.0,,Hat,Accessories,39,,No,Venmo,No
+2144,,,Sandals,Footwear,66,3.8,No,Debit Card,No
+2145,47.0,Male,,Footwear,23,3.7,No,Cash,No
+2146,38.0,Male,Skirt,Clothing,73,,No,,No
+2147,,Male,Sunglasses,Accessories,23,4.6,No,Debit Card,No
+2148,47.0,Male,Skirt,Clothing,43,4.8,No,,No
+2149,19.0,,T-shirt,Clothing,45,4.6,No,PayPal,No
+2150,38.0,Male,Sandals,Footwear,21,,No,Bank Transfer,No
+2151,,Male,Shirt,Clothing,40,2.6,No,PayPal,No
+2152,70.0,Male,Jeans,Clothing,58,2.6,No,Venmo,No
+2153,38.0,Male,Shorts,Clothing,48,,No,Bank Transfer,No
+2154,35.0,Male,Shirt,Clothing,94,4.2,No,Credit Card,No
+2155,46.0,Male,Scarf,Accessories,74,3.4,No,Debit Card,No
+2156,32.0,,Handbag,Accessories,51,,No,,No
+2157,38.0,Male,Skirt,Clothing,83,3.6,No,PayPal,No
+2158,41.0,,Handbag,Accessories,68,4.0,No,,No
+2159,19.0,Male,,Accessories,84,4.6,No,Credit Card,No
+2160,18.0,Male,Shirt,Clothing,58,3.0,No,PayPal,No
+2161,,Male,Blouse,Clothing,92,3.3,No,,No
+2162,23.0,Male,Dress,Clothing,69,3.8,No,Credit Card,No
+2163,,Male,Shorts,Clothing,48,2.7,No,Credit Card,No
+2164,,,Shoes,Footwear,60,4.5,No,Bank Transfer,No
+2165,42.0,Male,,Footwear,20,,No,Venmo,No
+2166,29.0,,Pants,Clothing,55,,No,,No
+2167,31.0,Male,Jacket,Outerwear,88,,No,Venmo,No
+2168,30.0,Male,Skirt,Clothing,48,4.9,No,Venmo,No
+2169,23.0,Male,Handbag,Accessories,74,4.1,No,Bank Transfer,No
+2170,31.0,Male,Coat,Outerwear,42,2.9,No,PayPal,No
+2171,40.0,Male,,Clothing,32,4.0,No,PayPal,No
+2172,39.0,Male,,Clothing,98,4.6,No,Credit Card,No
+2173,28.0,Male,Skirt,Clothing,89,2.8,No,Bank Transfer,No
+2174,23.0,Male,Gloves,Accessories,97,5.0,No,Cash,No
+2175,42.0,Male,Backpack,Accessories,49,2.9,No,Cash,No
+2176,68.0,Male,Dress,Clothing,50,3.3,No,Bank Transfer,No
+2177,,Male,,Accessories,91,3.4,No,Venmo,No
+2178,24.0,Male,Gloves,Accessories,93,3.0,No,Bank Transfer,No
+2179,21.0,Male,Jewelry,Accessories,98,,No,Debit Card,No
+2180,49.0,Male,Socks,Clothing,82,2.9,No,Credit Card,No
+2181,41.0,Male,,Outerwear,37,4.1,No,Debit Card,No
+2182,22.0,Male,Handbag,Accessories,63,3.2,No,Venmo,No
+2183,42.0,Male,,Clothing,99,2.7,No,Cash,No
+2184,30.0,Male,,Clothing,37,4.7,No,,No
+2185,38.0,Male,Shoes,Footwear,34,3.2,No,,No
+2186,40.0,Male,,Clothing,32,2.5,No,Venmo,No
+2187,55.0,Male,Sandals,Footwear,23,4.3,No,Bank Transfer,No
+2188,37.0,,Blouse,Clothing,78,4.4,No,,No
+2189,41.0,Male,Coat,Outerwear,54,4.7,No,PayPal,No
+2190,38.0,Male,Blouse,Clothing,94,4.0,No,PayPal,No
+2191,42.0,Male,Belt,Accessories,75,4.6,No,Debit Card,No
+2192,26.0,Male,Blouse,Clothing,69,3.8,No,Venmo,No
+2193,41.0,Male,Scarf,Accessories,35,,No,Bank Transfer,No
+2194,27.0,Male,Shirt,Clothing,78,5.0,No,,No
+2195,61.0,Male,Socks,Clothing,29,3.5,No,Debit Card,No
+2196,58.0,,Jeans,Clothing,62,3.7,No,Credit Card,No
+2197,25.0,Male,Dress,Clothing,58,,No,Venmo,No
+2198,33.0,Male,Boots,Footwear,88,3.7,No,PayPal,No
+2199,57.0,Male,Scarf,Accessories,80,3.5,No,Cash,No
+2200,39.0,Male,Scarf,Accessories,47,4.9,No,Bank Transfer,No
+2201,60.0,Male,,Accessories,51,4.7,No,PayPal,No
+2202,39.0,Male,Pants,Clothing,25,4.9,No,Bank Transfer,No
+2203,42.0,Male,,Clothing,36,4.3,No,PayPal,No
+2204,,,Dress,Clothing,79,3.1,No,Venmo,No
+2205,,,Jeans,Clothing,41,3.4,No,Venmo,No
+2206,46.0,,Sweater,Clothing,68,2.7,No,PayPal,No
+2207,46.0,,Sandals,Footwear,51,2.6,No,PayPal,No
+2208,69.0,,Handbag,Accessories,38,2.9,No,Debit Card,No
+2209,28.0,,Scarf,Accessories,46,,No,Debit Card,No
+2210,42.0,Male,Sandals,Footwear,20,4.5,No,Credit Card,No
+2211,30.0,Male,Sunglasses,Accessories,25,,No,Venmo,No
+2212,50.0,Male,Sweater,Clothing,89,3.2,No,PayPal,No
+2213,59.0,Male,Pants,Clothing,77,3.3,No,PayPal,No
+2214,54.0,Male,Hat,Accessories,94,,No,,No
+2215,50.0,Male,Belt,Accessories,100,,No,Cash,No
+2216,25.0,Male,Sandals,Footwear,96,,No,Debit Card,No
+2217,41.0,Male,Pants,Clothing,36,4.0,No,,No
+2218,35.0,Male,Jewelry,Accessories,27,2.6,No,Bank Transfer,No
+2219,67.0,Male,Sunglasses,Accessories,67,,No,Cash,No
+2220,33.0,Male,Blouse,Clothing,91,,No,,No
+2221,19.0,Male,Belt,Accessories,62,,No,Cash,No
+2222,25.0,Male,Shorts,Clothing,88,3.0,No,Debit Card,No
+2223,32.0,Male,Pants,Clothing,66,4.4,No,PayPal,No
+2224,,Male,Sandals,Footwear,65,4.7,No,Credit Card,No
+2225,18.0,Male,Gloves,Accessories,25,4.3,No,Credit Card,No
+2226,,Male,Belt,Accessories,64,4.8,No,Credit Card,No
+2227,22.0,Male,,Clothing,72,,No,Credit Card,No
+2228,40.0,Male,,Accessories,74,4.4,No,Venmo,No
+2229,54.0,Male,,Accessories,50,3.7,No,Debit Card,No
+2230,,,Pants,Clothing,97,3.9,No,Bank Transfer,No
+2231,52.0,Male,,Footwear,36,3.8,No,,No
+2232,34.0,Male,Jacket,Outerwear,49,,No,,No
+2233,65.0,,Shoes,Footwear,64,4.0,No,,No
+2234,38.0,Male,Blouse,Clothing,31,,No,Credit Card,No
+2235,35.0,Male,Boots,Footwear,66,,No,Cash,No
+2236,40.0,Male,Socks,Clothing,82,4.5,No,Credit Card,No
+2237,23.0,,,Clothing,88,,No,Venmo,No
+2238,45.0,Male,Sandals,Footwear,34,3.8,No,,No
+2239,40.0,Male,,Footwear,84,,No,Credit Card,No
+2240,42.0,Male,Jewelry,Accessories,96,,No,,No
+2241,57.0,Male,,Footwear,71,4.3,No,Credit Card,No
+2242,18.0,Male,,Outerwear,77,3.5,No,Bank Transfer,No
+2243,18.0,,Skirt,Clothing,66,3.8,No,PayPal,No
+2244,56.0,Male,Shirt,Clothing,21,,No,Cash,No
+2245,35.0,Male,Shorts,Clothing,37,,No,Credit Card,No
+2246,49.0,Male,,Clothing,90,4.9,No,Venmo,No
+2247,49.0,Male,Jacket,Outerwear,96,4.3,No,,No
+2248,34.0,Male,Jewelry,Accessories,37,,No,PayPal,No
+2249,63.0,,T-shirt,Clothing,66,3.4,No,Cash,No
+2250,42.0,Male,Gloves,Accessories,45,,No,Bank Transfer,No
+2251,41.0,Male,Shoes,Footwear,89,4.6,No,Venmo,No
+2252,26.0,Male,Shoes,Footwear,94,3.8,No,PayPal,No
+2253,48.0,Male,Shoes,Footwear,96,3.9,No,Venmo,No
+2254,62.0,Male,Hoodie,Clothing,31,2.6,No,,No
+2255,24.0,Male,Belt,Accessories,79,,No,Venmo,No
+2256,48.0,,Coat,Outerwear,39,4.6,No,Venmo,No
+2257,31.0,Male,Blouse,Clothing,22,5.0,No,Debit Card,No
+2258,41.0,,Skirt,Clothing,32,4.2,No,PayPal,No
+2259,24.0,Male,T-shirt,Clothing,71,,No,Bank Transfer,No
+2260,60.0,Male,Jeans,Clothing,96,,No,Venmo,No
+2261,38.0,Male,Scarf,Accessories,82,4.9,No,,No
+2262,58.0,,Backpack,Accessories,76,4.4,No,,No
+2263,53.0,Male,Backpack,Accessories,22,3.1,No,Venmo,No
+2264,44.0,Male,Scarf,Accessories,40,3.5,No,PayPal,No
+2265,51.0,Male,,Accessories,92,3.9,No,Bank Transfer,No
+2266,,Male,Coat,Outerwear,94,3.9,No,Bank Transfer,No
+2267,20.0,Male,Dress,Clothing,44,4.3,No,Bank Transfer,No
+2268,32.0,,Gloves,Accessories,49,3.8,No,,No
+2269,66.0,Male,Sweater,Clothing,26,2.7,No,Credit Card,No
+2270,49.0,Male,Skirt,Clothing,38,4.4,No,Credit Card,No
+2271,27.0,Male,,Clothing,72,3.5,No,Debit Card,No
+2272,29.0,,Dress,Clothing,99,3.4,No,Cash,No
+2273,29.0,Male,Jacket,Outerwear,38,,No,Venmo,No
+2274,,Male,Coat,Outerwear,96,,No,,No
+2275,57.0,,Dress,Clothing,27,4.5,No,Cash,No
+2276,29.0,Male,,Clothing,24,4.4,No,PayPal,No
+2277,31.0,Male,,Clothing,82,4.1,No,Bank Transfer,No
+2278,25.0,Male,Hat,Accessories,56,4.6,No,Bank Transfer,No
+2279,61.0,Male,Gloves,Accessories,25,3.8,No,Cash,No
+2280,53.0,Male,Sneakers,Footwear,67,2.9,No,Bank Transfer,No
+2281,22.0,Male,,Footwear,21,2.8,No,Bank Transfer,No
+2282,28.0,Male,Hoodie,Clothing,27,,No,Bank Transfer,No
+2283,18.0,Male,,Footwear,97,4.2,No,Debit Card,No
+2284,44.0,Male,Handbag,Accessories,45,4.1,No,,No
+2285,32.0,Male,Blouse,Clothing,63,4.1,No,Cash,No
+2286,34.0,Male,Belt,Accessories,100,4.6,No,Cash,No
+2287,,,Socks,Clothing,38,2.5,No,PayPal,No
+2288,66.0,Male,Blouse,Clothing,45,,No,PayPal,No
+2289,28.0,Male,Jewelry,Accessories,91,3.8,No,Credit Card,No
+2290,70.0,Male,Shorts,Clothing,82,4.1,No,PayPal,No
+2291,37.0,Male,,Footwear,48,3.3,No,Venmo,No
+2292,28.0,Male,Coat,Outerwear,30,,No,PayPal,No
+2293,43.0,Male,T-shirt,Clothing,34,3.8,No,Debit Card,No
+2294,37.0,Male,Sweater,Clothing,68,3.3,No,PayPal,No
+2295,54.0,,Sunglasses,Accessories,95,5.0,No,Venmo,No
+2296,50.0,,Hat,Accessories,22,2.9,No,Credit Card,No
+2297,46.0,Male,Gloves,Accessories,88,2.5,No,PayPal,No
+2298,60.0,Male,Socks,Clothing,83,4.7,No,PayPal,No
+2299,,Male,Handbag,Accessories,87,2.9,No,PayPal,No
+2300,64.0,Male,Coat,Outerwear,57,,No,Debit Card,No
+2301,18.0,Male,Coat,Outerwear,88,,No,Venmo,No
+2302,37.0,Male,Pants,Clothing,20,,No,Debit Card,No
+2303,36.0,,Belt,Accessories,39,3.6,No,Cash,No
+2304,51.0,,Sunglasses,Accessories,71,4.8,No,Bank Transfer,No
+2305,26.0,Male,Hoodie,Clothing,73,4.7,No,Bank Transfer,No
+2306,68.0,Male,Handbag,Accessories,63,2.6,No,Cash,No
+2307,27.0,Male,Gloves,Accessories,78,,No,Cash,No
+2308,28.0,,,Clothing,96,3.5,No,Bank Transfer,No
+2309,49.0,Male,Sunglasses,Accessories,81,3.4,No,,No
+2310,70.0,Male,Dress,Clothing,95,5.0,No,Cash,No
+2311,30.0,Male,Gloves,Accessories,68,4.6,No,Credit Card,No
+2312,27.0,Male,Sneakers,Footwear,28,,No,PayPal,No
+2313,19.0,Male,T-shirt,Clothing,30,,No,PayPal,No
+2314,64.0,Male,Dress,Clothing,31,4.7,No,Venmo,No
+2315,42.0,Male,Handbag,Accessories,95,4.4,No,,No
+2316,69.0,Male,Socks,Clothing,79,3.5,No,Cash,No
+2317,28.0,Male,,Footwear,39,3.8,No,Credit Card,No
+2318,47.0,Male,,Outerwear,34,,No,Debit Card,No
+2319,69.0,,Hoodie,Clothing,28,,No,PayPal,No
+2320,56.0,Male,Sandals,Footwear,38,,No,,No
+2321,28.0,Male,,Footwear,55,,No,Credit Card,No
+2322,50.0,Male,Sandals,Footwear,31,,No,,No
+2323,39.0,Male,Coat,Outerwear,84,,No,Cash,No
+2324,35.0,Male,Gloves,Accessories,93,4.7,No,,No
+2325,59.0,,Coat,Outerwear,28,3.5,No,Debit Card,No
+2326,,,Boots,Footwear,55,4.4,No,Debit Card,No
+2327,66.0,Male,Skirt,Clothing,63,,No,Cash,No
+2328,20.0,Male,Skirt,Clothing,94,4.2,No,Credit Card,No
+2329,45.0,Male,Pants,Clothing,36,2.6,No,Credit Card,No
+2330,49.0,Male,Hat,Accessories,97,,No,,No
+2331,60.0,Male,,Accessories,63,2.9,No,Venmo,No
+2332,61.0,Male,,Accessories,77,4.3,No,Credit Card,No
+2333,36.0,Male,Scarf,Accessories,53,2.6,No,Credit Card,No
+2334,33.0,Male,Shirt,Clothing,77,,No,,No
+2335,49.0,,,Footwear,79,,No,Credit Card,No
+2336,31.0,Male,,Outerwear,37,3.9,No,Venmo,No
+2337,19.0,Male,Belt,Accessories,94,3.1,No,Cash,No
+2338,39.0,Male,,Footwear,76,,No,PayPal,No
+2339,66.0,Male,Sneakers,Footwear,68,,No,PayPal,No
+2340,25.0,,,Clothing,65,3.4,No,,No
+2341,63.0,Male,Blouse,Clothing,24,2.6,No,Venmo,No
+2342,56.0,Male,,Outerwear,31,4.5,No,Cash,No
+2343,20.0,Male,,Clothing,89,4.9,No,Credit Card,No
+2344,58.0,Male,Socks,Clothing,49,4.4,No,Venmo,No
+2345,34.0,,Sandals,Footwear,92,3.5,No,Credit Card,No
+2346,28.0,Male,T-shirt,Clothing,32,3.3,No,Bank Transfer,No
+2347,22.0,Male,Jacket,Outerwear,67,,No,Bank Transfer,No
+2348,37.0,,Belt,Accessories,64,,No,,No
+2349,54.0,Male,Shoes,Footwear,84,4.9,No,PayPal,No
+2350,65.0,,Blouse,Clothing,34,3.9,No,Venmo,No
+2351,57.0,,Shoes,Footwear,26,,No,Bank Transfer,No
+2352,38.0,,Sweater,Clothing,50,4.9,No,Credit Card,No
+2353,70.0,Male,Boots,Footwear,46,2.8,No,Credit Card,No
+2354,56.0,Male,Handbag,Accessories,71,,No,Credit Card,No
+2355,56.0,Male,Blouse,Clothing,78,4.8,No,Cash,No
+2356,22.0,,Skirt,Clothing,35,4.1,No,,No
+2357,57.0,Male,Backpack,Accessories,58,3.0,No,Bank Transfer,No
+2358,53.0,Male,,Clothing,67,,No,Bank Transfer,No
+2359,53.0,Male,,Clothing,93,,No,Bank Transfer,No
+2360,,Male,Scarf,Accessories,81,,No,,No
+2361,49.0,Male,,Accessories,80,,No,Debit Card,No
+2362,44.0,Male,Scarf,Accessories,64,,No,,No
+2363,27.0,,Jeans,Clothing,41,2.7,No,Venmo,No
+2364,60.0,Male,,Clothing,79,4.2,No,,No
+2365,62.0,Male,Sunglasses,Accessories,60,,No,Credit Card,No
+2366,52.0,,Sneakers,Footwear,91,2.5,No,Cash,No
+2367,30.0,,Shoes,Footwear,66,3.6,No,PayPal,No
+2368,66.0,Male,,Clothing,85,3.4,No,Bank Transfer,No
+2369,29.0,Male,Sunglasses,Accessories,38,,No,Credit Card,No
+2370,,Male,Sweater,Clothing,23,,No,,No
+2371,51.0,Male,Shoes,Footwear,71,,No,Debit Card,No
+2372,67.0,,Socks,Clothing,25,3.7,No,PayPal,No
+2373,50.0,,Boots,Footwear,39,3.1,No,Debit Card,No
+2374,37.0,Male,Hoodie,Clothing,20,,No,Bank Transfer,No
+2375,69.0,Male,Gloves,Accessories,73,,No,Cash,No
+2376,60.0,Male,Backpack,Accessories,63,2.9,No,PayPal,No
+2377,21.0,,Gloves,Accessories,94,4.1,No,Venmo,No
+2378,44.0,Male,Blouse,Clothing,94,4.0,No,Venmo,No
+2379,26.0,Male,Scarf,Accessories,71,,No,Debit Card,No
+2380,40.0,Male,,Accessories,77,4.0,No,Credit Card,No
+2381,,,Scarf,Accessories,66,2.5,No,,No
+2382,62.0,Male,Sandals,Footwear,23,,No,,No
+2383,39.0,Male,Sweater,Clothing,60,,No,,No
+2384,53.0,,Backpack,Accessories,72,4.9,No,Cash,No
+2385,,Male,Blouse,Clothing,35,,No,Debit Card,No
+2386,41.0,Male,Scarf,Accessories,31,3.8,No,,No
+2387,19.0,,Socks,Clothing,33,,No,Credit Card,No
+2388,36.0,Male,Hat,Accessories,95,,No,,No
+2389,21.0,Male,Dress,Clothing,68,4.1,No,,No
+2390,25.0,Male,,Outerwear,87,3.1,No,,No
+2391,65.0,,,Clothing,64,4.6,No,Debit Card,No
+2392,42.0,Male,Shirt,Clothing,74,,No,,No
+2393,,Male,Jeans,Clothing,62,2.6,No,Cash,No
+2394,58.0,Male,Socks,Clothing,97,5.0,No,,No
+2395,40.0,Male,Sandals,Footwear,47,,No,Cash,No
+2396,,,Blouse,Clothing,83,3.5,No,Debit Card,No
+2397,38.0,Male,Shirt,Clothing,82,3.7,No,Credit Card,No
+2398,37.0,Male,,Accessories,26,2.9,No,,No
+2399,65.0,Male,Jacket,Outerwear,81,4.3,No,PayPal,No
+2400,55.0,Male,Dress,Clothing,44,3.2,No,,No
+2401,43.0,Male,Sunglasses,Accessories,88,4.2,No,PayPal,No
+2402,43.0,Male,Boots,Footwear,76,,No,Cash,No
+2403,45.0,Male,Scarf,Accessories,89,3.8,No,PayPal,No
+2404,64.0,Male,Shorts,Clothing,22,,No,Bank Transfer,No
+2405,28.0,,Shorts,Clothing,33,,No,Venmo,No
+2406,69.0,Male,Jeans,Clothing,97,5.0,No,Venmo,No
+2407,,Male,Scarf,Accessories,57,4.7,No,,No
+2408,52.0,Male,Shorts,Clothing,38,3.0,No,Credit Card,No
+2409,,Male,Sneakers,Footwear,55,4.2,No,PayPal,No
+2410,26.0,Male,Jewelry,Accessories,37,3.0,No,Credit Card,No
+2411,48.0,Male,,Footwear,43,3.7,No,Venmo,No
+2412,49.0,Male,Hoodie,Clothing,96,2.7,No,,No
+2413,53.0,Male,,Outerwear,51,4.3,No,,No
+2414,,Male,Shorts,Clothing,95,2.7,No,,No
+2415,26.0,,Socks,Clothing,26,,No,PayPal,No
+2416,21.0,Male,Coat,Outerwear,34,4.3,No,Cash,No
+2417,59.0,Male,Sandals,Footwear,83,4.0,No,Cash,No
+2418,21.0,Male,,Accessories,24,3.3,No,Bank Transfer,No
+2419,22.0,,Pants,Clothing,69,,No,Bank Transfer,No
+2420,26.0,,Sweater,Clothing,40,2.7,No,Venmo,No
+2421,41.0,,Jacket,Outerwear,87,,No,PayPal,No
+2422,37.0,Male,Sneakers,Footwear,46,,No,PayPal,No
+2423,30.0,Male,Jewelry,Accessories,82,,No,Credit Card,No
+2424,49.0,Male,Backpack,Accessories,81,2.8,No,PayPal,No
+2425,49.0,Male,Jewelry,Accessories,57,4.5,No,Debit Card,No
+2426,58.0,Male,,Footwear,49,3.0,No,Venmo,No
+2427,70.0,Male,Jacket,Outerwear,42,4.6,No,,No
+2428,27.0,Male,Jacket,Outerwear,26,3.3,No,Debit Card,No
+2429,65.0,Male,T-shirt,Clothing,38,4.4,No,PayPal,No
+2430,,Male,Sneakers,Footwear,57,4.4,No,PayPal,No
+2431,20.0,,Jacket,Outerwear,100,4.3,No,Cash,No
+2432,34.0,Male,Hoodie,Clothing,73,,No,,No
+2433,59.0,,,Outerwear,66,2.8,No,PayPal,No
+2434,54.0,Male,T-shirt,Clothing,73,,No,Cash,No
+2435,36.0,Male,Gloves,Accessories,45,5.0,No,Cash,No
+2436,21.0,Male,,Footwear,27,4.5,No,Cash,No
+2437,52.0,Male,T-shirt,Clothing,24,,No,Credit Card,No
+2438,43.0,Male,Sneakers,Footwear,59,3.4,No,Credit Card,No
+2439,32.0,,Jeans,Clothing,20,3.4,No,Cash,No
+2440,,Male,Handbag,Accessories,44,2.8,No,Cash,No
+2441,31.0,Male,Socks,Clothing,90,4.7,No,Bank Transfer,No
+2442,45.0,Male,Jewelry,Accessories,36,,No,Credit Card,No
+2443,53.0,Male,Blouse,Clothing,95,4.7,No,PayPal,No
+2444,24.0,Male,Backpack,Accessories,30,,No,Venmo,No
+2445,47.0,,Scarf,Accessories,65,,No,Cash,No
+2446,63.0,,Scarf,Accessories,96,,No,PayPal,No
+2447,38.0,,Shirt,Clothing,65,2.9,No,Cash,No
+2448,59.0,Male,,Clothing,47,3.2,No,,No
+2449,54.0,Male,Hat,Accessories,25,3.0,No,Bank Transfer,No
+2450,26.0,Male,Coat,Outerwear,56,4.1,No,Debit Card,No
+2451,68.0,Male,T-shirt,Clothing,76,4.5,No,,No
+2452,41.0,Male,Socks,Clothing,60,,No,Debit Card,No
+2453,68.0,Male,,Clothing,67,,No,Venmo,No
+2454,21.0,Male,Sweater,Clothing,95,,No,PayPal,No
+2455,32.0,Male,Gloves,Accessories,72,4.6,No,Bank Transfer,No
+2456,20.0,Male,Belt,Accessories,98,3.4,No,PayPal,No
+2457,59.0,Male,Jeans,Clothing,83,3.3,No,Credit Card,No
+2458,53.0,Male,,Accessories,37,3.6,No,PayPal,No
+2459,66.0,Male,T-shirt,Clothing,85,4.6,No,,No
+2460,47.0,Male,,Clothing,36,4.3,No,PayPal,No
+2461,58.0,Male,Jeans,Clothing,36,4.0,No,,No
+2462,28.0,Male,Scarf,Accessories,86,,No,PayPal,No
+2463,68.0,Male,,Clothing,99,4.3,No,,No
+2464,60.0,Male,Blouse,Clothing,21,3.3,No,Bank Transfer,No
+2465,,Male,Jacket,Outerwear,84,2.8,No,Debit Card,No
+2466,18.0,Male,Sandals,Footwear,63,4.4,No,Cash,No
+2467,32.0,Male,Shorts,Clothing,84,,No,Cash,No
+2468,27.0,Male,Shorts,Clothing,72,,No,Debit Card,No
+2469,,Male,Skirt,Clothing,21,,No,Credit Card,No
+2470,68.0,Male,Sandals,Footwear,92,5.0,No,Cash,No
+2471,55.0,,Blouse,Clothing,72,2.7,No,Cash,No
+2472,30.0,Male,Sandals,Footwear,83,4.3,No,,No
+2473,24.0,Male,,Clothing,73,,No,Bank Transfer,No
+2474,57.0,Male,Socks,Clothing,98,2.6,No,Cash,No
+2475,23.0,Male,T-shirt,Clothing,76,3.2,No,Cash,No
+2476,,Male,Dress,Clothing,43,,No,Bank Transfer,No
+2477,60.0,Male,,Accessories,60,3.7,No,Debit Card,No
+2478,25.0,,,Accessories,40,,No,Debit Card,No
+2479,18.0,Male,Socks,Clothing,93,,No,,No
+2480,37.0,Male,,Clothing,98,4.2,No,Venmo,No
+2481,61.0,Male,,Clothing,91,2.9,No,Debit Card,No
+2482,41.0,Male,Belt,Accessories,92,2.9,No,Venmo,No
+2483,69.0,Male,Handbag,Accessories,87,4.8,No,,No
+2484,32.0,Male,Skirt,Clothing,96,2.9,No,,No
+2485,60.0,Male,,Clothing,97,,No,Bank Transfer,No
+2486,43.0,Male,Blouse,Clothing,55,,No,Credit Card,No
+2487,61.0,Male,Jeans,Clothing,58,4.4,No,,No
+2488,57.0,Male,Boots,Footwear,21,,No,PayPal,No
+2489,56.0,Male,Handbag,Accessories,82,,No,Credit Card,No
+2490,66.0,,Coat,Outerwear,34,3.9,No,Credit Card,No
+2491,52.0,Male,,Clothing,78,4.0,No,PayPal,No
+2492,,Male,Handbag,Accessories,47,,No,Debit Card,No
+2493,50.0,Male,Sunglasses,Accessories,96,4.1,No,,No
+2494,21.0,Male,,Clothing,23,4.8,No,Cash,No
+2495,42.0,Male,Shoes,Footwear,27,,No,PayPal,No
+2496,40.0,Male,Backpack,Accessories,37,3.1,No,Bank Transfer,No
+2497,67.0,Male,Scarf,Accessories,79,,No,Bank Transfer,No
+2498,,Male,Backpack,Accessories,40,,No,Bank Transfer,No
+2499,18.0,,Coat,Outerwear,39,2.6,No,Cash,No
+2500,52.0,Male,Hoodie,Clothing,73,3.1,No,Debit Card,No
+2501,,,,Accessories,84,,No,,No
+2502,49.0,Male,Shorts,Clothing,94,4.6,No,Cash,No
+2503,46.0,Male,Skirt,Clothing,47,,No,Cash,No
+2504,69.0,Male,Boots,Footwear,77,2.5,No,PayPal,No
+2505,56.0,Male,Shorts,Clothing,94,4.0,No,Credit Card,No
+2506,,Male,Handbag,Accessories,75,3.5,No,,No
+2507,57.0,Male,Dress,Clothing,82,,No,,No
+2508,58.0,Male,Shoes,Footwear,36,2.9,No,,No
+2509,,Male,,Footwear,90,,No,,No
+2510,19.0,Male,Socks,Clothing,48,4.4,No,PayPal,No
+2511,40.0,,,Outerwear,42,4.4,No,Cash,No
+2512,54.0,Male,,Accessories,33,,No,Debit Card,No
+2513,50.0,Male,Socks,Clothing,63,4.9,No,Credit Card,No
+2514,69.0,Male,Handbag,Accessories,53,3.5,No,Debit Card,No
+2515,42.0,Male,Hat,Accessories,37,4.8,No,,No
+2516,37.0,Male,,Clothing,92,,No,Bank Transfer,No
+2517,46.0,Male,Shorts,Clothing,73,,No,,No
+2518,64.0,Male,Shirt,Clothing,38,2.9,No,Credit Card,No
+2519,20.0,Male,,Footwear,51,4.0,No,PayPal,No
+2520,40.0,Male,Jacket,Outerwear,90,4.9,No,,No
+2521,64.0,,Jacket,Outerwear,56,3.1,No,Bank Transfer,No
+2522,29.0,,Handbag,Accessories,33,4.4,No,Debit Card,No
+2523,20.0,Male,Belt,Accessories,53,,No,,No
+2524,43.0,Male,Handbag,Accessories,24,3.4,No,Cash,No
+2525,,Male,Coat,Outerwear,59,,No,Venmo,No
+2526,39.0,Male,Sweater,Clothing,72,,No,PayPal,No
+2527,47.0,Male,Shorts,Clothing,28,,No,Bank Transfer,No
+2528,19.0,,Pants,Clothing,36,3.6,No,Cash,No
+2529,52.0,Male,Jewelry,Accessories,47,4.7,No,Bank Transfer,No
+2530,34.0,Male,Gloves,Accessories,62,,No,Cash,No
+2531,25.0,Male,Skirt,Clothing,98,3.6,No,Debit Card,No
+2532,43.0,Male,Sandals,Footwear,28,,No,PayPal,No
+2533,55.0,,Socks,Clothing,86,,No,PayPal,No
+2534,66.0,Male,Jewelry,Accessories,46,3.1,No,,No
+2535,41.0,,Sunglasses,Accessories,42,3.2,No,PayPal,No
+2536,47.0,,Coat,Outerwear,80,,No,,No
+2537,51.0,Male,Belt,Accessories,39,4.9,No,Bank Transfer,No
+2538,44.0,Male,Coat,Outerwear,49,4.1,No,Debit Card,No
+2539,18.0,,Scarf,Accessories,32,4.2,No,Venmo,No
+2540,33.0,Male,Sandals,Footwear,73,,No,PayPal,No
+2541,24.0,Male,Belt,Accessories,42,3.9,No,,No
+2542,33.0,Male,Scarf,Accessories,58,2.7,No,,No
+2543,61.0,Male,Jewelry,Accessories,22,3.7,No,PayPal,No
+2544,27.0,Male,Scarf,Accessories,56,2.7,No,Debit Card,No
+2545,46.0,Male,Pants,Clothing,70,2.5,No,Cash,No
+2546,,Male,Shoes,Footwear,50,3.9,No,,No
+2547,63.0,Male,Boots,Footwear,21,3.0,No,Venmo,No
+2548,47.0,Male,Jacket,Outerwear,97,,No,Bank Transfer,No
+2549,42.0,,Backpack,Accessories,63,,No,,No
+2550,41.0,Male,Jacket,Outerwear,60,2.7,No,Credit Card,No
+2551,53.0,Male,Boots,Footwear,52,,No,Credit Card,No
+2552,,Male,Shoes,Footwear,32,4.1,No,Cash,No
+2553,61.0,,Belt,Accessories,48,3.2,No,,No
+2554,69.0,Male,Jewelry,Accessories,25,4.5,No,Cash,No
+2555,,Male,Jewelry,Accessories,68,4.3,No,Bank Transfer,No
+2556,24.0,Male,Pants,Clothing,74,3.5,No,PayPal,No
+2557,24.0,Male,T-shirt,Clothing,88,3.1,No,PayPal,No
+2558,70.0,,Shorts,Clothing,23,3.9,No,Venmo,No
+2559,49.0,,Hoodie,Clothing,32,2.7,No,,No
+2560,48.0,Male,Belt,Accessories,71,4.0,No,,No
+2561,58.0,Male,Boots,Footwear,62,2.7,No,Debit Card,No
+2562,32.0,Male,Hoodie,Clothing,20,2.7,No,Credit Card,No
+2563,57.0,Male,,Clothing,62,4.7,No,Debit Card,No
+2564,69.0,Male,Backpack,Accessories,81,,No,PayPal,No
+2565,,,Scarf,Accessories,90,3.0,No,,No
+2566,30.0,Male,Socks,Clothing,43,3.6,No,Debit Card,No
+2567,35.0,Male,Handbag,Accessories,38,3.3,No,,No
+2568,19.0,Male,Sunglasses,Accessories,25,4.3,No,Venmo,No
+2569,52.0,,T-shirt,Clothing,98,4.3,No,Cash,No
+2570,,Male,Dress,Clothing,75,,No,Debit Card,No
+2571,36.0,Male,Sneakers,Footwear,27,4.0,No,Bank Transfer,No
+2572,45.0,Male,,Accessories,27,3.5,No,Credit Card,No
+2573,54.0,Male,Blouse,Clothing,42,,No,,No
+2574,54.0,Male,T-shirt,Clothing,90,4.4,No,Bank Transfer,No
+2575,27.0,Male,Hat,Accessories,63,4.6,No,Credit Card,No
+2576,53.0,Male,Shorts,Clothing,96,4.0,No,Cash,No
+2577,20.0,Male,Hoodie,Clothing,40,,No,PayPal,No
+2578,52.0,,Socks,Clothing,39,4.5,No,,No
+2579,54.0,Male,,Accessories,48,3.9,No,,No
+2580,65.0,,Blouse,Clothing,20,3.7,No,Venmo,No
+2581,43.0,Male,,Clothing,29,3.6,No,Cash,No
+2582,57.0,Male,Dress,Clothing,81,,No,Bank Transfer,No
+2583,19.0,Male,Dress,Clothing,98,,No,,No
+2584,,Male,Jeans,Clothing,93,,No,Bank Transfer,No
+2585,26.0,Male,Socks,Clothing,30,,No,PayPal,No
+2586,57.0,Male,Sunglasses,Accessories,37,4.4,No,,No
+2587,20.0,Male,Coat,Outerwear,28,4.6,No,Venmo,No
+2588,55.0,Male,Scarf,Accessories,29,3.7,No,PayPal,No
+2589,44.0,Male,Backpack,Accessories,49,,No,Venmo,No
+2590,52.0,Male,Pants,Clothing,53,,No,,No
+2591,57.0,Male,Gloves,Accessories,66,5.0,No,PayPal,No
+2592,40.0,Male,,Outerwear,61,3.3,No,Debit Card,No
+2593,,Male,Shorts,Clothing,23,4.4,No,Cash,No
+2594,36.0,Male,Pants,Clothing,36,4.7,No,Debit Card,No
+2595,59.0,Male,Skirt,Clothing,81,3.6,No,Credit Card,No
+2596,29.0,Male,Blouse,Clothing,56,3.2,No,,No
+2597,,,Shirt,Clothing,78,3.0,No,Venmo,No
+2598,60.0,Male,Jewelry,Accessories,25,,No,Bank Transfer,No
+2599,64.0,Male,,Accessories,86,,No,Credit Card,No
+2600,63.0,Male,Jewelry,Accessories,99,3.4,No,,No
+2601,21.0,Male,Belt,Accessories,83,3.9,No,Debit Card,No
+2602,61.0,Male,Dress,Clothing,33,2.9,No,,No
+2603,,Male,Coat,Outerwear,44,2.9,No,Venmo,No
+2604,69.0,Male,Dress,Clothing,58,2.7,No,Debit Card,No
+2605,,Male,Sweater,Clothing,54,3.4,No,Credit Card,No
+2606,41.0,Male,Hoodie,Clothing,93,3.7,No,Debit Card,No
+2607,68.0,Male,Shoes,Footwear,98,4.7,No,,No
+2608,41.0,Male,Shoes,Footwear,36,3.1,No,Bank Transfer,No
+2609,42.0,Male,Jacket,Outerwear,68,4.2,No,PayPal,No
+2610,,Male,Backpack,Accessories,95,,No,,No
+2611,,Male,Jeans,Clothing,93,3.1,No,Bank Transfer,No
+2612,33.0,Male,,Outerwear,99,4.2,No,Cash,No
+2613,55.0,Male,Sunglasses,Accessories,22,3.8,No,,No
+2614,58.0,Male,Gloves,Accessories,88,2.9,No,Cash,No
+2615,18.0,Male,Jacket,Outerwear,65,,No,Credit Card,No
+2616,49.0,,T-shirt,Clothing,62,3.1,No,,No
+2617,61.0,,Sandals,Footwear,55,,No,Bank Transfer,No
+2618,31.0,Male,Shorts,Clothing,97,,No,Bank Transfer,No
+2619,70.0,Male,Handbag,Accessories,77,4.1,No,Credit Card,No
+2620,68.0,Male,Pants,Clothing,40,,No,Credit Card,No
+2621,27.0,Male,Blouse,Clothing,23,,No,Venmo,No
+2622,48.0,Male,Shoes,Footwear,46,3.0,No,PayPal,No
+2623,63.0,Male,,Accessories,75,4.9,No,Venmo,No
+2624,49.0,Male,,Footwear,76,4.8,No,Cash,No
+2625,19.0,Male,Dress,Clothing,59,3.3,No,Debit Card,No
+2626,,,Skirt,Clothing,51,2.7,No,Bank Transfer,No
+2627,50.0,Male,,Outerwear,46,4.2,No,Bank Transfer,No
+2628,66.0,Male,Shirt,Clothing,26,,No,PayPal,No
+2629,25.0,Male,Hoodie,Clothing,51,3.8,No,Venmo,No
+2630,61.0,Male,Scarf,Accessories,44,3.8,No,Venmo,No
+2631,29.0,,Skirt,Clothing,82,,No,Bank Transfer,No
+2632,53.0,Male,,Clothing,44,,No,PayPal,No
+2633,24.0,Male,Scarf,Accessories,27,5.0,No,Venmo,No
+2634,51.0,Male,,Accessories,90,4.7,No,PayPal,No
+2635,26.0,,Sandals,Footwear,58,3.2,No,Cash,No
+2636,59.0,Male,Hoodie,Clothing,80,2.9,No,PayPal,No
+2637,41.0,,Jacket,Outerwear,40,4.2,No,PayPal,No
+2638,20.0,,Pants,Clothing,23,3.7,No,Credit Card,No
+2639,22.0,,Shirt,Clothing,34,,No,PayPal,No
+2640,18.0,Male,Blouse,Clothing,35,2.6,No,Debit Card,No
+2641,30.0,Male,Skirt,Clothing,75,4.0,No,Debit Card,No
+2642,25.0,Male,Sunglasses,Accessories,60,2.7,No,,No
+2643,39.0,Male,Belt,Accessories,87,,No,Debit Card,No
+2644,49.0,Male,Gloves,Accessories,41,,No,Credit Card,No
+2645,25.0,Male,Pants,Clothing,83,3.3,No,,No
+2646,23.0,Male,,Accessories,81,4.0,No,Bank Transfer,No
+2647,33.0,,T-shirt,Clothing,56,,No,Cash,No
+2648,60.0,Male,Shoes,Footwear,58,3.3,No,,No
+2649,51.0,Male,Pants,Clothing,84,3.9,No,Venmo,No
+2650,23.0,Male,Gloves,Accessories,21,3.9,No,Credit Card,No
+2651,,Male,Socks,Clothing,35,4.2,No,,No
+2652,51.0,Male,Sneakers,Footwear,43,4.6,No,Venmo,No
+2653,23.0,,Shorts,Clothing,20,3.3,No,Debit Card,No
+2654,67.0,,Blouse,Clothing,36,,No,Credit Card,No
+2655,23.0,,,Outerwear,70,4.1,No,Debit Card,No
+2656,26.0,,Sunglasses,Accessories,83,3.4,No,Credit Card,No
+2657,52.0,Female,Shorts,Clothing,76,3.6,No,,No
+2658,52.0,Female,Dress,Clothing,81,2.7,No,PayPal,No
+2659,52.0,Female,Handbag,Accessories,47,3.2,No,Bank Transfer,No
+2660,35.0,Female,Boots,Footwear,35,4.4,No,Bank Transfer,No
+2661,24.0,Female,Pants,Clothing,85,4.9,No,,No
+2662,43.0,,Boots,Footwear,96,,No,Debit Card,No
+2663,25.0,Female,Skirt,Clothing,98,2.8,No,PayPal,No
+2664,46.0,Female,Sneakers,Footwear,52,,No,Credit Card,No
+2665,22.0,,Jewelry,Accessories,84,3.2,No,Debit Card,No
+2666,70.0,,T-shirt,Clothing,71,3.5,No,Venmo,No
+2667,49.0,Female,Sandals,Footwear,95,4.1,No,Bank Transfer,No
+2668,48.0,Female,Boots,Footwear,47,,No,Venmo,No
+2669,59.0,Female,Coat,Outerwear,75,,No,,No
+2670,39.0,Female,,Accessories,28,,No,,No
+2671,30.0,Female,Sunglasses,Accessories,44,4.7,No,Venmo,No
+2672,37.0,Female,Sandals,Footwear,64,4.8,No,Cash,No
+2673,56.0,Female,Boots,Footwear,28,2.9,No,Debit Card,No
+2674,67.0,,Hoodie,Clothing,21,2.6,No,Cash,No
+2675,,Female,Hat,Accessories,41,3.3,No,Debit Card,No
+2676,24.0,,,Clothing,38,3.4,No,Cash,No
+2677,43.0,Female,,Accessories,77,,No,,No
+2678,45.0,Female,Shorts,Clothing,43,,No,Debit Card,No
+2679,33.0,Female,Belt,Accessories,91,3.4,No,Cash,No
+2680,53.0,Female,,Clothing,68,3.8,No,,No
+2681,44.0,Female,Socks,Clothing,37,,No,PayPal,No
+2682,23.0,Female,Shoes,Footwear,23,4.8,No,Bank Transfer,No
+2683,59.0,Female,Sneakers,Footwear,65,,No,Venmo,No
+2684,68.0,Female,Backpack,Accessories,30,4.2,No,Cash,No
+2685,,Female,Dress,Clothing,45,4.7,No,,No
+2686,56.0,Female,Boots,Footwear,25,2.7,No,,No
+2687,40.0,Female,Socks,Clothing,72,,No,Venmo,No
+2688,61.0,Female,Dress,Clothing,75,3.6,No,Cash,No
+2689,53.0,Female,Handbag,Accessories,63,2.9,No,,No
+2690,29.0,Female,Blouse,Clothing,35,3.9,No,Credit Card,No
+2691,44.0,Female,Belt,Accessories,32,,No,Venmo,No
+2692,43.0,Female,Pants,Clothing,25,3.3,No,Bank Transfer,No
+2693,40.0,Female,Sneakers,Footwear,90,4.2,No,Venmo,No
+2694,55.0,Female,Boots,Footwear,70,2.6,No,,No
+2695,66.0,Female,Sunglasses,Accessories,27,,No,Venmo,No
+2696,,Female,Hat,Accessories,92,3.6,No,Debit Card,No
+2697,57.0,Female,,Outerwear,20,,No,,No
+2698,42.0,Female,Jacket,Outerwear,52,3.2,No,Credit Card,No
+2699,55.0,Female,,Clothing,57,3.6,No,Venmo,No
+2700,25.0,Female,Boots,Footwear,96,,No,Venmo,No
+2701,22.0,Female,T-shirt,Clothing,68,3.2,No,Bank Transfer,No
+2702,49.0,Female,,Clothing,30,2.8,No,Bank Transfer,No
+2703,70.0,Female,Shoes,Footwear,37,,No,PayPal,No
+2704,56.0,Female,Scarf,Accessories,42,,No,Bank Transfer,No
+2705,52.0,Female,Dress,Clothing,54,3.4,No,Credit Card,No
+2706,65.0,Female,Jacket,Outerwear,81,5.0,No,Debit Card,No
+2707,,,Shoes,Footwear,40,3.1,No,,No
+2708,32.0,Female,Backpack,Accessories,88,4.2,No,Cash,No
+2709,57.0,Female,Dress,Clothing,94,,No,Debit Card,No
+2710,35.0,Female,Shirt,Clothing,54,2.9,No,,No
+2711,69.0,,Jacket,Outerwear,51,4.7,No,Debit Card,No
+2712,30.0,Female,Sunglasses,Accessories,22,4.0,No,Credit Card,No
+2713,37.0,Female,Jacket,Outerwear,95,4.6,No,Credit Card,No
+2714,19.0,Female,,Outerwear,57,3.8,No,PayPal,No
+2715,53.0,Female,,Clothing,45,3.6,No,Debit Card,No
+2716,25.0,Female,Sneakers,Footwear,92,4.1,No,,No
+2717,47.0,,Shoes,Footwear,40,2.7,No,Debit Card,No
+2718,18.0,,Sunglasses,Accessories,62,,No,Debit Card,No
+2719,22.0,Female,Shorts,Clothing,90,4.9,No,Credit Card,No
+2720,69.0,Female,,Clothing,82,4.2,No,,No
+2721,55.0,,Scarf,Accessories,52,,No,,No
+2722,19.0,Female,Sandals,Footwear,70,4.9,No,Cash,No
+2723,23.0,Female,Hat,Accessories,83,2.8,No,PayPal,No
+2724,54.0,,Shoes,Footwear,49,,No,,No
+2725,,Female,Sneakers,Footwear,91,2.5,No,Bank Transfer,No
+2726,64.0,Female,,Accessories,99,2.7,No,Bank Transfer,No
+2727,33.0,Female,Belt,Accessories,92,3.3,No,Debit Card,No
+2728,40.0,Female,Shirt,Clothing,87,,No,Debit Card,No
+2729,26.0,Female,Skirt,Clothing,28,4.0,No,Credit Card,No
+2730,31.0,Female,,Accessories,71,4.1,No,,No
+2731,23.0,,Gloves,Accessories,32,4.1,No,Bank Transfer,No
+2732,52.0,Female,Handbag,Accessories,33,2.5,No,PayPal,No
+2733,21.0,Female,Socks,Clothing,75,4.2,No,Credit Card,No
+2734,31.0,Female,Backpack,Accessories,83,,No,Cash,No
+2735,63.0,,Jeans,Clothing,93,2.7,No,Venmo,No
+2736,46.0,,Skirt,Clothing,29,3.0,No,Bank Transfer,No
+2737,44.0,Female,Hoodie,Clothing,25,4.8,No,,No
+2738,57.0,Female,Jewelry,Accessories,76,4.4,No,Venmo,No
+2739,50.0,Female,Sneakers,Footwear,81,4.3,No,Bank Transfer,No
+2740,33.0,Female,Shirt,Clothing,80,,No,Venmo,No
+2741,19.0,,Sunglasses,Accessories,70,4.9,No,,No
+2742,68.0,,Dress,Clothing,81,4.9,No,PayPal,No
+2743,27.0,Female,Shoes,Footwear,86,3.9,No,PayPal,No
+2744,61.0,Female,Belt,Accessories,94,4.1,No,,No
+2745,38.0,Female,Shirt,Clothing,66,3.3,No,Cash,No
+2746,,Female,Boots,Footwear,98,,No,,No
+2747,,,Hoodie,Clothing,25,3.7,No,,No
+2748,18.0,Female,Jeans,Clothing,62,3.1,No,Debit Card,No
+2749,24.0,Female,Jacket,Outerwear,98,3.0,No,,No
+2750,64.0,Female,Jacket,Outerwear,53,3.4,No,,No
+2751,51.0,,,Footwear,66,2.7,No,Cash,No
+2752,27.0,Female,Dress,Clothing,52,3.1,No,Venmo,No
+2753,48.0,Female,Sweater,Clothing,64,4.0,No,Cash,No
+2754,69.0,Female,Gloves,Accessories,59,3.6,No,Bank Transfer,No
+2755,,,Sunglasses,Accessories,61,3.6,No,PayPal,No
+2756,59.0,Female,Belt,Accessories,97,3.3,No,Venmo,No
+2757,42.0,Female,Hat,Accessories,23,,No,Bank Transfer,No
+2758,39.0,Female,Hat,Accessories,98,4.3,No,Cash,No
+2759,32.0,Female,Blouse,Clothing,98,,No,,No
+2760,68.0,Female,Shoes,Footwear,59,3.9,No,Credit Card,No
+2761,41.0,Female,Skirt,Clothing,82,5.0,No,Bank Transfer,No
+2762,31.0,,,Footwear,82,3.4,No,Venmo,No
+2763,58.0,Female,T-shirt,Clothing,41,,No,Bank Transfer,No
+2764,28.0,,Handbag,Accessories,52,2.9,No,,No
+2765,63.0,Female,Sweater,Clothing,41,2.6,No,Credit Card,No
+2766,64.0,Female,Gloves,Accessories,70,4.3,No,,No
+2767,66.0,Female,Dress,Clothing,91,2.8,No,Venmo,No
+2768,31.0,,,Clothing,95,,No,,No
+2769,55.0,,Blouse,Clothing,25,3.8,No,Venmo,No
+2770,,Female,Shirt,Clothing,89,,No,PayPal,No
+2771,50.0,Female,,Footwear,44,3.3,No,,No
+2772,58.0,Female,Jacket,Outerwear,52,,No,,No
+2773,18.0,Female,Backpack,Accessories,94,,No,Credit Card,No
+2774,39.0,Female,Pants,Clothing,98,4.6,No,,No
+2775,56.0,Female,Boots,Footwear,40,4.1,No,Bank Transfer,No
+2776,37.0,Female,,Clothing,25,,No,Venmo,No
+2777,46.0,Female,Scarf,Accessories,62,2.9,No,Debit Card,No
+2778,52.0,Female,Blouse,Clothing,24,4.8,No,Debit Card,No
+2779,70.0,,,Accessories,57,,No,,No
+2780,,,Sunglasses,Accessories,66,4.3,No,Bank Transfer,No
+2781,33.0,,Boots,Footwear,70,4.1,No,Bank Transfer,No
+2782,65.0,Female,Sandals,Footwear,39,4.6,No,Venmo,No
+2783,41.0,Female,,Accessories,34,3.8,No,PayPal,No
+2784,19.0,Female,Skirt,Clothing,38,4.5,No,Credit Card,No
+2785,33.0,,Skirt,Clothing,70,3.1,No,Bank Transfer,No
+2786,53.0,Female,Blouse,Clothing,80,2.9,No,,No
+2787,54.0,,Handbag,Accessories,51,3.8,No,PayPal,No
+2788,36.0,Female,,Footwear,79,,No,,No
+2789,56.0,,Boots,Footwear,92,3.1,No,Cash,No
+2790,,,Sweater,Clothing,85,,No,Cash,No
+2791,34.0,Female,Socks,Clothing,63,4.5,No,Cash,No
+2792,43.0,Female,Gloves,Accessories,60,2.8,No,Credit Card,No
+2793,54.0,Female,,Clothing,44,3.2,No,Debit Card,No
+2794,37.0,,Boots,Footwear,57,,No,,No
+2795,33.0,Female,Jacket,Outerwear,24,3.3,No,PayPal,No
+2796,33.0,Female,Scarf,Accessories,35,,No,Bank Transfer,No
+2797,55.0,Female,Jacket,Outerwear,73,3.8,No,Cash,No
+2798,63.0,Female,Jewelry,Accessories,42,3.5,No,PayPal,No
+2799,52.0,Female,Hoodie,Clothing,20,,No,Credit Card,No
+2800,23.0,Female,T-shirt,Clothing,89,,No,Credit Card,No
+2801,70.0,Female,Shirt,Clothing,76,3.4,No,PayPal,No
+2802,64.0,Female,Shirt,Clothing,56,2.6,No,Cash,No
+2803,22.0,,Coat,Outerwear,100,3.1,No,Bank Transfer,No
+2804,,Female,T-shirt,Clothing,44,3.3,No,Credit Card,No
+2805,65.0,Female,Hoodie,Clothing,76,2.8,No,Credit Card,No
+2806,18.0,Female,Sunglasses,Accessories,97,4.3,No,Cash,No
+2807,45.0,Female,Blouse,Clothing,39,2.7,No,PayPal,No
+2808,56.0,Female,Hoodie,Clothing,100,4.4,No,,No
+2809,49.0,Female,Skirt,Clothing,62,,No,Credit Card,No
+2810,66.0,Female,Shorts,Clothing,98,,No,Debit Card,No
+2811,27.0,Female,,Clothing,31,4.0,No,Credit Card,No
+2812,69.0,Female,Jacket,Outerwear,89,3.7,No,PayPal,No
+2813,66.0,Female,Hoodie,Clothing,91,,No,Debit Card,No
+2814,45.0,,Shirt,Clothing,50,3.3,No,Debit Card,No
+2815,31.0,,T-shirt,Clothing,32,3.6,No,Venmo,No
+2816,33.0,Female,Blouse,Clothing,67,3.9,No,,No
+2817,43.0,Female,Skirt,Clothing,28,3.5,No,Bank Transfer,No
+2818,25.0,Female,,Accessories,65,,No,Credit Card,No
+2819,46.0,Female,Shorts,Clothing,73,4.7,No,Venmo,No
+2820,,Female,,Clothing,27,,No,,No
+2821,26.0,Female,,Accessories,89,3.9,No,,No
+2822,35.0,,Shoes,Footwear,72,4.5,No,Credit Card,No
+2823,61.0,,Skirt,Clothing,37,,No,PayPal,No
+2824,26.0,Female,Dress,Clothing,63,4.5,No,,No
+2825,39.0,Female,Hat,Accessories,90,4.0,No,Debit Card,No
+2826,69.0,,Handbag,Accessories,62,4.3,No,Cash,No
+2827,32.0,Female,Handbag,Accessories,43,,No,Debit Card,No
+2828,20.0,Female,Blouse,Clothing,96,3.1,No,Credit Card,No
+2829,25.0,Female,Scarf,Accessories,83,2.6,No,Credit Card,No
+2830,56.0,Female,,Accessories,67,3.4,No,PayPal,No
+2831,63.0,Female,Skirt,Clothing,90,,No,Credit Card,No
+2832,34.0,Female,Hoodie,Clothing,53,,No,,No
+2833,29.0,Female,,Accessories,37,,No,Cash,No
+2834,43.0,Female,Jeans,Clothing,56,3.3,No,PayPal,No
+2835,39.0,,,Outerwear,43,2.9,No,,No
+2836,33.0,Female,T-shirt,Clothing,84,4.9,No,Credit Card,No
+2837,51.0,,Pants,Clothing,50,,No,Venmo,No
+2838,65.0,Female,Shoes,Footwear,88,4.5,No,Venmo,No
+2839,51.0,Female,Jacket,Outerwear,50,,No,Venmo,No
+2840,70.0,Female,Scarf,Accessories,80,2.8,No,Cash,No
+2841,40.0,Female,T-shirt,Clothing,47,3.5,No,Bank Transfer,No
+2842,19.0,Female,Dress,Clothing,33,3.0,No,Credit Card,No
+2843,28.0,,Coat,Outerwear,100,4.3,No,Cash,No
+2844,51.0,Female,Sweater,Clothing,26,3.6,No,,No
+2845,32.0,Female,Hat,Accessories,79,,No,Venmo,No
+2846,26.0,Female,Backpack,Accessories,77,4.1,No,Cash,No
+2847,,Female,Socks,Clothing,36,,No,Cash,No
+2848,68.0,Female,Jewelry,Accessories,21,,No,Venmo,No
+2849,33.0,Female,Boots,Footwear,72,4.9,No,Debit Card,No
+2850,,Female,Coat,Outerwear,25,,No,,No
+2851,57.0,Female,Sweater,Clothing,79,,No,Credit Card,No
+2852,58.0,Female,Blouse,Clothing,73,3.0,No,Bank Transfer,No
+2853,,Female,,Accessories,71,3.0,No,Credit Card,No
+2854,37.0,,Hat,Accessories,48,3.2,No,,No
+2855,36.0,Female,Sandals,Footwear,28,2.7,No,Debit Card,No
+2856,29.0,,Boots,Footwear,95,3.8,No,,No
+2857,65.0,Female,Jacket,Outerwear,48,3.5,No,Debit Card,No
+2858,44.0,Female,Dress,Clothing,93,3.8,No,Venmo,No
+2859,34.0,Female,Jeans,Clothing,87,,No,,No
+2860,31.0,Female,Shorts,Clothing,32,3.4,No,Venmo,No
+2861,,Female,Shirt,Clothing,38,2.9,No,PayPal,No
+2862,66.0,Female,Coat,Outerwear,54,3.4,No,,No
+2863,68.0,Female,Coat,Outerwear,75,4.7,No,,No
+2864,37.0,Female,T-shirt,Clothing,56,3.9,No,Debit Card,No
+2865,58.0,Female,Sweater,Clothing,43,3.6,No,Debit Card,No
+2866,28.0,Female,Skirt,Clothing,97,3.7,No,,No
+2867,54.0,Female,,Clothing,75,3.1,No,Venmo,No
+2868,21.0,Female,Sneakers,Footwear,55,4.9,No,Venmo,No
+2869,45.0,Female,Backpack,Accessories,49,2.6,No,Debit Card,No
+2870,57.0,,Socks,Clothing,58,4.2,No,Cash,No
+2871,47.0,Female,Jewelry,Accessories,34,,No,Debit Card,No
+2872,46.0,,Shorts,Clothing,43,,No,,No
+2873,63.0,Female,,Accessories,48,2.6,No,Venmo,No
+2874,44.0,,,Clothing,40,2.6,No,PayPal,No
+2875,36.0,Female,Shirt,Clothing,29,,No,Debit Card,No
+2876,,Female,Pants,Clothing,81,2.6,No,,No
+2877,65.0,Female,Hoodie,Clothing,84,3.4,No,Credit Card,No
+2878,32.0,Female,,Clothing,46,3.6,No,,No
+2879,,Female,Dress,Clothing,86,4.3,No,,No
+2880,62.0,Female,Blouse,Clothing,57,,No,Credit Card,No
+2881,19.0,Female,Skirt,Clothing,61,4.8,No,Debit Card,No
+2882,38.0,,Backpack,Accessories,90,4.2,No,Credit Card,No
+2883,59.0,,Blouse,Clothing,51,2.6,No,Credit Card,No
+2884,22.0,Female,Socks,Clothing,48,,No,,No
+2885,55.0,Female,Boots,Footwear,50,3.4,No,,No
+2886,29.0,Female,Backpack,Accessories,82,,No,Bank Transfer,No
+2887,,Female,Hat,Accessories,33,4.2,No,Credit Card,No
+2888,23.0,Female,Sandals,Footwear,28,,No,Debit Card,No
+2889,70.0,Female,Hoodie,Clothing,42,5.0,No,Venmo,No
+2890,64.0,,Sunglasses,Accessories,43,3.3,No,Credit Card,No
+2891,39.0,Female,Jeans,Clothing,55,3.7,No,PayPal,No
+2892,47.0,,,Clothing,73,2.5,No,,No
+2893,22.0,Female,,Clothing,39,,No,Bank Transfer,No
+2894,69.0,,,Accessories,20,3.1,No,,No
+2895,35.0,Female,Jewelry,Accessories,32,3.5,No,Cash,No
+2896,56.0,Female,Hoodie,Clothing,86,4.6,No,Debit Card,No
+2897,30.0,Female,,Clothing,91,3.3,No,,No
+2898,43.0,Female,Jacket,Outerwear,59,2.5,No,Credit Card,No
+2899,23.0,Female,Sneakers,Footwear,33,,No,Credit Card,No
+2900,,Female,Boots,Footwear,64,4.2,No,PayPal,No
+2901,,Female,Blouse,Clothing,67,4.0,No,Bank Transfer,No
+2902,41.0,Female,Blouse,Clothing,43,,No,Credit Card,No
+2903,27.0,,,Footwear,32,4.6,No,,No
+2904,38.0,Female,,Accessories,39,3.5,No,,No
+2905,,,Sandals,Footwear,41,4.0,No,Bank Transfer,No
+2906,58.0,Female,Sunglasses,Accessories,53,4.8,No,PayPal,No
+2907,58.0,Female,Coat,Outerwear,27,3.9,No,,No
+2908,19.0,Female,,Accessories,82,3.7,No,Cash,No
+2909,43.0,Female,Blouse,Clothing,87,,No,,No
+2910,,Female,Backpack,Accessories,78,,No,Bank Transfer,No
+2911,32.0,,Belt,Accessories,32,,No,Bank Transfer,No
+2912,,Female,,Clothing,38,2.9,No,,No
+2913,48.0,Female,Shoes,Footwear,37,4.0,No,Cash,No
+2914,43.0,Female,Coat,Outerwear,83,,No,Debit Card,No
+2915,45.0,Female,,Clothing,72,3.8,No,PayPal,No
+2916,26.0,Female,Shirt,Clothing,30,4.5,No,,No
+2917,62.0,,Shorts,Clothing,66,2.7,No,Credit Card,No
+2918,58.0,,Shirt,Clothing,45,,No,Cash,No
+2919,19.0,Female,Sunglasses,Accessories,73,4.9,No,Credit Card,No
+2920,64.0,Female,Shoes,Footwear,67,,No,Bank Transfer,No
+2921,33.0,Female,Sunglasses,Accessories,72,4.9,No,,No
+2922,20.0,Female,Handbag,Accessories,24,,No,,No
+2923,,Female,Sunglasses,Accessories,68,,No,Venmo,No
+2924,28.0,Female,Shirt,Clothing,70,4.2,No,,No
+2925,47.0,,Shirt,Clothing,64,,No,Bank Transfer,No
+2926,54.0,Female,Sweater,Clothing,91,,No,Cash,No
+2927,64.0,Female,,Accessories,82,,No,,No
+2928,45.0,Female,,Clothing,24,,No,,No
+2929,40.0,Female,Jewelry,Accessories,80,,No,Venmo,No
+2930,,Female,,Clothing,53,,No,,No
+2931,38.0,,,Clothing,50,4.0,No,Credit Card,No
+2932,36.0,Female,Jewelry,Accessories,31,4.5,No,Cash,No
+2933,65.0,Female,Backpack,Accessories,88,3.9,No,,No
+2934,27.0,,Hat,Accessories,52,3.8,No,,No
+2935,38.0,Female,Gloves,Accessories,22,,No,,No
+2936,58.0,Female,Sneakers,Footwear,27,4.6,No,Debit Card,No
+2937,31.0,Female,Skirt,Clothing,34,,No,Debit Card,No
+2938,28.0,Female,,Accessories,39,4.3,No,Debit Card,No
+2939,28.0,Female,Sunglasses,Accessories,53,3.0,No,,No
+2940,32.0,Female,Sweater,Clothing,46,,No,PayPal,No
+2941,61.0,Female,Handbag,Accessories,85,,No,Venmo,No
+2942,38.0,Female,Skirt,Clothing,86,3.7,No,,No
+2943,54.0,Female,,Clothing,63,,No,Cash,No
+2944,29.0,Female,,Clothing,44,,No,Debit Card,No
+2945,50.0,Female,Sneakers,Footwear,95,,No,Cash,No
+2946,32.0,Female,Belt,Accessories,49,,No,Venmo,No
+2947,38.0,Female,,Clothing,77,,No,Credit Card,No
+2948,52.0,,,Accessories,63,4.4,No,Venmo,No
+2949,61.0,Female,,Clothing,83,3.1,No,Credit Card,No
+2950,25.0,Female,Jewelry,Accessories,93,3.8,No,,No
+2951,22.0,Female,Jeans,Clothing,91,4.1,No,Bank Transfer,No
+2952,47.0,Female,Scarf,Accessories,99,4.6,No,Credit Card,No
+2953,,Female,Belt,Accessories,24,4.9,No,PayPal,No
+2954,45.0,Female,Dress,Clothing,82,4.8,No,PayPal,No
+2955,,Female,T-shirt,Clothing,28,,No,PayPal,No
+2956,42.0,,Boots,Footwear,67,2.6,No,,No
+2957,52.0,Female,Dress,Clothing,88,3.7,No,,No
+2958,69.0,Female,Jewelry,Accessories,70,4.7,No,Cash,No
+2959,55.0,Female,Skirt,Clothing,100,4.5,No,,No
+2960,38.0,,Handbag,Accessories,28,,No,,No
+2961,57.0,Female,Coat,Outerwear,48,3.6,No,Venmo,No
+2962,33.0,,,Clothing,43,2.8,No,Credit Card,No
+2963,57.0,Female,Pants,Clothing,40,4.0,No,PayPal,No
+2964,52.0,Female,Boots,Footwear,97,,No,,No
+2965,44.0,,Coat,Outerwear,25,,No,Credit Card,No
+2966,48.0,Female,Scarf,Accessories,45,4.4,No,Bank Transfer,No
+2967,52.0,,Boots,Footwear,49,2.8,No,Cash,No
+2968,34.0,Female,Sneakers,Footwear,36,3.4,No,,No
+2969,26.0,,Sweater,Clothing,48,,No,Cash,No
+2970,36.0,Female,Belt,Accessories,62,4.3,No,Bank Transfer,No
+2971,24.0,Female,Jewelry,Accessories,74,,No,Bank Transfer,No
+2972,30.0,Female,Handbag,Accessories,100,,No,Credit Card,No
+2973,31.0,Female,Jacket,Outerwear,39,4.2,No,Venmo,No
+2974,25.0,Female,Boots,Footwear,65,2.7,No,,No
+2975,57.0,Female,Sneakers,Footwear,99,4.1,No,Cash,No
+2976,61.0,,Scarf,Accessories,68,4.5,No,,No
+2977,30.0,Female,Coat,Outerwear,97,2.8,No,Debit Card,No
+2978,,Female,Shorts,Clothing,47,,No,PayPal,No
+2979,53.0,Female,Shorts,Clothing,56,3.9,No,,No
+2980,31.0,Female,Jeans,Clothing,91,,No,PayPal,No
+2981,70.0,Female,Gloves,Accessories,93,,No,Cash,No
+2982,,Female,Pants,Clothing,36,4.9,No,PayPal,No
+2983,33.0,Female,Dress,Clothing,45,3.6,No,Venmo,No
+2984,60.0,Female,Pants,Clothing,44,,No,,No
+2985,45.0,Female,Gloves,Accessories,32,4.3,No,,No
+2986,46.0,Female,Belt,Accessories,36,3.0,No,,No
+2987,62.0,Female,Belt,Accessories,85,,No,,No
+2988,63.0,Female,Skirt,Clothing,36,,No,Debit Card,No
+2989,69.0,Female,Socks,Clothing,55,5.0,No,Debit Card,No
+2990,,,Belt,Accessories,20,4.3,No,Cash,No
+2991,69.0,Female,Shirt,Clothing,91,4.2,No,Venmo,No
+2992,66.0,,Dress,Clothing,71,3.9,No,,No
+2993,41.0,,Socks,Clothing,64,3.9,No,,No
+2994,32.0,Female,Jacket,Outerwear,21,,No,Bank Transfer,No
+2995,69.0,Female,Sweater,Clothing,100,3.5,No,Cash,No
+2996,29.0,Female,Jeans,Clothing,96,,No,Venmo,No
+2997,70.0,Female,Jewelry,Accessories,91,2.9,No,Credit Card,No
+2998,41.0,Female,,Clothing,40,,No,,No
+2999,31.0,,Hoodie,Clothing,53,4.7,No,Venmo,No
+3000,31.0,Female,Sunglasses,Accessories,48,3.8,No,Bank Transfer,No
+3001,57.0,Female,Sandals,Footwear,70,3.7,No,,No
+3002,29.0,,Coat,Outerwear,29,4.7,No,Credit Card,No
+3003,70.0,Female,Belt,Accessories,29,,No,Cash,No
+3004,51.0,Female,Blouse,Clothing,53,2.8,No,Venmo,No
+3005,45.0,Female,Skirt,Clothing,79,,No,Venmo,No
+3006,18.0,Female,,Clothing,65,3.5,No,,No
+3007,37.0,Female,Dress,Clothing,99,3.7,No,Venmo,No
+3008,23.0,Female,Sunglasses,Accessories,60,3.0,No,Debit Card,No
+3009,,Female,Shoes,Footwear,86,4.9,No,Cash,No
+3010,62.0,Female,Belt,Accessories,73,,No,Venmo,No
+3011,70.0,Female,Belt,Accessories,45,3.3,No,Bank Transfer,No
+3012,20.0,Female,Belt,Accessories,70,3.0,No,Bank Transfer,No
+3013,42.0,Female,Belt,Accessories,65,3.5,No,Credit Card,No
+3014,41.0,Female,Skirt,Clothing,55,4.2,No,Debit Card,No
+3015,24.0,Female,T-shirt,Clothing,65,4.5,No,Credit Card,No
+3016,37.0,Female,Scarf,Accessories,21,2.8,No,Venmo,No
+3017,30.0,Female,,Clothing,26,4.9,No,,No
+3018,,,,Accessories,71,3.3,No,Bank Transfer,No
+3019,43.0,Female,Boots,Footwear,41,3.0,No,,No
+3020,19.0,Female,Jacket,Outerwear,44,3.9,No,Venmo,No
+3021,,Female,,Clothing,81,2.8,No,Bank Transfer,No
+3022,65.0,Female,Sunglasses,Accessories,77,4.5,No,,No
+3023,,Female,,Footwear,26,4.0,No,Debit Card,No
+3024,50.0,Female,Backpack,Accessories,31,2.9,No,PayPal,No
+3025,67.0,Female,Blouse,Clothing,82,4.0,No,Credit Card,No
+3026,40.0,Female,Shoes,Footwear,60,,No,Debit Card,No
+3027,55.0,,Shirt,Clothing,70,2.5,No,Venmo,No
+3028,52.0,Female,,Clothing,26,,No,,No
+3029,62.0,,Dress,Clothing,100,,No,PayPal,No
+3030,64.0,Female,,Clothing,82,3.1,No,Bank Transfer,No
+3031,43.0,Female,Sneakers,Footwear,24,2.6,No,,No
+3032,61.0,Female,Blouse,Clothing,74,,No,PayPal,No
+3033,26.0,,Backpack,Accessories,58,,No,Debit Card,No
+3034,22.0,Female,Sweater,Clothing,56,,No,PayPal,No
+3035,51.0,Female,Boots,Footwear,37,3.5,No,PayPal,No
+3036,69.0,Female,Handbag,Accessories,64,,No,Bank Transfer,No
+3037,50.0,Female,Hoodie,Clothing,58,4.3,No,PayPal,No
+3038,51.0,Female,Belt,Accessories,44,4.8,No,Debit Card,No
+3039,,Female,,Accessories,39,4.2,No,Bank Transfer,No
+3040,59.0,Female,Blouse,Clothing,48,3.2,No,Bank Transfer,No
+3041,18.0,Female,Handbag,Accessories,32,,No,PayPal,No
+3042,48.0,Female,Handbag,Accessories,79,4.0,No,Credit Card,No
+3043,53.0,Female,Coat,Outerwear,27,2.9,No,Credit Card,No
+3044,45.0,Female,Belt,Accessories,98,2.6,No,,No
+3045,21.0,,Boots,Footwear,67,,No,,No
+3046,42.0,Female,Socks,Clothing,37,,No,,No
+3047,60.0,Female,Shoes,Footwear,49,3.2,No,Bank Transfer,No
+3048,21.0,Female,Sneakers,Footwear,74,4.1,No,Cash,No
+3049,69.0,Female,Jewelry,Accessories,93,3.9,No,PayPal,No
+3050,40.0,Female,Handbag,Accessories,60,3.0,No,,No
+3051,31.0,Female,,Outerwear,76,3.6,No,,No
+3052,44.0,,Sunglasses,Accessories,64,,No,Venmo,No
+3053,48.0,Female,Shoes,Footwear,38,4.5,No,Credit Card,No
+3054,32.0,Female,Shoes,Footwear,91,,No,,No
+3055,42.0,Female,Boots,Footwear,70,4.9,No,Cash,No
+3056,27.0,,Sandals,Footwear,22,5.0,No,Bank Transfer,No
+3057,,Female,,Accessories,59,,No,Credit Card,No
+3058,67.0,Female,Backpack,Accessories,22,3.4,No,PayPal,No
+3059,41.0,Female,Handbag,Accessories,74,3.8,No,Venmo,No
+3060,46.0,Female,Sweater,Clothing,71,3.2,No,,No
+3061,,Female,Coat,Outerwear,80,4.7,No,,No
+3062,33.0,Female,T-shirt,Clothing,59,,No,Debit Card,No
+3063,51.0,,Backpack,Accessories,96,3.3,No,Bank Transfer,No
+3064,26.0,Female,Sunglasses,Accessories,43,3.9,No,,No
+3065,22.0,Female,Belt,Accessories,76,3.6,No,Debit Card,No
+3066,49.0,Female,Jacket,Outerwear,59,2.8,No,Debit Card,No
+3067,58.0,Female,Skirt,Clothing,48,4.3,No,Cash,No
+3068,70.0,Female,Belt,Accessories,22,,No,Bank Transfer,No
+3069,32.0,Female,Boots,Footwear,40,,No,Bank Transfer,No
+3070,62.0,,Jeans,Clothing,73,,No,,No
+3071,52.0,Female,Shoes,Footwear,26,2.6,No,,No
+3072,23.0,Female,,Clothing,41,,No,Debit Card,No
+3073,26.0,Female,Jewelry,Accessories,98,3.1,No,Venmo,No
+3074,58.0,Female,Shirt,Clothing,63,3.6,No,PayPal,No
+3075,26.0,Female,Boots,Footwear,55,4.2,No,,No
+3076,54.0,,Shorts,Clothing,90,3.6,No,,No
+3077,66.0,Female,Handbag,Accessories,46,3.6,No,,No
+3078,,Female,Sweater,Clothing,88,,No,Venmo,No
+3079,32.0,Female,Belt,Accessories,95,2.5,No,Bank Transfer,No
+3080,48.0,Female,Belt,Accessories,31,,No,Credit Card,No
+3081,69.0,Female,,Clothing,42,,No,PayPal,No
+3082,64.0,,Sneakers,Footwear,44,,No,,No
+3083,56.0,Female,T-shirt,Clothing,99,4.0,No,Venmo,No
+3084,22.0,Female,Pants,Clothing,20,,No,,No
+3085,46.0,Female,Scarf,Accessories,37,,No,Bank Transfer,No
+3086,24.0,Female,Sweater,Clothing,50,,No,Credit Card,No
+3087,47.0,Female,Handbag,Accessories,73,3.5,No,,No
+3088,62.0,Female,Shirt,Clothing,84,,No,Cash,No
+3089,,Female,Dress,Clothing,64,,No,PayPal,No
+3090,50.0,Female,Sandals,Footwear,21,,No,,No
+3091,29.0,,Shirt,Clothing,36,4.9,No,PayPal,No
+3092,68.0,Female,Dress,Clothing,81,,No,Bank Transfer,No
+3093,52.0,Female,Sunglasses,Accessories,54,3.5,No,Cash,No
+3094,29.0,,Socks,Clothing,63,4.8,No,Bank Transfer,No
+3095,22.0,Female,Sandals,Footwear,59,,No,,No
+3096,62.0,Female,Hat,Accessories,53,,No,,No
+3097,69.0,,Shirt,Clothing,63,,No,PayPal,No
+3098,48.0,Female,Shoes,Footwear,33,3.7,No,Debit Card,No
+3099,66.0,Female,Pants,Clothing,64,3.3,No,Bank Transfer,No
+3100,,,Shirt,Clothing,98,2.9,No,Venmo,No
+3101,50.0,,Hat,Accessories,85,3.9,No,Venmo,No
+3102,32.0,Female,Jewelry,Accessories,82,2.7,No,PayPal,No
+3103,51.0,Female,Jacket,Outerwear,85,,No,Bank Transfer,No
+3104,27.0,,Shirt,Clothing,37,3.0,No,PayPal,No
+3105,43.0,Female,Pants,Clothing,56,5.0,No,PayPal,No
+3106,48.0,Female,Skirt,Clothing,33,2.7,No,Debit Card,No
+3107,62.0,Female,Sandals,Footwear,57,4.7,No,Venmo,No
+3108,,Female,,Clothing,31,4.6,No,Debit Card,No
+3109,,,Socks,Clothing,69,,No,Bank Transfer,No
+3110,60.0,Female,Jacket,Outerwear,92,4.3,No,,No
+3111,19.0,Female,,Accessories,46,,No,Bank Transfer,No
+3112,21.0,Female,Belt,Accessories,81,4.9,No,PayPal,No
+3113,19.0,Female,Blouse,Clothing,97,3.8,No,Cash,No
+3114,46.0,Female,Shirt,Clothing,93,2.6,No,PayPal,No
+3115,21.0,Female,Handbag,Accessories,56,4.7,No,Venmo,No
+3116,26.0,Female,Scarf,Accessories,53,4.1,No,,No
+3117,,Female,Coat,Outerwear,66,3.7,No,Debit Card,No
+3118,43.0,Female,Hoodie,Clothing,50,3.0,No,Credit Card,No
+3119,,,,Clothing,97,4.7,No,Venmo,No
+3120,63.0,Female,Sandals,Footwear,79,4.7,No,Cash,No
+3121,,Female,,Clothing,76,,No,Venmo,No
+3122,63.0,Female,,Clothing,38,,No,Credit Card,No
+3123,23.0,Female,Socks,Clothing,45,3.0,No,Debit Card,No
+3124,57.0,Female,,Accessories,77,3.3,No,PayPal,No
+3125,57.0,Female,Jewelry,Accessories,51,3.4,No,Venmo,No
+3126,33.0,Female,Coat,Outerwear,26,4.0,No,Venmo,No
+3127,,Female,Sunglasses,Accessories,76,2.6,No,PayPal,No
+3128,55.0,Female,Gloves,Accessories,94,3.4,No,,No
+3129,65.0,Female,Jacket,Outerwear,32,,No,PayPal,No
+3130,60.0,Female,Sandals,Footwear,20,,No,PayPal,No
+3131,52.0,Female,Pants,Clothing,20,4.5,No,PayPal,No
+3132,34.0,Female,Jacket,Outerwear,59,,No,,No
+3133,33.0,Female,Sweater,Clothing,97,4.2,No,Cash,No
+3134,58.0,,T-shirt,Clothing,68,,No,,No
+3135,,,Boots,Footwear,66,4.4,No,Venmo,No
+3136,68.0,Female,Shoes,Footwear,85,4.7,No,Bank Transfer,No
+3137,,Female,Skirt,Clothing,32,3.1,No,,No
+3138,,Female,Coat,Outerwear,44,,No,Cash,No
+3139,47.0,Female,Blouse,Clothing,95,4.6,No,,No
+3140,35.0,Female,Sunglasses,Accessories,85,4.4,No,Venmo,No
+3141,34.0,Female,Gloves,Accessories,44,,No,Debit Card,No
+3142,36.0,,Sunglasses,Accessories,30,,No,Venmo,No
+3143,23.0,Female,Sneakers,Footwear,21,,No,PayPal,No
+3144,68.0,Female,Hoodie,Clothing,22,2.9,No,Debit Card,No
+3145,23.0,Female,,Footwear,70,2.6,No,Bank Transfer,No
+3146,57.0,,Handbag,Accessories,29,4.6,No,Debit Card,No
+3147,21.0,Female,Shirt,Clothing,83,4.9,No,,No
+3148,45.0,Female,Sweater,Clothing,99,,No,Cash,No
+3149,37.0,Female,Shorts,Clothing,35,4.3,No,Credit Card,No
+3150,18.0,Female,Belt,Accessories,40,,No,Debit Card,No
+3151,55.0,Female,Blouse,Clothing,25,2.6,No,Venmo,No
+3152,52.0,,,Clothing,64,3.1,No,Cash,No
+3153,49.0,Female,,Accessories,90,3.1,No,Venmo,No
+3154,56.0,Female,Socks,Clothing,88,3.1,No,Bank Transfer,No
+3155,27.0,Female,Belt,Accessories,55,,No,Venmo,No
+3156,22.0,Female,Handbag,Accessories,90,,No,,No
+3157,18.0,Female,Shirt,Clothing,50,3.1,No,,No
+3158,21.0,,Belt,Accessories,34,3.1,No,Bank Transfer,No
+3159,30.0,Female,Jewelry,Accessories,77,4.9,No,,No
+3160,62.0,Female,Hat,Accessories,89,2.9,No,PayPal,No
+3161,28.0,Female,,Accessories,87,3.8,No,Debit Card,No
+3162,66.0,Female,Dress,Clothing,77,4.2,No,,No
+3163,66.0,Female,Shoes,Footwear,85,,No,Credit Card,No
+3164,,,Pants,Clothing,66,2.8,No,Bank Transfer,No
+3165,40.0,,Dress,Clothing,32,2.6,No,Cash,No
+3166,49.0,Female,,Outerwear,92,3.0,No,,No
+3167,19.0,,Shirt,Clothing,80,2.7,No,Debit Card,No
+3168,24.0,Female,Dress,Clothing,78,,No,,No
+3169,31.0,Female,Jeans,Clothing,24,2.9,No,,No
+3170,35.0,Female,T-shirt,Clothing,59,3.8,No,Venmo,No
+3171,65.0,Female,Sunglasses,Accessories,41,,No,Debit Card,No
+3172,68.0,Female,Jewelry,Accessories,26,3.1,No,Credit Card,No
+3173,57.0,Female,Socks,Clothing,52,3.7,No,Venmo,No
+3174,,,Skirt,Clothing,46,4.9,No,Cash,No
+3175,45.0,Female,Pants,Clothing,52,,No,PayPal,No
+3176,,Female,Socks,Clothing,42,3.4,No,Debit Card,No
+3177,36.0,Female,Sandals,Footwear,37,,No,Cash,No
+3178,55.0,Female,Belt,Accessories,52,3.2,No,Credit Card,No
+3179,,Female,Sandals,Footwear,34,2.7,No,Cash,No
+3180,57.0,Female,Shorts,Clothing,88,4.3,No,,No
+3181,18.0,,Handbag,Accessories,88,3.8,No,Cash,No
+3182,31.0,,Jacket,Outerwear,51,4.4,No,Cash,No
+3183,50.0,,Sunglasses,Accessories,97,3.6,No,PayPal,No
+3184,50.0,Female,Sneakers,Footwear,56,,No,Debit Card,No
+3185,61.0,Female,Sweater,Clothing,53,,No,Credit Card,No
+3186,52.0,,Skirt,Clothing,71,,No,,No
+3187,38.0,Female,Jewelry,Accessories,93,4.8,No,,No
+3188,67.0,Female,Blouse,Clothing,72,3.2,No,,No
+3189,42.0,Female,Blouse,Clothing,59,,No,Venmo,No
+3190,25.0,Female,Boots,Footwear,87,,No,PayPal,No
+3191,41.0,Female,Jeans,Clothing,78,,No,Bank Transfer,No
+3192,62.0,,Hoodie,Clothing,68,4.7,No,Bank Transfer,No
+3193,19.0,Female,Sweater,Clothing,76,3.0,No,,No
+3194,63.0,,Gloves,Accessories,99,,No,,No
+3195,43.0,Female,Sneakers,Footwear,52,4.6,No,Debit Card,No
+3196,68.0,Female,Sunglasses,Accessories,58,,No,Debit Card,No
+3197,24.0,Female,Belt,Accessories,59,2.8,No,Debit Card,No
+3198,27.0,Female,Sweater,Clothing,71,,No,Bank Transfer,No
+3199,61.0,Female,Gloves,Accessories,94,2.8,No,Cash,No
+3200,59.0,Female,Handbag,Accessories,40,4.2,No,PayPal,No
+3201,,Female,Socks,Clothing,24,4.8,No,PayPal,No
+3202,,Female,Pants,Clothing,38,2.8,No,Credit Card,No
+3203,65.0,Female,Scarf,Accessories,37,4.5,No,,No
+3204,63.0,,,Outerwear,29,4.1,No,,No
+3205,57.0,Female,Jacket,Outerwear,92,4.3,No,Credit Card,No
+3206,40.0,,Hoodie,Clothing,24,4.4,No,Debit Card,No
+3207,36.0,Female,Boots,Footwear,52,3.0,No,Debit Card,No
+3208,67.0,Female,Socks,Clothing,29,2.7,No,Debit Card,No
+3209,61.0,,Jewelry,Accessories,30,3.3,No,PayPal,No
+3210,64.0,Female,Shoes,Footwear,31,4.3,No,Bank Transfer,No
+3211,30.0,Female,Socks,Clothing,67,2.9,No,Debit Card,No
+3212,53.0,,Pants,Clothing,65,,No,Credit Card,No
+3213,27.0,Female,Sneakers,Footwear,22,3.6,No,Bank Transfer,No
+3214,27.0,Female,Sunglasses,Accessories,56,3.3,No,Venmo,No
+3215,53.0,Female,Skirt,Clothing,78,3.1,No,Bank Transfer,No
+3216,34.0,Female,Coat,Outerwear,90,,No,Bank Transfer,No
+3217,39.0,Female,Hoodie,Clothing,85,3.4,No,Debit Card,No
+3218,44.0,,Sunglasses,Accessories,58,,No,PayPal,No
+3219,37.0,Female,Skirt,Clothing,34,3.9,No,Venmo,No
+3220,57.0,Female,Coat,Outerwear,40,,No,,No
+3221,,Female,Handbag,Accessories,29,,No,,No
+3222,21.0,Female,T-shirt,Clothing,76,3.2,No,,No
+3223,45.0,Female,Sunglasses,Accessories,84,4.6,No,,No
+3224,68.0,Female,Shirt,Clothing,65,,No,PayPal,No
+3225,,Female,Hoodie,Clothing,80,,No,Cash,No
+3226,53.0,Female,Blouse,Clothing,98,3.0,No,Credit Card,No
+3227,57.0,Female,Sneakers,Footwear,71,,No,Debit Card,No
+3228,28.0,Female,Scarf,Accessories,69,2.7,No,Credit Card,No
+3229,37.0,,,Accessories,95,4.6,No,Credit Card,No
+3230,54.0,Female,Pants,Clothing,67,2.7,No,Debit Card,No
+3231,49.0,Female,Sneakers,Footwear,49,2.5,No,,No
+3232,62.0,,Shoes,Footwear,97,4.4,No,PayPal,No
+3233,45.0,Female,T-shirt,Clothing,34,4.0,No,PayPal,No
+3234,45.0,,Belt,Accessories,74,,No,Credit Card,No
+3235,49.0,Female,Jewelry,Accessories,96,2.5,No,,No
+3236,27.0,Female,Belt,Accessories,68,4.0,No,Venmo,No
+3237,63.0,,Belt,Accessories,84,4.1,No,Venmo,No
+3238,61.0,Female,T-shirt,Clothing,57,2.8,No,Bank Transfer,No
+3239,25.0,Female,Sneakers,Footwear,84,3.4,No,,No
+3240,33.0,Female,Sunglasses,Accessories,32,,No,Credit Card,No
+3241,56.0,Female,Sandals,Footwear,37,,No,,No
+3242,50.0,Female,Handbag,Accessories,58,4.4,No,Credit Card,No
+3243,45.0,Female,Socks,Clothing,74,2.8,No,Cash,No
+3244,45.0,Female,Hoodie,Clothing,99,,No,Venmo,No
+3245,65.0,Female,Sweater,Clothing,81,4.7,No,Bank Transfer,No
+3246,63.0,Female,Pants,Clothing,76,,No,PayPal,No
+3247,70.0,Female,,Footwear,98,2.9,No,,No
+3248,53.0,Female,Gloves,Accessories,91,3.7,No,Venmo,No
+3249,22.0,Female,T-shirt,Clothing,79,4.2,No,Venmo,No
+3250,26.0,,,Accessories,83,3.4,No,Credit Card,No
+3251,23.0,Female,Coat,Outerwear,90,2.9,No,,No
+3252,25.0,,,Outerwear,20,3.7,No,Debit Card,No
+3253,69.0,,Sandals,Footwear,21,2.7,No,Bank Transfer,No
+3254,36.0,Female,Backpack,Accessories,60,3.2,No,Debit Card,No
+3255,21.0,,Sweater,Clothing,31,,No,Venmo,No
+3256,57.0,,Shorts,Clothing,40,2.8,No,Cash,No
+3257,60.0,,,Accessories,26,,No,Cash,No
+3258,44.0,Female,Shirt,Clothing,98,,No,PayPal,No
+3259,,Female,Shoes,Footwear,51,,No,,No
+3260,57.0,,Hat,Accessories,95,3.7,No,PayPal,No
+3261,39.0,Female,Scarf,Accessories,36,4.5,No,,No
+3262,48.0,,Belt,Accessories,52,3.4,No,Bank Transfer,No
+3263,42.0,Female,T-shirt,Clothing,35,2.7,No,Cash,No
+3264,56.0,Female,Shorts,Clothing,68,4.4,No,PayPal,No
+3265,28.0,Female,Pants,Clothing,50,,No,,No
+3266,40.0,Female,Sunglasses,Accessories,100,,No,Credit Card,No
+3267,49.0,,Coat,Outerwear,74,4.2,No,Bank Transfer,No
+3268,37.0,Female,Hoodie,Clothing,45,3.0,No,Debit Card,No
+3269,22.0,Female,Dress,Clothing,97,2.8,No,Cash,No
+3270,27.0,Female,Blouse,Clothing,60,4.9,No,Venmo,No
+3271,59.0,Female,,Clothing,25,4.7,No,Cash,No
+3272,35.0,,Socks,Clothing,55,,No,Debit Card,No
+3273,58.0,,Shoes,Footwear,99,3.1,No,Bank Transfer,No
+3274,58.0,,Belt,Accessories,45,2.6,No,Credit Card,No
+3275,46.0,Female,Sweater,Clothing,20,3.9,No,Credit Card,No
+3276,,Female,Pants,Clothing,88,2.6,No,Venmo,No
+3277,39.0,Female,Scarf,Accessories,99,,No,Credit Card,No
+3278,59.0,Female,,Clothing,86,4.9,No,,No
+3279,59.0,Female,,Clothing,70,3.3,No,Debit Card,No
+3280,59.0,,Hat,Accessories,50,3.0,No,,No
+3281,45.0,,Handbag,Accessories,57,2.7,No,Credit Card,No
+3282,27.0,Female,,Clothing,69,,No,Debit Card,No
+3283,24.0,Female,T-shirt,Clothing,94,4.8,No,Bank Transfer,No
+3284,47.0,Female,Jacket,Outerwear,24,2.9,No,Credit Card,No
+3285,70.0,Female,Scarf,Accessories,79,4.5,No,Debit Card,No
+3286,58.0,Female,Hat,Accessories,31,4.6,No,PayPal,No
+3287,45.0,Female,Jacket,Outerwear,67,,No,Venmo,No
+3288,24.0,Female,Skirt,Clothing,63,4.3,No,PayPal,No
+3289,67.0,Female,Handbag,Accessories,61,4.9,No,,No
+3290,31.0,Female,Backpack,Accessories,50,4.0,No,Venmo,No
+3291,,Female,Coat,Outerwear,82,3.1,No,Bank Transfer,No
+3292,29.0,Female,Belt,Accessories,51,2.6,No,Bank Transfer,No
+3293,62.0,,Handbag,Accessories,23,4.9,No,,No
+3294,19.0,Female,,Outerwear,91,3.5,No,Bank Transfer,No
+3295,62.0,Female,Sweater,Clothing,60,4.5,No,PayPal,No
+3296,70.0,Female,Blouse,Clothing,34,,No,,No
+3297,20.0,Female,Blouse,Clothing,23,4.2,No,,No
+3298,67.0,Female,Belt,Accessories,82,4.1,No,,No
+3299,65.0,Female,Jacket,Outerwear,73,3.5,No,PayPal,No
+3300,45.0,Female,Shorts,Clothing,32,4.0,No,,No
+3301,,Female,Hat,Accessories,80,4.0,No,Debit Card,No
+3302,,Female,Pants,Clothing,58,,No,PayPal,No
+3303,36.0,,Blouse,Clothing,82,,No,,No
+3304,20.0,Female,Belt,Accessories,60,3.4,No,PayPal,No
+3305,30.0,Female,Handbag,Accessories,79,4.8,No,Debit Card,No
+3306,34.0,Female,Hoodie,Clothing,41,4.9,No,Bank Transfer,No
+3307,63.0,Female,Jacket,Outerwear,39,,No,Cash,No
+3308,18.0,Female,Scarf,Accessories,36,,No,Credit Card,No
+3309,55.0,Female,Jeans,Clothing,70,2.6,No,,No
+3310,48.0,Female,Handbag,Accessories,47,3.1,No,Credit Card,No
+3311,,Female,Jacket,Outerwear,27,3.6,No,,No
+3312,29.0,Female,Hat,Accessories,52,4.0,No,PayPal,No
+3313,55.0,Female,Sneakers,Footwear,75,3.9,No,Venmo,No
+3314,55.0,Female,Hat,Accessories,30,3.9,No,Cash,No
+3315,55.0,Female,Socks,Clothing,94,3.3,No,PayPal,No
+3316,48.0,Female,Scarf,Accessories,68,,No,Credit Card,No
+3317,,Female,Socks,Clothing,45,3.1,No,Cash,No
+3318,21.0,,Hat,Accessories,67,4.7,No,,No
+3319,45.0,Female,Jacket,Outerwear,46,3.9,No,Venmo,No
+3320,23.0,Female,Shorts,Clothing,31,,No,Cash,No
+3321,66.0,Female,Blouse,Clothing,44,4.2,No,Cash,No
+3322,32.0,Female,Coat,Outerwear,100,4.3,No,Bank Transfer,No
+3323,52.0,Female,,Clothing,92,4.6,No,Credit Card,No
+3324,54.0,Female,Handbag,Accessories,78,3.8,No,Venmo,No
+3325,37.0,Female,T-shirt,Clothing,32,,No,Venmo,No
+3326,29.0,,Sandals,Footwear,97,3.7,No,Debit Card,No
+3327,47.0,,Gloves,Accessories,95,4.3,No,Cash,No
+3328,47.0,Female,Shorts,Clothing,64,,No,Bank Transfer,No
+3329,42.0,Female,Sandals,Footwear,35,3.2,No,,No
+3330,,,Backpack,Accessories,54,3.8,No,Debit Card,No
+3331,38.0,Female,Sneakers,Footwear,96,3.2,No,PayPal,No
+3332,55.0,Female,Sunglasses,Accessories,58,3.5,No,,No
+3333,27.0,Female,T-shirt,Clothing,23,,No,,No
+3334,55.0,Female,,Clothing,35,4.2,No,Debit Card,No
+3335,66.0,,Shirt,Clothing,23,3.4,No,Bank Transfer,No
+3336,44.0,Female,Hat,Accessories,94,3.5,No,Credit Card,No
+3337,,Female,Blouse,Clothing,45,,No,Venmo,No
+3338,23.0,Female,Jacket,Outerwear,23,,No,,No
+3339,29.0,Female,Skirt,Clothing,94,2.9,No,Venmo,No
+3340,20.0,Female,Gloves,Accessories,99,3.6,No,Debit Card,No
+3341,42.0,,T-shirt,Clothing,36,,No,Credit Card,No
+3342,,Female,,Outerwear,50,4.5,No,Venmo,No
+3343,,Female,Jacket,Outerwear,81,,No,Credit Card,No
+3344,24.0,Female,Shorts,Clothing,31,3.6,No,,No
+3345,62.0,Female,Hat,Accessories,48,4.3,No,Debit Card,No
+3346,28.0,Female,Handbag,Accessories,91,,No,Cash,No
+3347,30.0,Female,Jeans,Clothing,99,,No,PayPal,No
+3348,22.0,Female,,Footwear,70,4.4,No,,No
+3349,28.0,,T-shirt,Clothing,74,2.8,No,PayPal,No
+3350,,,Jewelry,Accessories,79,2.8,No,Cash,No
+3351,45.0,Female,,Accessories,33,4.9,No,PayPal,No
+3352,43.0,Female,,Clothing,49,,No,Cash,No
+3353,55.0,Female,Belt,Accessories,96,2.9,No,Credit Card,No
+3354,31.0,Female,Dress,Clothing,66,,No,Debit Card,No
+3355,42.0,,Skirt,Clothing,45,2.8,No,Cash,No
+3356,40.0,Female,Blouse,Clothing,28,2.6,No,Debit Card,No
+3357,39.0,Female,Jeans,Clothing,48,3.5,No,Credit Card,No
+3358,41.0,Female,Hoodie,Clothing,67,,No,Venmo,No
+3359,56.0,Female,,Clothing,59,3.4,No,Debit Card,No
+3360,43.0,Female,Sunglasses,Accessories,74,,No,,No
+3361,22.0,Female,Jacket,Outerwear,81,3.3,No,Venmo,No
+3362,47.0,Female,,Footwear,26,,No,Credit Card,No
+3363,50.0,,Handbag,Accessories,61,,No,Credit Card,No
+3364,58.0,,Sweater,Clothing,23,,No,,No
+3365,50.0,Female,,Accessories,33,3.2,No,Cash,No
+3366,43.0,Female,Skirt,Clothing,58,3.9,No,Bank Transfer,No
+3367,38.0,Female,Gloves,Accessories,65,3.6,No,Venmo,No
+3368,44.0,Female,T-shirt,Clothing,48,,No,Credit Card,No
+3369,30.0,Female,Sandals,Footwear,25,4.8,No,,No
+3370,47.0,Female,Sweater,Clothing,51,3.8,No,Debit Card,No
+3371,30.0,Female,Belt,Accessories,31,2.8,No,,No
+3372,49.0,,,Clothing,99,4.0,No,,No
+3373,,Female,Socks,Clothing,25,,No,Credit Card,No
+3374,70.0,Female,Sandals,Footwear,52,3.5,No,Debit Card,No
+3375,22.0,Female,Blouse,Clothing,47,,No,Debit Card,No
+3376,51.0,Female,Boots,Footwear,98,4.9,No,,No
+3377,22.0,Female,Hat,Accessories,46,4.1,No,,No
+3378,37.0,Female,Shirt,Clothing,32,,No,Bank Transfer,No
+3379,49.0,Female,Shorts,Clothing,75,4.5,No,,No
+3380,61.0,,Handbag,Accessories,51,5.0,No,Debit Card,No
+3381,41.0,,Dress,Clothing,52,3.8,No,PayPal,No
+3382,57.0,Female,,Accessories,66,,No,,No
+3383,34.0,Female,Sweater,Clothing,35,2.8,No,,No
+3384,27.0,Female,Coat,Outerwear,43,2.6,No,Credit Card,No
+3385,39.0,Female,Hoodie,Clothing,24,3.8,No,,No
+3386,62.0,,Jewelry,Accessories,83,2.8,No,PayPal,No
+3387,,Female,T-shirt,Clothing,62,2.6,No,Debit Card,No
+3388,53.0,Female,Pants,Clothing,78,3.4,No,,No
+3389,35.0,Female,,Clothing,61,4.5,No,Venmo,No
+3390,38.0,Female,Pants,Clothing,57,3.8,No,Credit Card,No
+3391,32.0,Female,Socks,Clothing,70,3.0,No,Credit Card,No
+3392,47.0,Female,Hoodie,Clothing,57,,No,Cash,No
+3393,53.0,Female,Scarf,Accessories,74,,No,Credit Card,No
+3394,,Female,Dress,Clothing,90,3.1,No,PayPal,No
+3395,31.0,,Sandals,Footwear,98,,No,Cash,No
+3396,44.0,Female,Dress,Clothing,43,,No,Debit Card,No
+3397,29.0,Female,,Clothing,37,,No,PayPal,No
+3398,19.0,Female,Blouse,Clothing,38,2.7,No,Bank Transfer,No
+3399,54.0,Female,Jeans,Clothing,60,3.8,No,Cash,No
+3400,40.0,Female,Pants,Clothing,55,3.3,No,Debit Card,No
+3401,39.0,Female,,Accessories,51,,No,,No
+3402,,,Backpack,Accessories,71,3.4,No,,No
+3403,22.0,,,Clothing,61,4.4,No,,No
+3404,30.0,Female,Boots,Footwear,65,,No,Credit Card,No
+3405,69.0,Female,Gloves,Accessories,34,3.9,No,Cash,No
+3406,28.0,Female,Blouse,Clothing,87,4.2,No,Venmo,No
+3407,57.0,Female,Sweater,Clothing,79,,No,Venmo,No
+3408,46.0,Female,Dress,Clothing,46,2.6,No,Bank Transfer,No
+3409,48.0,Female,,Clothing,72,4.4,No,PayPal,No
+3410,24.0,Female,,Clothing,93,3.2,No,,No
+3411,50.0,Female,Sandals,Footwear,76,,No,PayPal,No
+3412,29.0,Female,Shoes,Footwear,56,,No,Venmo,No
+3413,61.0,Female,,Footwear,83,,No,Credit Card,No
+3414,34.0,Female,Gloves,Accessories,90,2.5,No,,No
+3415,27.0,Female,Boots,Footwear,94,4.9,No,,No
+3416,38.0,Female,Blouse,Clothing,68,3.0,No,Credit Card,No
+3417,25.0,Female,Sandals,Footwear,53,3.2,No,PayPal,No
+3418,,Female,Coat,Outerwear,35,2.9,No,PayPal,No
+3419,53.0,Female,Jacket,Outerwear,30,,No,,No
+3420,23.0,,Jewelry,Accessories,26,,No,Venmo,No
+3421,19.0,Female,Hat,Accessories,60,,No,Debit Card,No
+3422,57.0,Female,Shoes,Footwear,30,,No,PayPal,No
+3423,19.0,,Coat,Outerwear,91,3.2,No,,No
+3424,33.0,Female,Boots,Footwear,71,,No,Venmo,No
+3425,33.0,Female,Scarf,Accessories,64,3.6,No,Venmo,No
+3426,38.0,,Hat,Accessories,54,4.3,No,,No
+3427,47.0,Female,,Clothing,35,4.8,No,PayPal,No
+3428,39.0,Female,,Clothing,38,2.5,No,Bank Transfer,No
+3429,32.0,Female,Jewelry,Accessories,69,2.5,No,Debit Card,No
+3430,27.0,Female,Skirt,Clothing,96,,No,Debit Card,No
+3431,67.0,Female,Socks,Clothing,73,4.2,No,Credit Card,No
+3432,46.0,Female,Belt,Accessories,49,,No,Cash,No
+3433,,,Boots,Footwear,44,4.8,No,Credit Card,No
+3434,62.0,Female,Socks,Clothing,93,4.5,No,Cash,No
+3435,31.0,,Pants,Clothing,72,3.3,No,PayPal,No
+3436,68.0,Female,Socks,Clothing,91,2.7,No,,No
+3437,57.0,Female,Belt,Accessories,83,2.8,No,Venmo,No
+3438,22.0,Female,Jacket,Outerwear,62,,No,Venmo,No
+3439,,Female,Shirt,Clothing,71,3.0,No,Debit Card,No
+3440,43.0,Female,Gloves,Accessories,93,4.5,No,,No
+3441,45.0,Female,Handbag,Accessories,63,4.3,No,,No
+3442,64.0,Female,,Clothing,96,4.1,No,Debit Card,No
+3443,28.0,,Skirt,Clothing,78,4.3,No,Venmo,No
+3444,47.0,Female,Dress,Clothing,24,,No,PayPal,No
+3445,53.0,,Pants,Clothing,63,3.8,No,,No
+3446,42.0,Female,,Accessories,58,,No,Venmo,No
+3447,,Female,,Footwear,55,5.0,No,,No
+3448,62.0,Female,Sandals,Footwear,58,4.3,No,Debit Card,No
+3449,18.0,Female,Coat,Outerwear,28,4.1,No,PayPal,No
+3450,,Female,Blouse,Clothing,37,,No,PayPal,No
+3451,20.0,Female,Shorts,Clothing,78,,No,PayPal,No
+3452,32.0,Female,Blouse,Clothing,73,,No,Bank Transfer,No
+3453,26.0,Female,Jacket,Outerwear,20,3.7,No,Credit Card,No
+3454,31.0,Female,Shirt,Clothing,60,4.3,No,Venmo,No
+3455,55.0,Female,Handbag,Accessories,71,,No,Cash,No
+3456,49.0,Female,,Clothing,89,,No,Bank Transfer,No
+3457,42.0,Female,,Clothing,53,,No,Bank Transfer,No
+3458,64.0,,Jewelry,Accessories,87,3.0,No,Bank Transfer,No
+3459,68.0,Female,Jewelry,Accessories,37,,No,PayPal,No
+3460,68.0,Female,Hoodie,Clothing,37,,No,Venmo,No
+3461,41.0,Female,Scarf,Accessories,78,3.1,No,Credit Card,No
+3462,,Female,Shoes,Footwear,23,4.4,No,,No
+3463,44.0,Female,Jeans,Clothing,73,4.5,No,Bank Transfer,No
+3464,27.0,Female,Jewelry,Accessories,27,,No,,No
+3465,36.0,Female,Coat,Outerwear,59,2.7,No,Debit Card,No
+3466,19.0,Female,Backpack,Accessories,53,,No,Bank Transfer,No
+3467,49.0,Female,Socks,Clothing,42,,No,Debit Card,No
+3468,18.0,Female,Scarf,Accessories,45,5.0,No,,No
+3469,36.0,Female,Sunglasses,Accessories,89,3.5,No,Credit Card,No
+3470,36.0,Female,Socks,Clothing,85,3.3,No,Bank Transfer,No
+3471,19.0,,Coat,Outerwear,69,4.5,No,Cash,No
+3472,43.0,Female,Sandals,Footwear,66,,No,Cash,No
+3473,31.0,Female,Blouse,Clothing,42,4.0,No,Bank Transfer,No
+3474,63.0,,Dress,Clothing,40,2.5,No,Credit Card,No
+3475,41.0,Female,Pants,Clothing,82,4.4,No,PayPal,No
+3476,48.0,Female,Sneakers,Footwear,88,4.4,No,Debit Card,No
+3477,68.0,,Boots,Footwear,99,3.2,No,Credit Card,No
+3478,53.0,Female,,Accessories,85,3.8,No,PayPal,No
+3479,36.0,Female,Handbag,Accessories,57,4.6,No,,No
+3480,46.0,,Sweater,Clothing,56,4.9,No,PayPal,No
+3481,21.0,Female,Sandals,Footwear,79,3.5,No,Cash,No
+3482,52.0,Female,Socks,Clothing,67,3.4,No,Credit Card,No
+3483,66.0,Female,Gloves,Accessories,61,3.9,No,Venmo,No
+3484,19.0,Female,Hoodie,Clothing,37,,No,Venmo,No
+3485,44.0,Female,Dress,Clothing,75,,No,Debit Card,No
+3486,50.0,,Shirt,Clothing,21,3.4,No,Debit Card,No
+3487,51.0,Female,Shorts,Clothing,89,4.9,No,,No
+3488,25.0,,Sandals,Footwear,24,2.9,No,,No
+3489,62.0,Female,Sweater,Clothing,27,,No,,No
+3490,48.0,,Dress,Clothing,26,,No,Bank Transfer,No
+3491,62.0,Female,Boots,Footwear,82,3.6,No,Venmo,No
+3492,22.0,Female,Pants,Clothing,28,4.3,No,,No
+3493,48.0,Female,Gloves,Accessories,65,,No,PayPal,No
+3494,48.0,Female,Pants,Clothing,82,,No,,No
+3495,62.0,Female,Scarf,Accessories,38,3.5,No,Credit Card,No
+3496,24.0,Female,Shorts,Clothing,33,2.8,No,Debit Card,No
+3497,39.0,Female,Shoes,Footwear,38,4.0,No,,No
+3498,35.0,,Handbag,Accessories,48,4.3,No,,No
+3499,47.0,Female,Sandals,Footwear,35,,No,PayPal,No
+3500,22.0,Female,,Clothing,29,3.0,No,Bank Transfer,No
+3501,38.0,,Shirt,Clothing,48,4.6,No,Credit Card,No
+3502,53.0,Female,Shoes,Footwear,87,,No,Bank Transfer,No
+3503,31.0,Female,Backpack,Accessories,62,,No,,No
+3504,31.0,Female,Shirt,Clothing,96,3.9,No,Cash,No
+3505,,Female,Handbag,Accessories,41,,No,,No
+3506,48.0,Female,Jewelry,Accessories,42,,No,Cash,No
+3507,18.0,Female,Shirt,Clothing,57,3.7,No,Venmo,No
+3508,,Female,Handbag,Accessories,65,4.2,No,,No
+3509,52.0,Female,,Clothing,54,4.7,No,Venmo,No
+3510,50.0,Female,,Clothing,22,4.3,No,Cash,No
+3511,49.0,Female,Sneakers,Footwear,96,4.9,No,Credit Card,No
+3512,69.0,Female,Jewelry,Accessories,81,3.9,No,Venmo,No
+3513,36.0,Female,Shirt,Clothing,46,,No,Bank Transfer,No
+3514,30.0,Female,Blouse,Clothing,74,4.2,No,Bank Transfer,No
+3515,25.0,Female,,Footwear,50,4.7,No,,No
+3516,19.0,Female,Dress,Clothing,80,4.0,No,PayPal,No
+3517,34.0,Female,Boots,Footwear,56,4.0,No,Venmo,No
+3518,,Female,Skirt,Clothing,69,,No,,No
+3519,50.0,Female,Shirt,Clothing,97,4.2,No,Bank Transfer,No
+3520,31.0,Female,Shorts,Clothing,66,3.7,No,Credit Card,No
+3521,41.0,,Hat,Accessories,70,3.1,No,PayPal,No
+3522,52.0,Female,Shoes,Footwear,50,3.7,No,Credit Card,No
+3523,27.0,Female,Pants,Clothing,85,,No,Bank Transfer,No
+3524,49.0,Female,Backpack,Accessories,59,2.8,No,,No
+3525,69.0,Female,,Clothing,74,2.9,No,Credit Card,No
+3526,,Female,Sunglasses,Accessories,38,3.5,No,PayPal,No
+3527,20.0,Female,Sweater,Clothing,99,3.8,No,PayPal,No
+3528,25.0,Female,Blouse,Clothing,97,4.7,No,Cash,No
+3529,38.0,Female,Scarf,Accessories,67,4.5,No,Cash,No
+3530,55.0,Female,T-shirt,Clothing,20,3.9,No,Credit Card,No
+3531,62.0,,Sunglasses,Accessories,45,3.4,No,Bank Transfer,No
+3532,54.0,Female,Shoes,Footwear,52,4.6,No,Credit Card,No
+3533,61.0,,Pants,Clothing,68,,No,,No
+3534,50.0,,Sneakers,Footwear,98,,No,Venmo,No
+3535,65.0,Female,Shoes,Footwear,83,3.2,No,Venmo,No
+3536,68.0,Female,Shorts,Clothing,51,,No,Bank Transfer,No
+3537,55.0,Female,Handbag,Accessories,21,4.5,No,Venmo,No
+3538,57.0,Female,Handbag,Accessories,92,,No,Venmo,No
+3539,56.0,Female,,Footwear,63,4.5,No,Venmo,No
+3540,29.0,,Jewelry,Accessories,56,,No,,No
+3541,24.0,Female,Shorts,Clothing,95,4.6,No,Bank Transfer,No
+3542,59.0,Female,Blouse,Clothing,66,4.0,No,Cash,No
+3543,62.0,Female,Coat,Outerwear,28,4.2,No,,No
+3544,58.0,Female,Hat,Accessories,83,4.1,No,Credit Card,No
+3545,64.0,Female,Socks,Clothing,55,3.6,No,,No
+3546,48.0,Female,Sandals,Footwear,28,,No,Venmo,No
+3547,60.0,Female,Scarf,Accessories,79,,No,Bank Transfer,No
+3548,52.0,Female,Scarf,Accessories,31,3.8,No,Debit Card,No
+3549,63.0,Female,,Clothing,37,3.0,No,Venmo,No
+3550,44.0,Female,,Clothing,34,3.4,No,Credit Card,No
+3551,63.0,Female,Shoes,Footwear,74,4.8,No,Venmo,No
+3552,66.0,Female,Gloves,Accessories,31,,No,Credit Card,No
+3553,22.0,Female,Sunglasses,Accessories,66,2.9,No,,No
+3554,62.0,Female,Shoes,Footwear,99,,No,Cash,No
+3555,39.0,Female,Dress,Clothing,55,,No,,No
+3556,25.0,,,Clothing,23,4.6,No,PayPal,No
+3557,70.0,Female,Sweater,Clothing,88,4.2,No,Bank Transfer,No
+3558,,Female,Jacket,Outerwear,26,4.9,No,,No
+3559,68.0,Female,Backpack,Accessories,94,4.8,No,Credit Card,No
+3560,18.0,Female,Shorts,Clothing,25,3.0,No,Debit Card,No
+3561,18.0,Female,,Clothing,96,3.5,No,Cash,No
+3562,63.0,Female,Sneakers,Footwear,29,3.4,No,Cash,No
+3563,47.0,Female,,Footwear,36,3.4,No,PayPal,No
+3564,43.0,Female,Blouse,Clothing,90,,No,Credit Card,No
+3565,60.0,Female,Gloves,Accessories,38,4.4,No,PayPal,No
+3566,49.0,,,Accessories,52,4.2,No,Cash,No
+3567,,Female,Jeans,Clothing,88,3.1,No,,No
+3568,32.0,Female,Scarf,Accessories,56,4.0,No,Venmo,No
+3569,29.0,Female,Sandals,Footwear,71,4.8,No,Cash,No
+3570,35.0,Female,Sandals,Footwear,94,3.3,No,Credit Card,No
+3571,23.0,Female,Dress,Clothing,97,4.7,No,PayPal,No
+3572,70.0,,,Clothing,27,,No,Cash,No
+3573,23.0,Female,Shorts,Clothing,28,5.0,No,Bank Transfer,No
+3574,,Female,Jeans,Clothing,67,,No,,No
+3575,29.0,Female,Socks,Clothing,70,4.9,No,,No
+3576,61.0,Female,Coat,Outerwear,95,,No,,No
+3577,,Female,Boots,Footwear,24,,No,Cash,No
+3578,66.0,Female,Belt,Accessories,35,2.6,No,PayPal,No
+3579,46.0,,Shoes,Footwear,22,2.6,No,Credit Card,No
+3580,34.0,Female,Scarf,Accessories,66,4.8,No,,No
+3581,51.0,,,Clothing,83,3.2,No,Bank Transfer,No
+3582,26.0,,Dress,Clothing,95,4.9,No,,No
+3583,23.0,Female,Shorts,Clothing,41,3.4,No,Cash,No
+3584,52.0,Female,Blouse,Clothing,77,,No,,No
+3585,39.0,,Sneakers,Footwear,52,4.8,No,Debit Card,No
+3586,39.0,,Gloves,Accessories,41,,No,,No
+3587,,Female,Hoodie,Clothing,28,4.6,No,PayPal,No
+3588,33.0,Female,Sweater,Clothing,90,4.4,No,Debit Card,No
+3589,23.0,Female,Sunglasses,Accessories,55,,No,Bank Transfer,No
+3590,31.0,Female,Belt,Accessories,73,4.8,No,Cash,No
+3591,27.0,Female,,Clothing,87,,No,,No
+3592,48.0,Female,Jacket,Outerwear,89,,No,Cash,No
+3593,61.0,Female,Boots,Footwear,82,,No,,No
+3594,63.0,,Sandals,Footwear,80,,No,Bank Transfer,No
+3595,19.0,Female,Scarf,Accessories,87,2.6,No,PayPal,No
+3596,21.0,,Blouse,Clothing,41,3.1,No,Cash,No
+3597,28.0,Female,Hoodie,Clothing,83,,No,Bank Transfer,No
+3598,29.0,Female,Sunglasses,Accessories,71,3.1,No,Cash,No
+3599,23.0,Female,,Clothing,76,4.6,No,Bank Transfer,No
+3600,37.0,Female,,Accessories,34,4.6,No,,No
+3601,,Female,Dress,Clothing,81,2.7,No,PayPal,No
+3602,34.0,Female,,Clothing,47,,No,,No
+3603,,Female,Skirt,Clothing,36,3.3,No,Bank Transfer,No
+3604,45.0,Female,Jeans,Clothing,51,,No,,No
+3605,63.0,Female,Hoodie,Clothing,86,3.3,No,,No
+3606,68.0,Female,,Clothing,41,,No,Venmo,No
+3607,41.0,Female,Sandals,Footwear,90,4.8,No,Cash,No
+3608,50.0,Female,Hat,Accessories,93,3.3,No,Debit Card,No
+3609,24.0,Female,Gloves,Accessories,56,,No,Bank Transfer,No
+3610,21.0,,,Clothing,39,3.0,No,Debit Card,No
+3611,18.0,Female,Jacket,Outerwear,86,4.8,No,Credit Card,No
+3612,63.0,Female,T-shirt,Clothing,82,,No,PayPal,No
+3613,47.0,Female,Sandals,Footwear,29,,No,,No
+3614,58.0,Female,,Accessories,27,3.5,No,Cash,No
+3615,46.0,,Gloves,Accessories,25,,No,Bank Transfer,No
+3616,35.0,Female,Dress,Clothing,31,4.4,No,Bank Transfer,No
+3617,42.0,,Hoodie,Clothing,23,3.3,No,Cash,No
+3618,48.0,Female,Belt,Accessories,47,4.3,No,Debit Card,No
+3619,,Female,,Accessories,67,4.0,No,Venmo,No
+3620,44.0,Female,,Accessories,75,4.9,No,Cash,No
+3621,60.0,Female,Sandals,Footwear,82,2.9,No,,No
+3622,,Female,Sneakers,Footwear,32,4.0,No,Venmo,No
+3623,46.0,Female,Dress,Clothing,41,4.3,No,Bank Transfer,No
+3624,,Female,Jewelry,Accessories,89,,No,Venmo,No
+3625,22.0,Female,Hat,Accessories,82,,No,PayPal,No
+3626,44.0,Female,Scarf,Accessories,99,4.4,No,Debit Card,No
+3627,69.0,Female,Blouse,Clothing,98,,No,Bank Transfer,No
+3628,39.0,Female,,Accessories,54,,No,Credit Card,No
+3629,53.0,Female,Blouse,Clothing,88,3.8,No,,No
+3630,52.0,Female,,Clothing,43,4.5,No,,No
+3631,65.0,,Hat,Accessories,73,4.8,No,Credit Card,No
+3632,48.0,Female,Hat,Accessories,50,2.9,No,Debit Card,No
+3633,27.0,Female,Sneakers,Footwear,73,3.2,No,PayPal,No
+3634,39.0,,Gloves,Accessories,51,,No,,No
+3635,59.0,Female,Socks,Clothing,22,,No,Bank Transfer,No
+3636,52.0,Female,Sandals,Footwear,32,3.3,No,Cash,No
+3637,50.0,Female,Sandals,Footwear,38,4.2,No,PayPal,No
+3638,32.0,Female,Boots,Footwear,66,3.6,No,PayPal,No
+3639,,Female,Backpack,Accessories,20,,No,Credit Card,No
+3640,26.0,Female,Coat,Outerwear,44,3.6,No,Venmo,No
+3641,,Female,Sunglasses,Accessories,31,4.0,No,Credit Card,No
+3642,,,Jacket,Outerwear,45,2.7,No,Debit Card,No
+3643,47.0,Female,Dress,Clothing,71,4.4,No,Credit Card,No
+3644,53.0,Female,Scarf,Accessories,96,,No,Bank Transfer,No
+3645,35.0,Female,Blouse,Clothing,32,,No,Cash,No
+3646,38.0,Female,Backpack,Accessories,90,3.4,No,Credit Card,No
+3647,69.0,Female,Jewelry,Accessories,68,,No,,No
+3648,,Female,Shorts,Clothing,45,2.9,No,Cash,No
+3649,31.0,Female,Skirt,Clothing,67,5.0,No,Cash,No
+3650,68.0,Female,Skirt,Clothing,57,4.4,No,Debit Card,No
+3651,51.0,Female,Jeans,Clothing,60,,No,Cash,No
+3652,20.0,Female,Handbag,Accessories,32,,No,Bank Transfer,No
+3653,27.0,Female,Handbag,Accessories,29,3.8,No,Venmo,No
+3654,67.0,Female,Coat,Outerwear,20,,No,,No
+3655,21.0,Female,Jewelry,Accessories,98,,No,Debit Card,No
+3656,20.0,,Sweater,Clothing,27,,No,Venmo,No
+3657,35.0,Female,Jacket,Outerwear,67,3.7,No,,No
+3658,58.0,Female,,Footwear,82,3.7,No,,No
+3659,28.0,Female,T-shirt,Clothing,72,,No,Cash,No
+3660,27.0,Female,,Footwear,77,,No,Bank Transfer,No
+3661,19.0,Female,Shoes,Footwear,74,,No,,No
+3662,63.0,,Sandals,Footwear,39,3.5,No,Cash,No
+3663,69.0,Female,Shorts,Clothing,80,4.9,No,Venmo,No
+3664,65.0,Female,Backpack,Accessories,59,4.4,No,Cash,No
+3665,63.0,Female,Jacket,Outerwear,68,4.4,No,,No
+3666,28.0,Female,,Clothing,77,3.4,No,,No
+3667,67.0,Female,Jewelry,Accessories,50,3.0,No,Credit Card,No
+3668,51.0,Female,Pants,Clothing,45,2.6,No,Credit Card,No
+3669,59.0,Female,Blouse,Clothing,71,3.2,No,,No
+3670,25.0,Female,Socks,Clothing,52,,No,Credit Card,No
+3671,,Female,Shoes,Footwear,50,3.8,No,Cash,No
+3672,62.0,,Handbag,Accessories,66,,No,Bank Transfer,No
+3673,51.0,Female,Sandals,Footwear,81,4.5,No,Venmo,No
+3674,32.0,Female,Socks,Clothing,28,4.2,No,,No
+3675,35.0,Female,Handbag,Accessories,65,,No,Venmo,No
+3676,70.0,Female,Hat,Accessories,80,4.5,No,Cash,No
+3677,19.0,Female,Jewelry,Accessories,94,4.9,No,PayPal,No
+3678,32.0,Female,Backpack,Accessories,30,2.8,No,,No
+3679,56.0,,Shirt,Clothing,45,,No,,No
+3680,53.0,,Coat,Outerwear,91,2.5,No,PayPal,No
+3681,22.0,Female,Sunglasses,Accessories,36,2.9,No,,No
+3682,26.0,Female,Gloves,Accessories,73,4.2,No,PayPal,No
+3683,42.0,Female,,Clothing,60,4.6,No,Venmo,No
+3684,,Female,Socks,Clothing,77,3.0,No,Bank Transfer,No
+3685,29.0,,Skirt,Clothing,86,4.4,No,PayPal,No
+3686,47.0,Female,Shorts,Clothing,42,2.6,No,PayPal,No
+3687,59.0,Female,Sandals,Footwear,70,,No,PayPal,No
+3688,34.0,,Shirt,Clothing,44,2.9,No,PayPal,No
+3689,52.0,Female,Sunglasses,Accessories,91,3.0,No,Venmo,No
+3690,,Female,Jewelry,Accessories,30,4.5,No,Cash,No
+3691,24.0,Female,Blouse,Clothing,23,3.7,No,Venmo,No
+3692,63.0,Female,Sandals,Footwear,21,4.8,No,Credit Card,No
+3693,59.0,Female,Coat,Outerwear,34,4.8,No,Venmo,No
+3694,66.0,Female,Blouse,Clothing,46,,No,Debit Card,No
+3695,45.0,Female,Sweater,Clothing,41,2.6,No,Venmo,No
+3696,38.0,Female,,Clothing,33,4.6,No,Bank Transfer,No
+3697,63.0,Female,Blouse,Clothing,48,3.4,No,Venmo,No
+3698,,Female,Hoodie,Clothing,66,3.0,No,,No
+3699,25.0,,,Clothing,54,,No,Credit Card,No
+3700,51.0,,,Accessories,55,,No,Cash,No
+3701,,Female,Handbag,Accessories,84,3.4,No,Credit Card,No
+3702,,,Sandals,Footwear,66,4.5,No,,No
+3703,58.0,Female,,Footwear,65,2.7,No,,No
+3704,30.0,Female,,Footwear,83,2.9,No,Bank Transfer,No
+3705,68.0,Female,Sunglasses,Accessories,61,,No,,No
+3706,28.0,,Skirt,Clothing,65,,No,,No
+3707,26.0,Female,,Footwear,55,4.0,No,Credit Card,No
+3708,35.0,,Gloves,Accessories,79,3.4,No,Bank Transfer,No
+3709,40.0,Female,Hoodie,Clothing,96,4.9,No,Bank Transfer,No
+3710,31.0,Female,,Clothing,43,3.6,No,Debit Card,No
+3711,60.0,Female,Jewelry,Accessories,40,,No,PayPal,No
+3712,69.0,Female,Hat,Accessories,62,3.2,No,Cash,No
+3713,51.0,Female,Blouse,Clothing,72,,No,Venmo,No
+3714,49.0,Female,Shoes,Footwear,87,2.6,No,Cash,No
+3715,18.0,Female,,Accessories,31,,No,Cash,No
+3716,63.0,Female,Sunglasses,Accessories,34,3.4,No,,No
+3717,57.0,Female,Shirt,Clothing,53,,No,,No
+3718,45.0,Female,T-shirt,Clothing,85,4.2,No,Venmo,No
+3719,36.0,Female,,Clothing,50,2.9,No,Credit Card,No
+3720,20.0,Female,Pants,Clothing,91,4.1,No,,No
+3721,21.0,Female,Hat,Accessories,56,,No,Debit Card,No
+3722,62.0,,Coat,Outerwear,60,4.0,No,Credit Card,No
+3723,23.0,Female,Jacket,Outerwear,34,4.0,No,,No
+3724,26.0,Female,Sandals,Footwear,30,3.6,No,Venmo,No
+3725,30.0,Female,Gloves,Accessories,71,3.1,No,PayPal,No
+3726,18.0,Female,Dress,Clothing,100,4.4,No,,No
+3727,47.0,Female,Belt,Accessories,85,4.3,No,,No
+3728,41.0,,Socks,Clothing,83,3.5,No,Credit Card,No
+3729,62.0,,Jacket,Outerwear,31,3.0,No,Credit Card,No
+3730,28.0,,Boots,Footwear,82,,No,,No
+3731,46.0,Female,,Clothing,79,,No,Bank Transfer,No
+3732,54.0,Female,Hat,Accessories,62,3.1,No,Credit Card,No
+3733,36.0,,Shoes,Footwear,92,3.3,No,PayPal,No
+3734,25.0,,Socks,Clothing,58,4.7,No,Bank Transfer,No
+3735,38.0,Female,Hoodie,Clothing,88,3.4,No,Venmo,No
+3736,38.0,Female,Sandals,Footwear,44,3.1,No,Cash,No
+3737,42.0,,Jeans,Clothing,56,,No,Cash,No
+3738,19.0,Female,Jewelry,Accessories,23,4.9,No,Debit Card,No
+3739,34.0,Female,Shorts,Clothing,45,,No,Credit Card,No
+3740,38.0,Female,Sunglasses,Accessories,31,4.2,No,Bank Transfer,No
+3741,42.0,Female,Pants,Clothing,96,2.6,No,Cash,No
+3742,58.0,Female,Shirt,Clothing,96,3.2,No,Venmo,No
+3743,56.0,Female,Shirt,Clothing,80,4.4,No,Debit Card,No
+3744,62.0,Female,Pants,Clothing,28,3.6,No,Credit Card,No
+3745,24.0,Female,,Clothing,51,2.7,No,Venmo,No
+3746,60.0,Female,Socks,Clothing,41,,No,Bank Transfer,No
+3747,53.0,Female,Coat,Outerwear,99,,No,Debit Card,No
+3748,26.0,Female,Sweater,Clothing,53,4.3,No,Credit Card,No
+3749,34.0,,Backpack,Accessories,25,3.9,No,PayPal,No
+3750,24.0,Female,Blouse,Clothing,95,2.9,No,,No
+3751,,Female,Hoodie,Clothing,88,3.1,No,,No
+3752,36.0,Female,Jewelry,Accessories,97,,No,,No
+3753,24.0,,Coat,Outerwear,81,4.1,No,Debit Card,No
+3754,39.0,Female,,Accessories,26,4.2,No,,No
+3755,46.0,Female,Shoes,Footwear,41,,No,PayPal,No
+3756,64.0,Female,Skirt,Clothing,93,3.4,No,Bank Transfer,No
+3757,64.0,,Skirt,Clothing,69,4.8,No,Credit Card,No
+3758,61.0,Female,Skirt,Clothing,44,4.5,No,Debit Card,No
+3759,61.0,Female,Sandals,Footwear,54,,No,Cash,No
+3760,44.0,,Sneakers,Footwear,61,,No,Credit Card,No
+3761,65.0,Female,Socks,Clothing,80,3.1,No,PayPal,No
+3762,60.0,Female,,Accessories,30,,No,Venmo,No
+3763,65.0,Female,Shorts,Clothing,94,2.9,No,Venmo,No
+3764,27.0,,,Clothing,24,4.5,No,PayPal,No
+3765,36.0,Female,Socks,Clothing,21,3.5,No,PayPal,No
+3766,22.0,Female,Jewelry,Accessories,52,,No,Cash,No
+3767,62.0,Female,Handbag,Accessories,59,4.9,No,,No
+3768,59.0,Female,,Clothing,51,3.1,No,,No
+3769,50.0,Female,Sweater,Clothing,35,,No,PayPal,No
+3770,,,Gloves,Accessories,87,,No,Cash,No
+3771,,Female,Pants,Clothing,42,4.0,No,Credit Card,No
+3772,21.0,Female,T-shirt,Clothing,86,2.6,No,,No
+3773,44.0,Female,Pants,Clothing,26,,No,,No
+3774,25.0,Female,Sweater,Clothing,60,,No,Bank Transfer,No
+3775,57.0,,Gloves,Accessories,83,3.9,No,,No
+3776,41.0,Female,Belt,Accessories,63,,No,,No
+3777,19.0,,Sneakers,Footwear,25,4.1,No,,No
+3778,,Female,Shorts,Clothing,65,,No,,No
+3779,,,Sneakers,Footwear,60,2.9,No,PayPal,No
+3780,60.0,Female,Jeans,Clothing,75,,No,,No
+3781,54.0,Female,Sneakers,Footwear,57,,No,Bank Transfer,No
+3782,52.0,Female,Boots,Footwear,99,3.7,No,Venmo,No
+3783,40.0,Female,Jacket,Outerwear,45,,No,Cash,No
+3784,39.0,Female,Gloves,Accessories,66,3.2,No,Cash,No
+3785,54.0,Female,Socks,Clothing,53,4.5,No,Cash,No
+3786,64.0,Female,,Clothing,94,3.8,No,Debit Card,No
+3787,31.0,Female,Boots,Footwear,47,3.6,No,,No
+3788,37.0,Female,Blouse,Clothing,80,3.6,No,PayPal,No
+3789,43.0,Female,Hat,Accessories,65,3.2,No,Cash,No
+3790,56.0,Female,,Clothing,75,3.8,No,Debit Card,No
+3791,27.0,,Handbag,Accessories,45,,No,Venmo,No
+3792,40.0,Female,Sunglasses,Accessories,51,3.7,No,Credit Card,No
+3793,43.0,Female,Scarf,Accessories,58,2.6,No,Credit Card,No
+3794,62.0,,Sunglasses,Accessories,20,4.0,No,Cash,No
+3795,44.0,Female,Scarf,Accessories,82,3.6,No,Debit Card,No
+3796,45.0,Female,Gloves,Accessories,92,2.5,No,Bank Transfer,No
+3797,40.0,Female,Shorts,Clothing,81,,No,Credit Card,No
+3798,68.0,,Sunglasses,Accessories,44,2.5,No,Venmo,No
+3799,,Female,Jewelry,Accessories,72,3.2,No,Credit Card,No
+3800,60.0,Female,Jacket,Outerwear,26,2.6,No,PayPal,No
+3801,19.0,Female,,Clothing,26,4.8,No,Venmo,No
+3802,26.0,Female,Blouse,Clothing,84,5.0,No,,No
+3803,70.0,Female,Scarf,Accessories,72,3.2,No,Bank Transfer,No
+3804,48.0,Female,Handbag,Accessories,55,3.6,No,,No
+3805,37.0,Female,,Accessories,77,,No,,No
+3806,48.0,Female,Scarf,Accessories,57,3.1,No,Debit Card,No
+3807,,Female,Boots,Footwear,71,3.0,No,Cash,No
+3808,38.0,Female,Blouse,Clothing,39,,No,,No
+3809,33.0,Female,Socks,Clothing,28,4.7,No,Venmo,No
+3810,57.0,,Shoes,Footwear,33,,No,,No
+3811,46.0,Female,Skirt,Clothing,79,3.9,No,,No
+3812,46.0,,Belt,Accessories,30,4.0,No,Venmo,No
+3813,50.0,Female,Skirt,Clothing,75,,No,PayPal,No
+3814,61.0,,,Clothing,89,4.1,No,,No
+3815,45.0,Female,Dress,Clothing,95,4.2,No,Credit Card,No
+3816,32.0,Female,Hat,Accessories,44,4.3,No,Venmo,No
+3817,29.0,Female,Coat,Outerwear,86,,No,,No
+3818,66.0,,Scarf,Accessories,91,2.6,No,,No
+3819,,Female,Sneakers,Footwear,41,3.8,No,Credit Card,No
+3820,36.0,Female,Pants,Clothing,99,2.9,No,PayPal,No
+3821,34.0,Female,Belt,Accessories,65,,No,Credit Card,No
+3822,20.0,Female,Sneakers,Footwear,48,,No,,No
+3823,70.0,Female,Hat,Accessories,41,3.2,No,,No
+3824,50.0,Female,Shirt,Clothing,42,,No,,No
+3825,54.0,Female,Shorts,Clothing,26,,No,,No
+3826,49.0,Female,,Clothing,35,,No,,No
+3827,,Female,Jacket,Outerwear,31,,No,Bank Transfer,No
+3828,,,Jewelry,Accessories,73,4.1,No,Cash,No
+3829,42.0,Female,Blouse,Clothing,82,3.4,No,Venmo,No
+3830,69.0,Female,Pants,Clothing,32,2.9,No,Credit Card,No
+3831,22.0,Female,Hat,Accessories,27,3.0,No,PayPal,No
+3832,36.0,Female,,Accessories,86,,No,Venmo,No
+3833,64.0,Female,Boots,Footwear,38,4.8,No,PayPal,No
+3834,44.0,,Jacket,Outerwear,93,4.6,No,Cash,No
+3835,43.0,Female,Hoodie,Clothing,59,4.1,No,Debit Card,No
+3836,58.0,Female,Sandals,Footwear,58,,No,Credit Card,No
+3837,62.0,Female,Skirt,Clothing,84,2.5,No,Venmo,No
+3838,45.0,,Hoodie,Clothing,100,4.8,No,Debit Card,No
+3839,47.0,Female,Dress,Clothing,25,4.2,No,,No
+3840,66.0,Female,,Footwear,29,3.9,No,PayPal,No
+3841,30.0,Female,Jeans,Clothing,42,,No,Debit Card,No
+3842,68.0,,Jeans,Clothing,57,4.2,No,Cash,No
+3843,35.0,Female,Jacket,Outerwear,84,,No,Cash,No
+3844,64.0,,Hat,Accessories,71,4.0,No,Venmo,No
+3845,30.0,Female,,Clothing,87,5.0,No,Credit Card,No
+3846,58.0,Female,Sweater,Clothing,52,4.9,No,Venmo,No
+3847,57.0,,Blouse,Clothing,58,4.0,No,Credit Card,No
+3848,60.0,Female,,Clothing,34,3.2,No,,No
+3849,22.0,Female,Jewelry,Accessories,60,3.0,No,Bank Transfer,No
+3850,46.0,Female,Hoodie,Clothing,68,,No,Venmo,No
+3851,27.0,Female,Jewelry,Accessories,74,4.4,No,Credit Card,No
+3852,50.0,Female,Scarf,Accessories,83,3.9,No,Credit Card,No
+3853,65.0,Female,Hat,Accessories,79,4.0,No,Credit Card,No
+3854,61.0,,Sunglasses,Accessories,76,4.0,No,Bank Transfer,No
+3855,57.0,Female,T-shirt,Clothing,20,4.2,No,,No
+3856,40.0,Female,Shirt,Clothing,61,4.4,No,Debit Card,No
+3857,39.0,Female,Sandals,Footwear,78,2.5,No,PayPal,No
+3858,42.0,Female,Hat,Accessories,21,3.1,No,Debit Card,No
+3859,30.0,Female,T-shirt,Clothing,77,3.5,No,PayPal,No
+3860,65.0,Female,Shorts,Clothing,88,3.0,No,Credit Card,No
+3861,,,Sunglasses,Accessories,64,4.4,No,,No
+3862,,Female,Jacket,Outerwear,57,,No,Venmo,No
+3863,56.0,Female,Shirt,Clothing,49,2.8,No,PayPal,No
+3864,,Female,Scarf,Accessories,35,3.3,No,Venmo,No
+3865,55.0,Female,T-shirt,Clothing,99,4.9,No,Bank Transfer,No
+3866,25.0,Female,Shorts,Clothing,42,,No,,No
+3867,58.0,Female,,Accessories,32,,No,,No
+3868,46.0,Female,Jacket,Outerwear,21,2.7,No,Cash,No
+3869,18.0,Female,Dress,Clothing,29,3.3,No,PayPal,No
+3870,26.0,Female,Coat,Outerwear,64,3.8,No,,No
+3871,61.0,Female,Sandals,Footwear,46,3.2,No,Bank Transfer,No
+3872,55.0,,T-shirt,Clothing,97,4.1,No,Credit Card,No
+3873,41.0,Female,Jacket,Outerwear,94,4.3,No,Cash,No
+3874,42.0,Female,Sandals,Footwear,43,,No,PayPal,No
+3875,70.0,Female,Sweater,Clothing,54,,No,Cash,No
+3876,63.0,Female,,Accessories,51,,No,Venmo,No
+3877,60.0,Female,,Footwear,85,,No,Bank Transfer,No
+3878,28.0,Female,Hoodie,Clothing,96,4.2,No,Venmo,No
+3879,60.0,Female,,Accessories,42,3.4,No,,No
+3880,26.0,,Skirt,Clothing,63,4.1,No,Cash,No
+3881,42.0,,,Clothing,20,,No,,No
+3882,56.0,Female,Scarf,Accessories,25,2.8,No,PayPal,No
+3883,35.0,,,Clothing,95,2.6,No,,No
+3884,34.0,Female,Hat,Accessories,38,,No,Bank Transfer,No
+3885,47.0,Female,,Footwear,29,4.9,No,Debit Card,No
+3886,49.0,Female,Socks,Clothing,64,,No,,No
+3887,37.0,Female,Jewelry,Accessories,92,3.9,No,Bank Transfer,No
+3888,,Female,Shirt,Clothing,34,2.7,No,PayPal,No
+3889,45.0,,Sneakers,Footwear,69,3.4,No,Bank Transfer,No
+3890,57.0,Female,Dress,Clothing,65,,No,,No
+3891,35.0,Female,Shirt,Clothing,81,,No,Credit Card,No
+3892,36.0,Female,Dress,Clothing,30,4.7,No,Cash,No
+3893,35.0,Female,Jewelry,Accessories,86,,No,Bank Transfer,No
+3894,21.0,Female,,Accessories,64,,No,,No
+3895,66.0,Female,Skirt,Clothing,78,3.9,No,,No
+3896,,Female,Hoodie,Clothing,28,4.2,No,Cash,No
+3897,52.0,,Backpack,Accessories,49,,No,,No
+3898,,Female,Belt,Accessories,33,2.9,No,Credit Card,No
+3899,44.0,Female,Shoes,Footwear,77,3.8,No,,No
+3900,52.0,Female,Handbag,Accessories,81,3.1,No,,No
