@@ -1,6 +1,6 @@
 import streamlit as st
 from llm_handler import get_confidence_scores
-
+import pandas as  pd
 st.title("Data Quality Score App")
 
 # File upload option
@@ -8,9 +8,10 @@ uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
 
 if uploaded_file is not None:
     # Read the uploaded CSV file
+    data =pd.read_csv(uploaded_file)
     csv_content = uploaded_file.getvalue().decode("utf-8")
     st.write("Uploaded CSV:")
-    st.dataframe(csv_content)
+    st.dataframe(data)
 
 
 
