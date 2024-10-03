@@ -26,20 +26,21 @@ if uploaded_file is not None:
     issue_confidence = get_confidence_scores(data_description, csv_content)
 
 
-    # Display dropdown for each column with sliders inside
+    # Display dropdown for each column with dropdown menus for attributes inside
     st.subheader("Set Quality Scores for Each Column")
 
     for column in columns:
         with st.expander(f"### Column: {column}"):
             if column in issue_confidence["column-issues"]:
                 for issue, confidence in issue_confidence["column-issues"][column].items():
-                    slider_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                    st.slider(f"{issue} for {column}", 1, 5, slider_value)
+                    select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                    st.selectbox(f"{issue} for {column}", options=[1, 2, 3, 4, 5], index=select_value-1)
 
             if column in issue_confidence["cell-issues"]:
                 for issue, confidence in issue_confidence["cell-issues"][column].items():
-                    slider_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                    st.slider(f"{issue} for {column}", 1, 5, slider_value)
+                    select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                    st.selectbox(f"{issue} for {column}", options=[1, 2, 3, 4, 5], index=select_value-1)
+
 
 
 
