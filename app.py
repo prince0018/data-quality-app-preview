@@ -32,15 +32,18 @@ if uploaded_file is not None:
     for column in columns:
         with st.expander(f"### Column: {column}"):
             if column in issue_confidence["column-issues"]:
-                for issue, confidence in issue_confidence["column-issues"][column].items():
-                    select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                    st.selectbox(f"{issue} for {column}", options=[1, 2, 3, 4, 5], index=select_value-1)
+                col1, col2 = st.columns(2)  # Create two columns for horizontal layout
 
-            if column in issue_confidence["cell-issues"]:
-                for issue, confidence in issue_confidence["cell-issues"][column].items():
-                    select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
-                    st.selectbox(f"{issue} for {column}", options=[1, 2, 3, 4, 5], index=select_value-1)
+                with col1:
+                    for issue, confidence in issue_confidence["column-issues"][column].items():
+                        short_issue_name = issue.split(" ")[0]  # Use the first word (short name)
+                        select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                        st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
 
-
+                with col2:
+                    for issue, confidence in issue_confidence["cell-issues"][column].items():
+                        short_issue_name = issue.split(" ")[0]
+                        select_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                        st.selectbox(f"{short_issue_name}", options=[1, 2, 3, 4, 5], index=select_value-1)
 
 
