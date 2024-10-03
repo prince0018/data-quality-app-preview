@@ -10,7 +10,11 @@ if uploaded_file is not None:
     # Read the uploaded CSV file
     csv_content = uploaded_file.getvalue().decode("utf-8")
     st.write("Uploaded CSV:")
-    st.text(csv_content)
+    st.dataframe(csv_content)
+
+
+
+
 
     # Extract column names
     columns = csv_content.splitlines()[0].split(',')
