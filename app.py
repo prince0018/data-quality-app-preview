@@ -1,29 +1,36 @@
 import streamlit as st
-import pandas as pd
- 
-# Set the title for the second page
-st.title("Upload Your Dataset")
- 
-# File uploader
-uploaded_file = st.file_uploader("Choose a CSV file", type=["csv"])
- 
-# Check if a file is uploaded
+from llm_handler import get_confidence_scores
+
+st.title("Data Quality Score App")
+
+# File upload option
+uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
+
 if uploaded_file is not None:
-    # Read the CSV file
-    data = pd.read_csv(uploaded_file)
-   
-    # Display the contents of the dataframe
-    st.write("Here is the content of your dataset:")
-    st.dataframe(data)  # Display the dataframe in an interactive table
-   
-    # Create sliders for each attribute of each column
-    st.write("Rate the attributes of each column (1 to 5):")
-    attributes = ["Completeness", "Duplication", "Consistency", "Outliers"]
-   
-    for column in data.columns:
-        st.write(f"**Column: {column}**")
-        for attribute in attributes:
-            slider_value = st.slider(f"{attribute} for {column}", 1, 5, 3)  # Default value is 3
-            st.write(f"{attribute} rating for '{column}': {slider_value}")
-        st.write("---")
- 
+    # Read the uploaded CSV file
+    csv_content = uploaded_file.getvalue().decode("utf-8")
+    st.write("Uploaded CSV:")
+    st.text(csv_content)
+
+    # Extract column names
+    columns = csv_content.splitlines()[0].split(',')
+    st.write("Detected columns:", columns)
+
+    # Get confidence scores from the LLM
+    data_description = "Your data description goes here"
+    issue_confidence = get_confidence_scores(data_description, csv_content)
+
+    # Display sliders for each column and issue
+    st.subheader("Set Quality Scores for Each Column")
+    for column in columns:
+        st.write(f"### Column: {column}")
+
+        if column in issue_confidence["column-issues"]:
+            for issue, confidence in issue_confidence["column-issues"][column].items():
+                slider_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                st.slider(f"{issue} for {column}", 1, 5, slider_value)
+
+        if column in issue_confidence["cell-issues"]:
+            for issue, confidence in issue_confidence["cell-issues"][column].items():
+                slider_value = int(round(confidence * 4 + 1))  # Scale confidence from 0-1 to 1-5
+                st.slider(f"{issue} for {column}", 1, 5, slider_value)
